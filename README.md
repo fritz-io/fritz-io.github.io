@@ -1,7 +1,7 @@
-# Brendan Keith's website
+Marvin Fritz
 
 This is intended to be my personal webpage. 
-Please feel free to [browse the website](https://brendankeith.github.io/)!
+Please feel free to [browse the website](https://fritz-io.github.io/)!
 
 ---
 
