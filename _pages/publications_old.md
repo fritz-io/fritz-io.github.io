@@ -2,7 +2,7 @@
 title: "Publications"
 layout: single
 sitemap: true
-permalink: /publications/
+permalink: /publications_old/
 author_profile: true
 toc: true
 toc_label: "Category"
