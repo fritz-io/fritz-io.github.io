@@ -9,11 +9,11 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "contrast", "dark", "d
 
 # Site Settings
 locale                   : "en"
-title                    : "Brendan Keith"
+title                    : "Marvin Fritz"
 title_separator          : "-"
-name                     : "Brendan Keith"
-description              : "Brendan Keith's personal website"
-url                      : "https://brendankeith.github.io" # should not end with /
+name                     : "Marvin Fritz"
+description              : "Marvin Fritz personal website"
+url                      : "https://fritz-io.github.io" # should not end with /
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -79,11 +79,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Brendan Keith"
+  name             : "Marvin Fritz"
   avatar           : "/assets/images/profile_square_new.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computational Science, Numerical Analysis, & Scientific Machine Learning"
-  location         : "Livermore, California"
-  email            : "brendan_keith@brown.edu"
+  bio              : "Analysis of PDEs, Numerical Analysis, & Computational Science"
+  location         : "Munich, Germany"
+  email            : "marvin.fritz@tum.de"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "brendankeith" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : #"brendankeith" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
