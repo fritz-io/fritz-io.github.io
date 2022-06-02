@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Marvin Fritz"
-  avatar           : "/assets/images/profile_square_new.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/IMG_3941_3.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Analysis of PDEs, Numerical Analysis, & Computational Science"
   location         : "Munich, Germany"
   email            : "marvin.fritz@tum.de"
