@@ -1,0 +1,10 @@
+# main links links
+main:
+  - title: "Home" 
+    url: /
+  - title: "Research"
+    url: /publications/
+  - title: "Besides Math"
+    url: /personal/
+  - title: "CV"
+    url: /CV/
