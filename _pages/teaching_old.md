@@ -2,7 +2,7 @@
 title: "Teaching"
 layout: archive
 sitemap: true
-permalink: /teaching/
+permalink: /teaching_old/
 author_profile: true
 ---
 
