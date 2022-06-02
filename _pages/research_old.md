@@ -2,7 +2,7 @@
 title: "Finite Element Research"
 layout: single
 sitemap: true
-permalink: /research/
+permalink: /research_old/
 author_profile: true
 toc: true
 toc_label: "Topic"
