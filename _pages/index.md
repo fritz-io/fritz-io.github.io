@@ -8,7 +8,7 @@ author_profile: true
 
 <img src="/assets/images/IMG_3941_3.png" width="380px" alt="Marvin Fritz" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
 <p style="text-align: justify">
-I am a postdoc at the Chair of Numerical Mathematics at the Technical University of Munich, where I am supervised by <a href="http://www.professoren.tum.de/en/wohlmuth-barbara/">Prof. Dr. Barbara Wohlmuth</a>.
+I am a postdoc at the <a href="https://www-m2.ma.tum.de/bin/view/Allgemeines/">Chair for Numerical Mathematics</a> at the Technical University of Munich.
 <!-- Previously, I was a postdoc at the Institute for Computational and Experimental Research in Mathematics at Brown University.
 Before that, I was a postdoc at the Chair of Numerical Analysis at the Technical University of Munich, where I was supervised by <a href="http://www.professoren.tum.de/en/wohlmuth-barbara/">Barbara Wohlmuth</a>.
 Before that, I attended the <a href="https://www.oden.utexas.edu/">Oden Institute</a>, at the University of Texas at Austin, where I earned my Ph.D. under the supervision of <a href="https://users.oden.utexas.edu/~leszek/">Leszek Demkowicz</a>. -->
