@@ -21,9 +21,7 @@ Indeed, they <em>must</em> be used in order to make informed decisions and reach
 By employing mathematical tools from functional analysis, topology, differential geometry, and numerical linear algebra, the intent of my research is to develop the most accurate and practical numerical methods for modern scientific and engineering purposes.
 </p> -->
 
-<p style="text-align: justify">
-My research interests are:
-</p>
+### My research interests are:
 - Well-posedness of nonlinear and nonlocal evolutionary PDEs.
 - Long-time behavior and regularity of solutions to PDEs.
 - Numerical analysis of PDEs.
