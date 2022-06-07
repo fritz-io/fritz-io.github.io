@@ -12,19 +12,6 @@ toc_icon: "gear"
 Additional links to my preprints can be found on [arXiv.org](https://arxiv.org/a/fritz_m_1.html) and [ResearchGate](https://www.researchgate.net/profile/Marvin-Fritz).
 My published work can also be tracked on [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57203966182) and [Google Scholar](https://scholar.google.com/citations?user=UXscgtgAAAAJ&hl=en).
 
-
-<!-- ### 2020
-
-<article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-    **A priori error analysis of high-order LL\* (FOSLL\*) finite element methods**  
-    B. Keith
-    arXiv:2012.09594 [math.NA]
-
-    [preprint](https://arxiv.org/abs/2012.09594)
-</article> -->
-
-
-
 ## Preprints
 
 | <img src="/assets/images/equivalence.png" width="200" height="220" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 10px;" /> **Equivalence between a time-fractional and an integer-order gradient flow: The memory effect reflected in the energy** <br> _with Ustim Khristenko and Barbara Wohlmuth_ <br> arXiv:2106.10985 [math.AP] [[preprint](https://arxiv.org/abs/2106.10985)] |
@@ -44,7 +31,6 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 ## Other
 
 | <img src="/assets/images/phd.png" width="200" height="220" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 10px;padding-right: 20px;" /> **Well-posedness of nonlocal and mixed-dimensional phase-field models applied to tumor growth** <br> PhD Dissertation, Technical University of Munich (2022) [[link](http://mediatum.ub.tum.de/?id=1633726)] |
-
-| <img src="/assets/images/navier.png" width="200" height="220" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 10px;" /> **The recent existence proofs of the Navier--Stokes equations** <br> Master's Thesis, Technical University of Munich (2016) [[link](http://mediatum.ub.tum.de/?id=1633726)] |
+| <img src="/assets/images/navier.png" width="200" height="220" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 10px;" /> **The recent existence proofs of the Navier-Stokes equations** <br> Master's Thesis, Technical University of Munich (2016) [[link](http://mediatum.ub.tum.de/?id=1633726)] |
 <!--| <img src="/assets/images/ResearchLCS.png" width="200" height="220" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 10px;" /> **Lagrangian coherent structures in three-dimensional steady flows** <br> Bachelor's Thesis, Technical University of Munich (2014) [[link](https://escholarship.mcgill.ca/concern/theses/xk81jq05j)] |
 -->
