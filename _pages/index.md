@@ -22,7 +22,11 @@ By employing mathematical tools from functional analysis, topology, differential
 </p> -->
 
 <p style="text-align: justify">
-My work typically focuses on analytical methods for partial differential equations (PDEs) with all kind of additions, e.g., nonlocal, nonlinear, mixed-dimensional. But I also work on computational science, tumor modeling and nonlinear acoustics.
+My research interests are:
+   * Well-posedness of nonlinear and nonlocal evolutionary PDEs
+   * Long-time behavior and regularity of solutions to PDEs
+   * Numerical analysis of PDEs
+   * Applications of PDEs (e.g. in fluid dynamics, nonlinear acoustics, and tumor growth modeling) 
 Please reach out to me if you are interested in any of the <a href="/publications/">research</a> you find on this page!
 </p>
 
