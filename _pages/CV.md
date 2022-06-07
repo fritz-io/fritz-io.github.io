@@ -4,7 +4,7 @@ title: ""
 layout: archive
 sitemap: true
 author_profile: true
-permalink: /CV/
+permalink: /curriculum/
 ---
 
 <object data="/assets/documents/CV.pdf" type="application/pdf" width="700px" height="700px">
