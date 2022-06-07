@@ -2,9 +2,7 @@
 main:
   - title: "Home" 
     url: /
-  - title: "Research"
+  - title: "Publications"
     url: /publications/
-  - title: "Besides Math"
-    url: /personal/
-  - title: "CV"
-    url: /CV/
+  - title: "Curriculum Vitae"
+    url: /curriculum/

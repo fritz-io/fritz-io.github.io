@@ -1,17 +1,6 @@
 Marvin Fritz
 
-This is intended to be my personal webpage. 
-Please feel free to [browse the website](https://fritz-io.github.io/)!
-
----
-
-## Credits
-
-Federico Fuentes greatly assisted me in creating this website and I owe him much gratitude for it. I literally copied [his webpage](https://federicofuentes.github.io/) and then replaced his personal information with mine.
-
-Additional credits to the original creator of the website template [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) and to the creator of [Academicons](http://jpswalsh.github.io/academicons/). Thanks!
-
-Details related to the template are found below.
+[Webpage](https://fritz-io.github.io/)!
 
 ### Creator
 
