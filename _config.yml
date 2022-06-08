@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Marvin Fritz"
+  name             : "Dr. Marvin Fritz"
   avatar           : "/assets/images/IMG_3941_3_sq.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Analysis of PDEs, Numerical Analysis, & Computational Science"
   location         : "Munich, Germany"
