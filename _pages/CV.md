@@ -1,10 +1,10 @@
 ---
-title: "curriculum"
-# title: "Curriculum vitae"
+title: "CV"
+# title: "CV"
 layout: archive
 sitemap: true
 author_profile: true
-permalink: /curriculum/
+permalink: /cv/
 ---
 
 <object data="/assets/documents/CV.pdf" type="application/pdf" width="700px" height="700px">
