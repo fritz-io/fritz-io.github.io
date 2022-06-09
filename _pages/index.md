@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Home"
 layout: archive
 sitemap: true
 permalink: /
@@ -22,7 +22,7 @@ By employing mathematical tools from functional analysis, topology, differential
 </p> -->
 
 ### My research interests are:
-- Well-posedness of nonlinear and nonlocal evolutionary PDEs.
+- Well-posedness of nonlinear and nonlocal/fractional evolutionary PDEs.
 - Long-time behavior and regularity of solutions to PDEs.
 - Numerical analysis of PDEs.
 - Applications of PDEs, e.g., in fluid dynamics, nonlinear acoustics, and tumor growth modeling.
