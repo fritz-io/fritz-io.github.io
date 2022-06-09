@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "curriculum"
 # title: "Curriculum vitae"
 layout: archive
 sitemap: true
