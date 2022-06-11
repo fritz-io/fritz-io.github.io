@@ -4,22 +4,17 @@
 
 .page__footer {
   @include clearfix;
-  float: left;
+  // float: left;
+  text-align: center;
   margin-left: 0;
   margin-right: 0;
   width: 100%;
-  clear: both;
-  /* sticky footer fix start */
-  position: absolute;
-  bottom: 0;
-  height: auto;
-  /* sticky footer fix end */
   margin-top: 3em;
   color: $muted-text-color;
   -webkit-animation: $intro-transition;
-          animation: $intro-transition;
+  animation: $intro-transition;
   -webkit-animation-delay: 0.45s;
-          animation-delay: 0.45s;
+  animation-delay: 0.45s;
   background-color: $footer-background-color;
 
   footer {
@@ -44,7 +39,10 @@
     }
   }
 
-  .fa {
+  .fas,
+  .fab,
+  .far,
+  .fal {
     color: $muted-text-color;
   }
 }
@@ -55,7 +53,6 @@
 }
 
 .page__footer-follow {
-
   ul {
     margin: 0;
     padding: 0;
@@ -79,5 +76,11 @@
   a {
     padding-right: 10px;
     font-weight: bold;
+  }
+
+  .social-icons {
+    a {
+      white-space: nowrap;
+    }
   }
 }

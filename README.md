@@ -1,4 +1,4 @@
-Marvin Fritz
+This is the personal webpage of Marvin Fritz.
 
 [Webpage](https://fritz-io.github.io/)!
 
