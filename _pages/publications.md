@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-layout: single
+layout: archive
 sitemap: true
 permalink: /publications/
 author_profile: true
