@@ -7,6 +7,7 @@ author_profile: true
 ---
 
 <img src="/assets/images/avatar_big.png" width="380px" alt="Marvin Fritz" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
+
 <p style="text-align: justify">
 I am a postdoc at the <a href="https://www-m2.ma.tum.de/bin/view/Allgemeines/">Chair for Numerical Mathematics</a> at the Technical University of Munich.
 <!-- Previously, I was a postdoc at the Institute for Computational and Experimental Research in Mathematics at Brown University.
