@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "CuV"
+title: "CV"
 sitemap: false
 permalink: /cv/
 author_profile: TRUE
