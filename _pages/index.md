@@ -4,7 +4,7 @@ layout: posts
 sitemap: true
 permalink: /
 author_profile: true
-wide: true
+classes: wide
 ---
 
 <img src="/assets/images/avatar_big.png" width="380px" alt="Marvin Fritz" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
