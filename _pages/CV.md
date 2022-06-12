@@ -7,7 +7,7 @@ author_profile: true
 classes: wide
 ---
 
-<embed src="/assets/documents/CV.pdf" type="application/pdf" />
+<embed src="https://github.com/fritz-io/fritz-io.github.io/blob/main/assets/CV.pdf" type="application/pdf" />
 
 [Download my CV](/assets/CV.pdf)
 
