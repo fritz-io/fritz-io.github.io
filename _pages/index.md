@@ -1,6 +1,6 @@
 ---
 title: "Home"
-layout: single
+layout: posts
 sitemap: true
 permalink: /
 author_profile: true
