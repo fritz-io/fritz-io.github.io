@@ -1,9 +1,10 @@
 ---
-layout: single
+layout: archive
 title: "CV"
-sitemap: false
+sitemap: true
 permalink: /cv/
-author_profile: TRUE
+author_profile: true
+classes: wide
 ---
 
 <embed src="/assets/documents/CV.pdf" type="application/pdf" />
