@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: posts
-sitemap: true
+sitemap: false
 permalink: /
 author_profile: true
 ---
