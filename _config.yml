@@ -138,6 +138,12 @@ author:
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: https://www.researchgate.net/profile/Marvin-Fritz
+    - label: "arXiv"
+      icon: "fab fa-fw fa-arxiv"
+      url: https://arxiv.org/a/fritz_m_1.html
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: https://scholar.google.com/citations?user=UXscgtgAAAAJ&hl=en
 
 # Site Footer
 footer:
