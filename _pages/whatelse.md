@@ -10,6 +10,11 @@ toc_label: "Category"
 toc_icon: "gear"
 ---
 
+## Curriculum Vitae
+
+[Download my CV](/assets/CV.pdf)
+
+
 ## External Links
 
 ## Quotes
