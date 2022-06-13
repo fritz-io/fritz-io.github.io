@@ -142,7 +142,7 @@ author:
       icon: "fab fa-fw fa-arxiv"
       url: https://arxiv.org/a/fritz_m_1.html
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google-scholar"
+      icon: "fab fa-fw fa-scholar"
       url: https://scholar.google.com/citations?user=UXscgtgAAAAJ&hl=en
 
 # Site Footer
