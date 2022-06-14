@@ -1,6 +1,6 @@
 ---
 title: "What else?"
-layout: archive
+layout: single
 sitemap: true
 permalink: /whatelse/
 author_profile: true
