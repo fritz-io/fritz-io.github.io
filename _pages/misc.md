@@ -31,3 +31,8 @@ intuition of physics, biology, and other sciences." <br /> (Terence Tao)
 
 ## Books that I like
 <img src="/assets/images/boyer.jpeg" width="150" height="220" alt="" align="left"  />    
+<img src="/assets/images/roubicek.jpeg" width="150" height="220" alt="" align="left"  />    
+<img src="/assets/images/alt.jpeg" width="150" height="220" alt="" align="left"  />    
+<img src="/assets/images/pruss.jpeg" width="150" height="220" alt="" align="left"  />    
+<img src="/assets/images/lord.jpeg" width="150" height="220" alt="" align="left"  />    
+
