@@ -1,5 +1,5 @@
 ---
-title: "Misc"
+title: "Miscellaneous"
 layout: archive
 sitemap: true
 permalink: /misc/
