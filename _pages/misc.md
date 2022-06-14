@@ -21,8 +21,7 @@ Some other stuff that you might find interesting.
 
 ## Quotes that I like
 - "As long as a branch of science offers an abundance of problems, so long is
-it alive." 
-(David Hilbert)
+it alive."  <br /> (David Hilbert)
 - "The greatest challenge to any thinker is stating the problem in a way that
 will allow a solution." (Bertrand Russell)
 - "Everything should be made as simple as possible, but not simpler." (Albert Einstein)
