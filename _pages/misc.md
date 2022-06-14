@@ -30,4 +30,4 @@ intuition of physics, biology, and other sciences." <br /> (Terence Tao)
 - "I have no satisfaction in formulas unless I feel their numerical magnitude." <br /> (Lord Kelvin)
 
 ## Books that I like
-| <img src="/assets/images/boyer.jpeg" width="200" height="220" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 10px;" />   \( a^2+b^2\) \[x^2+y^2\] |
+| <img src="/assets/images/boyer.jpeg" width="150" height="220" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 10px;" />    {% raw %} \( a^2+b^2\) \[x^2+y^2\] {% endraw %}|
