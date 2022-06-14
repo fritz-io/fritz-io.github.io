@@ -1,9 +1,8 @@
 ---
 title: "What else?"
-layout: posts
+layout: single
 sitemap: true
 permalink: /whatelse/
-author_profile: true
 toc: true
 toc_label: "Category"
 toc_icon: "cog"
