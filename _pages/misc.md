@@ -1,11 +1,13 @@
 ---
-title: "What else?"
-layout: single
+title: "Misc"
+layout: archive
 sitemap: true
-permalink: /whatelse/
+permalink: /misc/
+classes: wide
+author_profile: true
 toc: true
 toc_label: "Category"
-toc_icon: "cog"
+toc_icon: "gear"
 ---
 
 # Contents
