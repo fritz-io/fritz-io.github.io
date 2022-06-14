@@ -30,3 +30,6 @@ intuition of physics, biology, and other sciences." <br /> (Terence Tao)
 - "I have no satisfaction in formulas unless I feel their numerical magnitude." <br /> (Lord Kelvin)
 
 ## Books that I like
+ {% raw %}
+  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
+ {% endraw %}
