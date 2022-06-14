@@ -119,7 +119,7 @@ author:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/fritz-io
+      #url: https://github.com/fritz-io
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -137,13 +137,13 @@ author:
       #url: 
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
-      url: https://www.researchgate.net/profile/Marvin-Fritz
+      #url: https://www.researchgate.net/profile/Marvin-Fritz
     - label: "arXiv"
       icon: "fab fa-fw fa-arxiv"
-      url: https://arxiv.org/a/fritz_m_1.html
+      #url: https://arxiv.org/a/fritz_m_1.html
     - label: "Google Scholar"
       icon: "fab fa-fw fa-scholar"
-      url: https://scholar.google.com/citations?user=UXscgtgAAAAJ&hl=en
+      #url: https://scholar.google.com/citations?user=UXscgtgAAAAJ&hl=en
 
 # Site Footer
 footer:
