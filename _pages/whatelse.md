@@ -6,14 +6,10 @@ permalink: /whatelse/
 author_profile: true
 toc: true
 toc_label: "Category"
-toc_icon: "gear"
+toc_icon: "cog"
 ---
 
 # Contents
-{:.no_toc}
-
-* Will be replaced with the ToC, excluding the "Contents" header
-{:toc}
 
 # H1 header
 
