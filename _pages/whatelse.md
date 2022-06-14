@@ -4,11 +4,20 @@ layout: archive
 sitemap: true
 permalink: /whatelse/
 author_profile: true
-classes: wide
 toc: true
 toc_label: "Category"
 toc_icon: "gear"
 ---
+
+# Contents
+{:.no_toc}
+
+* Will be replaced with the ToC, excluding the "Contents" header
+{:toc}
+
+# H1 header
+
+## H2 header
 
 ## Curriculum Vitae
 
