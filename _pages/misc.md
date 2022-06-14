@@ -15,7 +15,7 @@ toc_icon: "gear"
 
 
 ## (Useful) links
-- [Research seminars](https://researchseminars.org/)
+- [Overview of upcoming online math talks](https://researchseminars.org/)
 
 ## Quotes that I like
 - "As long as a branch of science offers an abundance of problems, so long is
