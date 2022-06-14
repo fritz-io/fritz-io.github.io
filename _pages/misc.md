@@ -18,6 +18,8 @@ Some other stuff that you might find interesting.
 
 ## (Useful) links
 - [Overview of upcoming online math talks](https://researchseminars.org/)
+- [Math conference calendar by AMS](https://www.ams.org/meetings/calendar/mathcal)
+- [Math conference calendar by EMS](https://euromathsoc.org/events)
 
 ## Quotes that I like
 - "As long as a branch of science offers an abundance of problems, so long is
