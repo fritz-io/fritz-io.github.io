@@ -27,7 +27,7 @@ By employing mathematical tools from functional analysis, topology, differential
 - Well-posedness of nonlinear and nonlocal/fractional evolutionary PDEs.
 - Long-time behavior and regularity of solutions to PDEs.
 - Numerical analysis of PDEs.
-- Applications of PDEs, e.g., in fluid dynamics, nonlinear acoustics, and tumor growth modeling.
+- Applications of PDEs, e.g., in nonlinear acoustics, fluid dynamics, and tumor growth modeling (refer to the images from top to bottom).
 
 <img src="/assets/images/wordle.png" width="100%" height="auto"/>
 
