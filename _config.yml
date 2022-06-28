@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "Dr. Marvin Fritz"
   avatar           : "/assets/images/avatar.png"
-  bio              : "Analysis of PDEs, Numerical Analysis, & Computational Science."
+  bio              : "Analysis of PDEs, Numerical Analysis & Computational Science"
   location         : "Munich, Germany"
   email            : "marvin.fritz@tum.de"
   links:
