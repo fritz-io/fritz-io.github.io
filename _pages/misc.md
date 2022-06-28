@@ -32,7 +32,7 @@ intuition of physics, biology, and other sciences." <br /> -- Terence Tao
 - "I have no satisfaction in formulas unless I feel their numerical magnitude." <br /> – Lord Kelvin
 
 ## Books that I like
-<img src="/assets/images/boyer.jpeg" width="150" height="220"/><img src="/assets/images/roubicek.jpg" width="150" height="220"/><img src="/assets/images/alt.jpeg" width="150" height="220"/><img src="/assets/images/lord.jpeg" width="150" height="220"/><img src="/assets/images/showalter.png" width="150" height="220"/>    
+<img src="/assets/images/boyer.jpeg" width="19%" height="auto"/><img src="/assets/images/roubicek.jpg" width="19%" height="auto"/><img src="/assets/images/alt.jpeg" width="19%" height="auto"/><img src="/assets/images/lord.jpeg" width="19%" height="auto"/><img src="/assets/images/showalter.png" width="19%" height="auto"/>    
 
 
 
