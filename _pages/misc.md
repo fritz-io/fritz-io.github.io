@@ -20,6 +20,9 @@ Some other stuff that you might find interesting.
 - [Overview of upcoming online math talks](https://researchseminars.org/)
 - [Math conference calendar by AMS](https://www.ams.org/meetings/calendar/mathcal)
 - [Math conference calendar by EMS](https://euromathsoc.org/events)
+- [Online BibTeX tidy](https://flamingtempura.github.io/bibtex-tidy/)
+- [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/)
+- [Writespace to make your LaTeX formula a PNG](https://www.writespace.app/)
 
 ## Quotes that I like
 - "As long as a branch of science offers an abundance of problems, so long is
