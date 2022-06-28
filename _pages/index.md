@@ -7,7 +7,7 @@ author_profile: true
 classes: wide
 ---
 
-<img src="/assets/images/avatar_big.png" width="380px" alt="Marvin Fritz" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
+<!-- <img src="/assets/images/avatar_big.png" width="380px" alt="Marvin Fritz" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />-->
 
 <p style="text-align: justify">
 I am a postdoc at the <a href="https://www-m2.ma.tum.de/bin/view/Allgemeines/">Chair for Numerical Mathematics</a> at the Technical University of Munich.
@@ -28,6 +28,9 @@ By employing mathematical tools from functional analysis, topology, differential
 - Long-time behavior and regularity of solutions to PDEs.
 - Numerical analysis of PDEs.
 - Applications of PDEs, e.g., in fluid dynamics, nonlinear acoustics, and tumor growth modeling.
+
+<img src="/assets/images/wordle.png" width="100%" height="auto"/>
+
 
 
 <!-- <br> <span style="color:red">**Research Highlight:**</span>
