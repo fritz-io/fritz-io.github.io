@@ -29,7 +29,7 @@ By employing mathematical tools from functional analysis, topology, differential
 - Numerical analysis of PDEs.
 - Applications of PDEs, e.g., in nonlinear acoustics, fluid dynamics, and tumor growth modeling (corresponding to the images on the right hand side from top to bottom, respectively).
 
-<img src="/assets/images/wordle.png" width="100%" height="auto"/>
+
 
 
 
