@@ -7,7 +7,7 @@ author_profile: true
 classes: wide
 ---
 
-<img src="/assets/images/research.png" width="380px" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" /> 
+<img src="/assets/images/research.png" width="420px" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" /> 
 
 <p style="text-align: justify">
 I am a postdoctoral researcher at the <a href="https://www-m2.ma.tum.de/bin/view/Allgemeines/">Chair for Numerical Mathematics</a> at the <a href="https://www.tum.de/">Technical University of Munich</a>.
