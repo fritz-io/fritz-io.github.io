@@ -7,8 +7,7 @@ author_profile: true
 classes: wide
 ---
 
-<img src="/assets/images/blackstock.png" width="380px" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
-
+<img src="/assets/images/blackstock.png" width="380px" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" /> <br>
 <img src="/assets/images/navier.png" width="380px" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
 
 <p style="text-align: justify">
