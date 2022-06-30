@@ -1,12 +1,3 @@
-<style type="text/css">
-    .image-left {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      float: right;
-    }
-    </style>
-
 ---
 title: "Publications"
 layout: archive
@@ -18,6 +9,15 @@ toc: true
 toc_label: "Category"
 toc_icon: "gear"
 ---
+
+<style type="text/css">
+    .image-left {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      float: right;
+    }
+    </style>
 
 Additional links to my preprints can be found on [arXiv.org](https://arxiv.org/a/fritz_m_1.html) and [ResearchGate](https://www.researchgate.net/profile/Marvin-Fritz).
 My published work can also be tracked on [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57203966182), [Google Scholar](https://scholar.google.com/citations?user=UXscgtgAAAAJ&hl=en), and [ORCID](https://orcid.org/0000-0002-8360-7371).
