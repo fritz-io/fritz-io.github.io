@@ -10,9 +10,9 @@ toc_label: "Category"
 toc_icon: "gear"
 ---
 
-## Full SV
+## Complete CV
 
-[You can download my full CV here](/assets/CV.pdf)
+[You can download my CV here](/assets/CV.pdf)
 
 ## Short CV
 
