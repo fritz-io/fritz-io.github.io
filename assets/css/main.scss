@@ -22,3 +22,29 @@ html {
       font-size: 18px; // change to whatever
     }
   }
+
+@media {
+
+.author__avatar {
+  display: table-cell;
+  vertical-align: top;
+  width: 80px;
+  height: 80px;
+
+  @include breakpoint($large) {
+    display: block;
+    width: auto;
+    height: auto;
+  }
+
+  img {
+    max-width: 110px;
+    border-radius: 50%;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
+  }
+}
+}
