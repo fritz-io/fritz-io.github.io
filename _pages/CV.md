@@ -1,20 +1,16 @@
 ---
+title: "Curriculum Vitae"
 layout: archive
-title: "CV"
 sitemap: true
 permalink: /cv/
-author_profile: true
 classes: wide
+author_profile: true
+toc: true
+toc_label: "Category"
+toc_icon: "gear"
 ---
 
-[Download my CV](/assets/CV.pdf)
-
-<div>
- <object data="http://www.marvinfritz.de/assets/CV.pdf" type="application/pdf" width="300" height="200">
-   <embed src="http://www.marvinfritz.de/assets/CV.pdf" type="application/pdf">
- </object>
-</div>
-
-
+## Curriculum Vitae
+- [Download my full CV here](/assets/CV.pdf)
 
 
