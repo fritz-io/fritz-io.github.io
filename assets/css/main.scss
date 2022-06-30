@@ -5,23 +5,6 @@
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; 
-
-html {
-    font-size: 12px; // change to whatever
-  
-    @include breakpoint($medium) {
-      font-size: 14px; // change to whatever
-    }
-  
-    @include breakpoint($large) {
-      font-size: 16px; // change to whatever
-    }
-  
-    @include breakpoint($x-large) {
-      font-size: 18px; // change to whatever
-    }
-  }
 
 @media {
 
@@ -48,3 +31,24 @@ html {
   }
 }
 }
+
+
+@import "minimal-mistakes"; 
+
+html {
+    font-size: 12px; // change to whatever
+  
+    @include breakpoint($medium) {
+      font-size: 14px; // change to whatever
+    }
+  
+    @include breakpoint($large) {
+      font-size: 16px; // change to whatever
+    }
+  
+    @include breakpoint($x-large) {
+      font-size: 18px; // change to whatever
+    }
+  }
+
+
