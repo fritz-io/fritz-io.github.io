@@ -12,10 +12,6 @@ toc_icon: "gear"
 
 Some other stuff that you might find interesting.
 
-## Curriculum Vitae
-- [Download my CV](/assets/CV.pdf)
-
-
 ## (Useful) links
 - [Overview of upcoming online math talks](https://researchseminars.org/)
 - [Math conference calendar by AMS](https://www.ams.org/meetings/calendar/mathcal)
