@@ -26,8 +26,8 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 
 ## Peer-Reviewed Scientific Articles
 
-<img src="/assets/images/1d0d3d.png" width="200" height="auto" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 12px;padding-right: 20px;" /> 
-<ol start="9">
+<img src="/assets/images/1d0d3d.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<ol start="8">
 <li> <strong> A 1D-0D-3D coupled model for simulating blood flow and transport processes in breast tissue</strong>  <br> 
   <em>with Tobias Köppl, J. Tinsley Oden, Andreas Wagner, Barbara Wohlmuth and Chengyue Wu</em> <br> 
     International Journal for Numerical Methods in Biomedical Engineering (2022) <br> 
@@ -36,8 +36,8 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/timefractional.png" width="200" height="auto" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 12px;" /> 
-<ol start="9">
+<img src="/assets/images/timefractional.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<ol start="7">
 <li> <strong> Time-fractional Cahn-Hilliard equation: Well-posedness, degeneracy, and numerical solutions</strong>  <br> 
   <em>with Mabel L. Rajendran and Barbara Wohlmuth</em> <br> 
     Computers & Mathematics with Applications (2020) <br>
@@ -46,8 +46,8 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/subdiffusive.png" width="200" height="auto" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 12px;padding-right: 20px;" /> 
-<ol start="9">
+<img src="/assets/images/subdiffusive.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<ol start="6">
 <li> <strong> On a subdiffusive tumour growth model with fractional time derivative</strong>  <br> 
   <em>with Christina Kuttler, Mabel L. Rajendran, Laura Scarabosio and Barbara Wohlmuth</em> <br> 
     IMA Journal of Applied Mathematics (2021) <br> 
@@ -56,8 +56,8 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/modeling.png" width="200" height="auto" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 12px;" /> 
-<ol start="9">
+<img src="/assets/images/modeling.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<ol start="5">
 <li> <strong> Modeling and simulation of vascular tumors embedded in evolving capillary networks</strong>  <br> 
   <em>with Prashant K. Jha, Tobias Köppl, J. Tinsley Oden, Andreas Wagner and Barbara Wohlmuth</em> <br> 
     Computer Methods in Applied Mechanics and Engineering (2021) <br>
@@ -66,8 +66,8 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/3d1d_3.png" width="200" height="auto" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 12px;padding-right: 20px;" /> 
-<ol start="9">
+<img src="/assets/images/3d1d_3.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<ol start="4">
 <li> <strong> Analysis of a new multispecies tumor growth model coupling 3D phase-fields with a 1D vascular network</strong>  <br> 
   <em>with Prashant K. Jha, Tobias Köppl, J. Tinsley Oden, Andreas Wagner, Barbara Wohlmuth</em> <br>
     Nonlinear Analysis: Real World Applications (2020) <br>
@@ -76,8 +76,8 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/ecm.png" width="200" height="auto" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 12px;" /> 
-<ol start="9">
+<img src="/assets/images/ecm.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<ol start="3">
 <li> <strong> Local and nonlocal phase-field models of tumor growth and invasion due to ECM degradation</strong>  <br> 
   <em>with Ernesto Lima, Vanja Nikolić, J. Tinsley Oden and Barbara Wohlmuth</em> <br> 
   Mathematical Models and Methods in Applied Sciences (2019)<br>
@@ -86,8 +86,8 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/dfb.png" width="200" height="auto" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 12px;padding-right: 20px;" /> 
-<ol start="9">
+<img src="/assets/images/dfb.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<ol start="2">
 <li> <strong> On the unsteady Darcy-Forchheimer-Brinkman equation in local and nonlocal tumor growth models</strong>  <br> 
   <em>with Ernesto Lima, J. Tinsley Oden and Barbara Wohlmuth</em> <br> 
   Mathematical Models and Methods in Applied Sciences (2019)<br>
@@ -96,8 +96,8 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/blackstock.png" width="200" height="auto" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 12px;" /> 
-<ol start="9">
+<img src="/assets/images/blackstock.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<ol start="1">
 <li> <strong> Well-posedness and numerical treatment of the Blackstock equation in nonlinear acoustics</strong>  <br> 
   <em>with Vanja Nikolić and Barbara Wohlmuth</em> 
   <br> Mathematical Models and Methods in Applied Sciences (2018) <br>
@@ -106,20 +106,20 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 
 ## Theses
 
-<img src="/assets/images/phd.png" width="200" height="auto" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 12px;padding-right: 20px;" /> 
+<img src="/assets/images/phd.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 **Well-posedness of nonlocal and mixed-dimensional phase-field models applied to tumor growth** <br> 
 PhD Dissertation, Technical University of Munich (2022) <br> 
 Links: [[MediaTUM](http://mediatum.ub.tum.de/?id=1633726)] 
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/navier.png" width="200" height="auto" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 12px;padding-right: 20px;" /> 
+<img src="/assets/images/navier.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 **The recent existence proofs of the Navier-Stokes equations** <br> 
 Master's Thesis, Technical University of Munich (2017)  
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/vortex.png" width="200" height="auto" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 12px;padding-right: 20px;" /> 
+<img src="/assets/images/vortex.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 **On the stability of relative equilibria in vortex dynamics** <br> 
 Bachelor's Thesis, Technical University of Munich (2015)  
 <br clear="left"/>
