@@ -47,12 +47,12 @@ arXiv:2106.10985 [math.AP] [[preprint](https://arxiv.org/abs/2106.10985)]
 <hr />
 
 <img src="/assets/images/3d1d_3.png" width="200" height="auto" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 12px;padding-right: 20px;" /> 
-4. **Analysis of a new multispecies tumor growth model coupling 3D phase-fields with a 1D vascular network** <br> _with Prashant K. Jha, Tobias Köppl, J. Tinsley Oden, Andreas Wagner, Barbara Wohlmuth_ <br> Nonlinear Analysis: Real World Applications (2020) [[preprint](https://arxiv.org/abs/2006.10477)] [[doi](https://doi.org/10.1016/j.nonrwa.2021.103331)] 
+(@) **Analysis of a new multispecies tumor growth model coupling 3D phase-fields with a 1D vascular network** <br> _with Prashant K. Jha, Tobias Köppl, J. Tinsley Oden, Andreas Wagner, Barbara Wohlmuth_ <br> Nonlinear Analysis: Real World Applications (2020) [[preprint](https://arxiv.org/abs/2006.10477)] [[doi](https://doi.org/10.1016/j.nonrwa.2021.103331)] 
 <br clear="left"/>
 <hr />
 
 <img src="/assets/images/ecm.png" width="200" height="auto" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 12px;" /> 
-3. **Local and nonlocal phase-field models of tumor growth and invasion due to ECM degradation** <br> _with Ernesto A.B.F. Lima, Vanja Nikolić, J. Tinsley Oden and Barbara Wohlmuth_ <br> Mathematical Models and Methods in Applied Sciences (2019) [[preprint](https://arxiv.org/abs/1906.07788)] [[doi](https://doi.org/10.1142/S0218202519500519)] 
+(@) **Local and nonlocal phase-field models of tumor growth and invasion due to ECM degradation** <br> _with Ernesto A.B.F. Lima, Vanja Nikolić, J. Tinsley Oden and Barbara Wohlmuth_ <br> Mathematical Models and Methods in Applied Sciences (2019) [[preprint](https://arxiv.org/abs/1906.07788)] [[doi](https://doi.org/10.1142/S0218202519500519)] 
 <br clear="left"/>
 <hr />
 
