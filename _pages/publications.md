@@ -66,7 +66,7 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/3d1d_3.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<img src="/assets/images/modeling2.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <ol start="4">
 <li> <strong> Analysis of a new multispecies tumor growth model coupling 3D phase-fields with a 1D vascular network</strong>  <br> 
   <em>with Prashant K. Jha, Tobias Köppl, J. Tinsley Oden, Andreas Wagner, Barbara Wohlmuth</em> <br>
