@@ -56,7 +56,7 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/modeling.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<img src="/assets/images/modeling3.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <ol start="5">
 <li> <strong> Modeling and simulation of vascular tumors embedded in evolving capillary networks</strong>  <br> 
   <em>with Prashant K. Jha, Tobias Köppl, J. Tinsley Oden, Andreas Wagner and Barbara Wohlmuth</em> <br> 
