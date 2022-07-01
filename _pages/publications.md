@@ -15,7 +15,7 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 
 ## Preprints
 
-<img src="/assets/images/equivalence.png" width="200" height="auto" align="left" style="padding-right: 20px"/> 
+<img src="/assets/images/equivalence.png" width="200" height="auto" align="left" style="padding-right: 30px"/> 
 <ol start="9">
 <li> <strong> Equivalence between a time-fractional and an integer-order gradient flow: The memory effect reflected in the energy </strong> <br> 
   <em> with Ustim Khristenko and Barbara Wohlmuth </em> <br> 
