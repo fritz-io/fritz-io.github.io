@@ -76,7 +76,7 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/ecm.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<img src="/assets/images/tumor.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <ol start="3">
 <li> <strong> Local and nonlocal phase-field models of tumor growth and invasion due to ECM degradation</strong>  <br> 
   <em>with Ernesto Lima, Vanja Nikolić, J. Tinsley Oden and Barbara Wohlmuth</em> <br> 
