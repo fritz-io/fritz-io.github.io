@@ -96,7 +96,7 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/blackstock.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<img src="/assets/images/blackstock.png" width="200" height="200" alt="" align="left" style="padding-right: 30px;" /> 
 <ol start="1">
 <li> <strong> Well-posedness and numerical treatment of the Blackstock equation in nonlinear acoustics</strong>  <br> 
   <em>with Vanja Nikolić and Barbara Wohlmuth</em> 
@@ -109,7 +109,7 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 <img src="/assets/images/phd.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 **Well-posedness of nonlocal and mixed-dimensional phase-field models applied to tumor growth** <br> 
 PhD Dissertation, Technical University of Munich (2022) <br> 
-Links: [[MediaTUM](http://mediatum.ub.tum.de/?id=1633726)] 
+Links: <a href="http://mediatum.ub.tum.de/?id=1633726">MediaTUM</a> 
 <br clear="left"/>
 <hr />
 
