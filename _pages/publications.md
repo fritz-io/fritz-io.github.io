@@ -41,7 +41,7 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 <li> <strong> Time-fractional Cahn-Hilliard equation: Well-posedness, degeneracy, and numerical solutions</strong>  <br> 
   <em>with Mabel L. Rajendran and Barbara Wohlmuth</em> <br> 
     Computers & Mathematics with Applications (2020) <br>
-  <a href="https://arxiv.org/abs/2104.03096">Preprint</a> <a href="https://doi.org/10.1016/j.camwa.2022.01.002">Journal</a>
+  <a href="https://arxiv.org/abs/2104.03096">Preprint</a> & <a href="https://doi.org/10.1016/j.camwa.2022.01.002">Journal</a>
   </li> </ol>
 <br clear="left"/>
 <hr />
