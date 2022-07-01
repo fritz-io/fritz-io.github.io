@@ -26,7 +26,7 @@ arXiv:2106.10985 [math.AP] [[preprint](https://arxiv.org/abs/2106.10985)]
 ## Peer-Reviewed Scientific Articles
 
 <img src="/assets/images/1d0d3d.png" width="200" height="auto" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 12px;padding-right: 20px;" /> 
-8. **A 1D-0D-3D coupled model for simulating blood flow and transport processes in breast tissue** <br> _with Tobias Köppl, J. Tinsley Oden, Andreas Wagner, Barbara Wohlmuth and Chengyue Wu_ <br> International Journal for Numerical Methods in Biomedical Engineering (2022) [[preprint](https://arxiv.org/abs/2201.05392)] [[doi](https://doi.org/10.1002/cnm.3612)] 
+8\. **A 1D-0D-3D coupled model for simulating blood flow and transport processes in breast tissue** <br> _with Tobias Köppl, J. Tinsley Oden, Andreas Wagner, Barbara Wohlmuth and Chengyue Wu_ <br> International Journal for Numerical Methods in Biomedical Engineering (2022) [[preprint](https://arxiv.org/abs/2201.05392)] [[doi](https://doi.org/10.1002/cnm.3612)] 
 <br clear="left"/>
 <hr />
 
@@ -43,7 +43,7 @@ arXiv:2106.10985 [math.AP] [[preprint](https://arxiv.org/abs/2106.10985)]
 <img src="/assets/images/modeling.png" width="200" height="auto" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 12px;" /> 
 5. **Modeling and simulation of vascular tumors embedded in evolving capillary networks** <br> _with Prashant K. Jha, Tobias Köppl, J. Tinsley Oden, Andreas Wagner and Barbara Wohlmuth_ <br> Computer Methods in Applied Mechanics and Engineering (2021) [[preprint](https://arxiv.org/abs/2101.10183)] [[doi](https://doi.org/10.1016/j.cma.2021.113975)] 
 <br clear="left"/>
-***
+<hr />
 
 <img src="/assets/images/3d1d_3.png" width="200" height="auto" alt="" align="left" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 12px;padding-right: 20px;" /> 
 4. **Analysis of a new multispecies tumor growth model coupling 3D phase-fields with a 1D vascular network** <br> _with Prashant K. Jha, Tobias Köppl, J. Tinsley Oden, Andreas Wagner, Barbara Wohlmuth_ <br> Nonlinear Analysis: Real World Applications (2020) [[preprint](https://arxiv.org/abs/2006.10477)] [[doi](https://doi.org/10.1016/j.nonrwa.2021.103331)] 
