@@ -96,7 +96,7 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/blackstock.png" width="200" height="auto" alt="" align="left" style="padding-bottom: 30px; padding-right: 30px;" /> 
+<img src="/assets/images/blackstock.png" width="200" height="auto" alt="" align="left" style="padding-bottom: 50px; padding-right: 30px;" /> 
 <ol start="1">
 <li> <strong> Well-posedness and numerical treatment of the Blackstock equation in nonlinear acoustics</strong>  <br> 
   <em>with Vanja Nikolić and Barbara Wohlmuth</em> 
