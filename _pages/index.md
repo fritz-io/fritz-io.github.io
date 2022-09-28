@@ -11,9 +11,7 @@ classes: wide
 
 <p style="text-align: justify">
 I am a postdoctoral researcher at the <a href="https://www.oeaw.ac.at/ricam/">Johann Radon Institute for Computational and Applied Mathematics (RICAM)</a>.
-<!-- Previously, I was a postdoc at the Institute for Computational and Experimental Research in Mathematics at Brown University.
-Before that, I was a postdoc at the Chair of Numerical Analysis at the Technical University of Munich, where I was supervised by <a href="http://www.professoren.tum.de/en/wohlmuth-barbara/">Barbara Wohlmuth</a>.
-Before that, I attended the <a href="https://www.oden.utexas.edu/">Oden Institute</a>, at the University of Texas at Austin, where I earned my Ph.D. under the supervision of <a href="https://users.oden.utexas.edu/~leszek/">Leszek Demkowicz</a>. -->
+Previously, I was a PhD Student at the Chair for Numerical Mathematics at the Technical University of Munich.
 </p>
 
 <!-- <p style="text-align: justify">
