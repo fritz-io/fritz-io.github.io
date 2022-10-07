@@ -13,18 +13,18 @@ toc_icon: "gear"
 Additional links to my preprints can be found on [arXiv.org](https://arxiv.org/a/fritz_m_1.html) and [ResearchGate](https://www.researchgate.net/profile/Marvin-Fritz).
 My published work can also be tracked on [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57203966182), [Google Scholar](https://scholar.google.com/citations?user=UXscgtgAAAAJ&hl=en), and [ORCID](https://orcid.org/0000-0002-8360-7371).
 
-## Preprints
+
+## Peer-Reviewed Scientific Articles
 
 <img src="/assets/images/equivalence.png" width="200" height="auto" align="left" style="padding-right: 30px"/> 
 <ol start="9">
 <li> <strong> Equivalence between a time-fractional and an integer-order gradient flow: The memory effect reflected in the energy </strong> <br> 
   <em> with Ustim Khristenko and Barbara Wohlmuth </em> <br> 
-  Links: <a href="https://arxiv.org/abs/2106.10985">Preprint</a>
+  Advances in Nonlinear Analysis (2023) <br>
+  Links: <a href="https://arxiv.org/abs/2106.10985">Preprint</a> & <a href="https://doi.org/10.1515/anona-2022-0262">Journal</a>
 </li> </ol>
 <br clear="left"/>
-
-
-## Peer-Reviewed Scientific Articles
+<hr />
 
 <img src="/assets/images/1d0d3d.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <ol start="8">
