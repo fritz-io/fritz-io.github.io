@@ -109,7 +109,7 @@ author:
   avatar           : "/assets/images/avatar.png"
   bio              : "Analysis of PDEs, Numerical Analysis, Mathematical Modeling & Computational Science"
   location         : "Munich, Germany"
-  email            : "marvin.fritz@tum.de"
+  email            : "marvin.fritz@ricam.oeaw.ac.at"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
