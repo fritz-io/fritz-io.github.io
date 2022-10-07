@@ -10,8 +10,8 @@ classes: wide
 <img src="/assets/images/research.png" width="420px" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" /> 
 
 <p style="text-align: justify">
-I am a postdoctoral researcher at the <a href="https://www.oeaw.ac.at/ricam/">Johann Radon Institute for Computational and Applied Mathematics (RICAM)</a>.
-Previously, I was a PhD Student at the Chair for Numerical Mathematics at the Technical University of Munich.
+I am a postdoctoral researcher in the group for Computational Methods for PDEs at the <a href="https://www.oeaw.ac.at/ricam/">Johann Radon Institute for Computational and Applied Mathematics (RICAM)</a>.
+Previously, I was a PhD Student in the group for Numerical Mathematics at the Technical University of Munich.
 </p>
 
 <!-- <p style="text-align: justify">
