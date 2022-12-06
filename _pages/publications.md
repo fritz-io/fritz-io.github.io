@@ -13,6 +13,16 @@ toc_icon: "gear"
 Additional links to my preprints can be found on [arXiv.org](https://arxiv.org/a/fritz_m_1.html) and [ResearchGate](https://www.researchgate.net/profile/Marvin-Fritz).
 My published work can also be tracked on [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57203966182), [Google Scholar](https://scholar.google.com/citations?user=UXscgtgAAAAJ&hl=en), and [ORCID](https://orcid.org/0000-0002-8360-7371).
 
+## Preprints
+<img src="/assets/images/phd.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<ol start="1">
+<li> <strong> Tumor evolution models of phase-field type with nonlocal effects and angiogenesis </strong> <br> 
+  Submitted <br>
+  Links: TBC
+</li> </ol>
+<br clear="left"/>
+<hr />
+
 
 ## Peer-Reviewed Scientific Articles
 
