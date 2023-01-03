@@ -18,7 +18,7 @@ My published work can also be tracked on [Scopus](https://www.scopus.com/authid/
 <ol start="1">
 <li> <strong> Tumor evolution models of phase-field type with nonlocal effects and angiogenesis </strong> <br> 
   Submitted <br>
-  Links: TBC
+  Links: TBA
 </li> </ol>
 <br clear="left"/>
 <hr />
