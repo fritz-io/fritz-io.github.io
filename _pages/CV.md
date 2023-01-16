@@ -12,7 +12,7 @@ toc_icon: "gear"
 
 ## Complete CV
 
-[You can download my CV here](/assets/CV.pdf)
+Upon request.
 
 ## Short CV
 
