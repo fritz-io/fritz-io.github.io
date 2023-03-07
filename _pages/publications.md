@@ -14,7 +14,28 @@ Additional links to my preprints can be found on [arXiv.org](https://arxiv.org/a
 My published work can also be tracked on [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57203966182), [Google Scholar](https://scholar.google.com/citations?user=UXscgtgAAAAJ&hl=en), and [ORCID](https://orcid.org/0000-0002-8360-7371).
 
 ## Preprints
-<img src="/assets/images/phd.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<img src="/assets/images/empty.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<ol start="3">
+<li> <strong> Analysis of a dilute polymer model with time-fractional derivatives </strong> <br> 
+  <em> with Endre Süli and Barbara Wohlmuth </em> <br>
+  Submitted <br>
+  Links: TBA
+</li> </ol>
+<br clear="left"/>
+<hr />
+
+<img src="/assets/images/empty.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<ol start="2">
+<li> <strong> A phase-field model for non-small cell lung cancer under the effects of immunotherapy </strong> <br> 
+  <em> with Christina Kuttler, J. Tinsley Oden, Pirmin Schlicke, Christian
+Schumann, Andreas Wagner and Barbara Wohlmuth </em> <br>
+  Submitted <br>
+  Links: TBA
+</li> </ol>
+<br clear="left"/>
+<hr />
+
+<img src="/assets/images/empty.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <ol start="1">
 <li> <strong> Tumor evolution models of phase-field type with nonlocal effects and angiogenesis </strong> <br> 
   Submitted <br>
