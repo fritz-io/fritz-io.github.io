@@ -24,7 +24,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/empty.png" width="200" height="200" alt="" align="left" style="padding-right: 30px;" /> 
+<img src="/assets/images/empty.png" width="200" height="250" alt="" align="left" style="padding-right: 30px;" /> 
 <ol start="2">
 <li> <strong> A phase-field model for non-small cell lung cancer under the effects of immunotherapy </strong> <br> 
   <em> with Christina Kuttler, J. Tinsley Oden, Pirmin Schlicke, Christian
