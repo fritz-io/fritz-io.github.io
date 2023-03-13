@@ -27,7 +27,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 <img src="/assets/images/empty.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <ol start="2">
 <li> <strong> A phase-field model for non-small cell lung cancer under the effects of immunotherapy </strong> <br> 
-  <em> with Christina Kuttler, J.T. Oden, Pirmin Schlicke, Christian
+  <em> with Christina Kuttler, J. T. Oden, Pirmin Schlicke, C.
 Schumann, Andreas Wagner and Barbara Wohlmuth </em> <br>
   Submitted <br>
   Links: TBA
@@ -87,10 +87,10 @@ Schumann, Andreas Wagner and Barbara Wohlmuth </em> <br>
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/modeling3.png" width="200" height="300" alt="" align="left" style="padding-right: 30px;" /> 
+<img src="/assets/images/modeling3.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <ol start="5">
 <li> <strong> Modeling and simulation of vascular tumors embedded in evolving capillary networks</strong>  <br> 
-  <em>with Prashant K. Jha, Tobias Köppl, J. Tinsley Oden, Andreas Wagner and Barbara Wohlmuth</em> <br> 
+  <em>with P. K. Jha, Tobias Köppl, J. T. Oden, Andreas Wagner and Barbara Wohlmuth</em> <br> 
     Computer Methods in Applied Mechanics and Engineering (2021) <br>
   Links: <a href="https://arxiv.org/abs/2101.10183">Preprint</a> & <a href="https://doi.org/10.1016/j.cma.2021.113975">Journal</a>
   </li> </ol>
