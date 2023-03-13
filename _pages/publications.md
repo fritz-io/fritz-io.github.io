@@ -27,8 +27,8 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 <img src="/assets/images/empty.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <ol start="2">
 <li> <strong> A phase-field model for non-small cell lung cancer under the effects of immunotherapy </strong> <br> 
-  <em> with Christina Kuttler, J. T. Oden, Pirmin Schlicke, C.
-Schumann, Andreas Wagner and Barbara Wohlmuth </em> <br>
+  <em> with C. Kuttler, J. T. Oden, P. Schlicke, C.
+Schumann, A. Wagner and B. Wohlmuth </em> <br>
   Submitted <br>
   Links: TBA
 </li> </ol>
