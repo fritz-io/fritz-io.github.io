@@ -18,7 +18,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 <ol start="3">
 <li> <strong> Analysis of a dilute polymer model with time-fractional derivatives </strong> <br> 
   <em> with Endre Süli and Barbara Wohlmuth </em> <br>
-  Submitted <br>
+  Submitted (2023) <br>
   Links: TBA
 </li> </ol>
 <br clear="left"/>
@@ -29,7 +29,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 <li> <strong> A phase-field model for non-small cell lung cancer under the effects of immunotherapy </strong> <br> 
   <em> with C. Kuttler, J. T. Oden, P. Schlicke, C.
 Schumann, A. Wagner and B. Wohlmuth </em> <br>
-  Submitted <br>
+  Submitted (2023) <br>
   Links: <a href="https://arxiv.org/abs/2303.09378">Preprint</a>
 </li> </ol>
 <br clear="left"/>
@@ -38,7 +38,7 @@ Schumann, A. Wagner and B. Wohlmuth </em> <br>
 <img src="/assets/images/empty.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <ol start="1">
 <li> <strong> Tumor evolution models of phase-field type with nonlocal effects and angiogenesis </strong> <br> 
-  Submitted <br>
+  Submitted (2023) <br>
   Links: TBA
 </li> </ol>
 <br clear="left"/>
