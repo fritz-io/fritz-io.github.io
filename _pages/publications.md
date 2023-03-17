@@ -24,7 +24,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/empty.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<img src="/assets/images/lung.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <ol start="2">
 <li> <strong> A phase-field model for non-small cell lung cancer under the effects of immunotherapy </strong> <br> 
   <em> with C. Kuttler, J. T. Oden, P. Schlicke, C.
@@ -35,7 +35,7 @@ Schumann, A. Wagner and B. Wohlmuth </em> <br>
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/empty.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<img src="/assets/images/phd.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <ol start="1">
 <li> <strong> Tumor evolution models of phase-field type with nonlocal effects and angiogenesis </strong> <br> 
   Submitted (2023) <br>
