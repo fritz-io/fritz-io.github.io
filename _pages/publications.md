@@ -30,7 +30,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
   <em> with C. Kuttler, J. T. Oden, P. Schlicke, C.
 Schumann, A. Wagner and B. Wohlmuth </em> <br>
   Submitted <br>
-  Links: TBA
+  Links: <a href="https://arxiv.org/abs/2303.09378">Preprint</a>
 </li> </ol>
 <br clear="left"/>
 <hr />
