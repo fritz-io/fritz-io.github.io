@@ -14,16 +14,6 @@ Additional links to my preprints can be found on [arXiv](https://arxiv.org/a/fri
 My published work can also be tracked on [Google Scholar](https://scholar.google.com/citations?user=UXscgtgAAAAJ&hl=en).
 
 ## Preprints
-<img src="/assets/images/empty.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
-<ol start="3">
-<li> <strong> Analysis of a dilute polymer model with time-fractional derivatives </strong> <br> 
-  <em> with Endre Süli and Barbara Wohlmuth </em> <br>
-  Submitted (2023) <br>
-  Links: TBA
-</li> </ol>
-<br clear="left"/>
-<hr />
-
 <img src="/assets/images/lung.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <ol start="2">
 <li> <strong> A phase-field model for non-small cell lung cancer under the effects of immunotherapy </strong> <br> 
