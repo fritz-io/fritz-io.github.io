@@ -137,14 +137,14 @@ Links: <a href="http://mediatum.ub.tum.de/?id=1633726">MediaTUM</a>
 
 <img src="/assets/images/navier.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 **The recent existence proofs of the Navier-Stokes equations** <br> 
-Master's Thesis, Technical University of Munich (2017)  
+Master's Thesis, Technical University of Munich (2017)  <br>
 Supervisor: Prof. Dr. Hans Wilhelm Alt <br>
 <br clear="left"/>
 <hr />
 
 <img src="/assets/images/vortex.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 **On the stability of relative equilibria in vortex dynamics** <br> 
-Bachelor's Thesis, Technical University of Munich (2015)  
+Bachelor's Thesis, Technical University of Munich (2015)  <br>
 Supervisor: Prof. Dr. Jürgen Scheurle <br>
 <br clear="left"/>
 
