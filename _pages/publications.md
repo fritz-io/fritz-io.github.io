@@ -32,7 +32,7 @@ Schumann, A. Wagner and B. Wohlmuth </em> <br>
 <ol start="10">
 <li> <strong> Tumor evolution models of phase-field type with nonlocal effects and angiogenesis </strong> <br> 
   Bulletin of Mathematical Biology (to appear) <br>
-  Links: <a href="https://arxiv.org/abs/2303.10968">Preprint</a>
+  Links: <a href="https://arxiv.org/abs/2303.10968">Preprint</a> & <a href="https://doi.org/10.1007/s11538-023-01151-6">Journal</a>
 </li> </ol>
 <br clear="left"/>
 <hr />
