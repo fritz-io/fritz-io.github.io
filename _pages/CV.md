@@ -17,7 +17,7 @@ Upon request.
 ## Short CV
 
 ### Work Experience
-- 03/2023 - X: University Assistant at **Johannes Kepler Universität Linz**
+- 03/2023 — X: University Assistant at **Johannes Kepler Universität Linz**
 - 10/2022 — X: Postdoctoral researcher at **Johann Radon Institute for Computational and Applied Mathematics**
 - 04/2022 — 06/2022: Postdoctoral researcher at **Technical University of Munich**
 - 01/2018 — 04/2022: Doctoral researcher at **Technical University of Munich**
