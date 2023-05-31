@@ -14,7 +14,7 @@ Additional links to my preprints can be found on [arXiv](https://arxiv.org/a/fri
 My published work can also be tracked on [Google Scholar](https://scholar.google.com/citations?user=UXscgtgAAAAJ&hl=en).
 
 ## Preprints
-<img src="/assets/images/empty.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<img src="/assets/images/Fokker.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <ol start="2">
 <li> <strong> Well-posedness and simulation of weak solutions to  the time-fractional Fokker-Planck equation with general forcing </strong> <br> 
   Submitted (2023) 
