@@ -17,8 +17,8 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 <img src="/assets/images/empty.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <ol start="3">
 <li> <strong> Analysis of a dilute polymer model with a time-fractional derivative </strong> <br> 
-  Submitted (2023) 
     <em> with E. Süli and B. Wohlmuth </em> <br>
+    Submitted (2023) <br>
 </li> </ol>
 <br clear="left"/>
 <hr />
