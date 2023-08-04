@@ -14,7 +14,7 @@ Additional links to my preprints can be found on [arXiv](https://arxiv.org/a/fri
 My published work can also be tracked on [Google Scholar](https://scholar.google.com/citations?user=UXscgtgAAAAJ&hl=en).
 
 ## Preprints
-<img src="/assets/images/empty.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<img src="/assets/images/dilute.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <ol start="3">
 <li> <strong> Analysis of a dilute polymer model with a time-fractional derivative </strong> <br> 
     <em> with E. Süli and B. Wohlmuth </em> <br>
