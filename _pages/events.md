@@ -13,10 +13,9 @@ toc_icon: "gear"
 ## Where to find me
 
 <img src="/assets/images/event_iciam.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
-<ol start="13">
 <li> <strong> ICIAM (International Congress on Industrial and Applied Mathematics) 2023 </strong> <br> 
     <em> Waseda University, Tokyo </em> <br>
     Talk: Dissipativity of the energy functional in time-fractional gradient flows 
-</li> </ol>
+</li> 
 <br clear="left"/>
 <hr />
