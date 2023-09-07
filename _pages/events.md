@@ -78,8 +78,45 @@ toc_icon: "gear"
 
 ## Workshops
 
-<li> <strong> <a href="https://www.math.fau.de/2019/10/24/workshop-on-recent-developments-in-modelling-and-analysis-in-porous-media/">International Workshop on Recent Developments in Modelling, Analysis and Simulation of Processes in Porous Media </a> </strong> <br> 
-    <em> Friedrich-Alexander-Universität Erlangen-Nürnberg </em> 
+<li> <strong> Nonlocality in Analysis, Numerics and Applications </strong> <br> 
+    <em> Lorentz Center (Leiden, Netherlands) </em> 
+</li> 
+<br clear="left"/>
+<hr />
+
+<li> <strong> Hausdorff School on: Trending Tools for the Solvability of Nonlocal Elliptic and Parabolic Equations </strong> <br> 
+    <em> Hausdorff Center for Mathematics (Bonn, Germany) </em> 
+</li> 
+<br clear="left"/>
+<hr />
+
+<li> <strong> Hausdorff School on Diffusive Systems: Pattern Formation, Bifurcations, and Biological Application </strong> <br> 
+    <em> Hausdorff Center for Mathematics (Bonn, Germany) </em> 
+</li> 
+<br clear="left"/>
+<hr />
+
+<li> <strong> Workshop on Mathematical and Computational Materials Science </strong> <br> 
+    <em> IMSI Institute for Mathematical and Statistical Innovation (Chicago, USA) </em> 
+</li> 
+<br clear="left"/>
+<hr />
+
+<li> <strong> Winterschool on Analysis and Applied Mathematics </strong> <br> 
+    <em> Universität Münster </em> 
+</li> 
+<br clear="left"/>
+<hr />
+
+<li> <strong> OCIP (Workshop on Numerical Methods for 
+Optimal Control and Inverse Problems) 2019 </strong> <br> 
+    <em> Technische Universität München </em> 
+</li> 
+<br clear="left"/>
+<hr />
+
+<li> <strong> Workshop on Advanced Computational Modeling for Tumor Growth Prediction </strong> <br> 
+    <em> Technische Universität München </em> 
 </li> 
 <br clear="left"/>
 <hr />
