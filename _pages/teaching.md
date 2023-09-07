@@ -23,6 +23,7 @@ toc_icon: "gear"
 - Room S2 416-1
 
 <strong> Literature: </strong>
+<img src="/assets/images/books_monotone.png" width="60%" height="auto"/>
 
 ## Fractional Differential Equations (Johannes Kepler Universität Linz, SS2023)
 
@@ -39,8 +40,10 @@ toc_icon: "gear"
 - Room MT 327
 
 <strong> Literature: </strong>
+<img src="/assets/images/books_fractional.png" width="60%" height="auto"/>
 
-## Fractal Structures in Mathematics and Nature (Technische Universität München, WS2019
+
+## Fractal Structures in Mathematics and Nature (Technische Universität München, WS2019)
 
 <strong> Overview: </strong>
 - Feedback Processes
@@ -56,4 +59,4 @@ toc_icon: "gear"
 - Room MI 03.06.011
 
 <strong> Literature: </strong>
-Chaos and Fractals: New Frontiers of Science ; Authors, Heinz-Otto Peitgen, Hartmut Jürgens, Dietmar Saupe
+<img src="/assets/images/books_fractals.png" width="60%" height="auto"/>
