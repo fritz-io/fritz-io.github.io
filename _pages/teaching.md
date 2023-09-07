@@ -40,5 +40,20 @@ toc_icon: "gear"
 
 <strong> Literature: </strong>
 
+## Fractal Structures in Mathematics and Nature (Technische Universität München, WS2019
 
+<strong> Overview: </strong>
+- Feedback Processes
+- Fractals
+- Pythagoras tree 
+- Complex Newton Method
+- Continuous but Nowhere Differentiable Functions
+- Chaos
+- Attractors
 
+<strong> Place and time: </strong>
+- Wednesdays 12:30pm (20.11.2019 - 22.01.2020)
+- Room MI 03.06.011
+
+<strong> Literature: </strong>
+Chaos and Fractals: New Frontiers of Science ; Authors, Heinz-Otto Peitgen, Hartmut Jürgens, Dietmar Saupe
