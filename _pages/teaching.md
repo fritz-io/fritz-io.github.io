@@ -23,6 +23,7 @@ toc_icon: "gear"
 - Room S2 416-1
 
 <strong> Literature: </strong>
+
 <img src="/assets/images/books_monotone.png" width="60%" height="auto"/>
 
 ## Fractional Differential Equations (Johannes Kepler Universität Linz, SS2023)
@@ -40,6 +41,7 @@ toc_icon: "gear"
 - Room MT 327
 
 <strong> Literature: </strong>
+
 <img src="/assets/images/books_fractional.png" width="60%" height="auto"/>
 
 
@@ -59,4 +61,5 @@ toc_icon: "gear"
 - Room MI 03.06.011
 
 <strong> Literature: </strong>
+
 <img src="/assets/images/books_fractals.png" width="60%" height="auto"/>
