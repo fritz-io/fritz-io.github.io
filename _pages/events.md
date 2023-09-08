@@ -14,7 +14,7 @@ List of the conferences and workshops that I attend.
 
 ## Talk
 
-<img src="/assets/images/event_iciam.png" width="200" height="auto" alt="" align="left" style="padding-bottom:30px;padding-right: 30px;" /> 
+<img src="/assets/images/event_iciam.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-bottom:15px;padding-right: 30px;" /> 
 <li> <strong> <a href="https://iciam2023.org">ICIAM (International Congress on Industrial and Applied Mathematics) 2023</a>  </strong> <br> 
     <em> Waseda University, Tokyo </em> <br>
     Talk: Dissipativity of the energy functional in time-fractional gradient flows 
