@@ -94,7 +94,7 @@ List of the conferences and workshops that I attend.
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/school_hcm.png" width="200" height="auto" alt="" align="left" style="padding-bottom:20px;adding-right: 30px;" /> 
+<img src="/assets/images/school_hcm.png" width="200" height="auto" alt="" align="left" style="padding-bottom:20px;padding-right: 30px;" /> 
 <li> <strong> Hausdorff School on Diffusive Systems: Pattern Formation, Bifurcations, and Biological Application </strong> <br> 
     <em> Hausdorff Center for Mathematics (Bonn, Germany) </em> 
 </li> 
