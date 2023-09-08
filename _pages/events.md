@@ -12,7 +12,7 @@ toc_icon: "gear"
 
 ## Conferences
 
-<img src="/assets/images/event_iciam.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<img src="/assets/images/event_iciam.png" width="200" height="auto" alt="" align="left" style="padding-bottom:30px;padding-right: 30px;" /> 
 <li> <strong> <a href="https://iciam2023.org">ICIAM (International Congress on Industrial and Applied Mathematics) 2023</a>  </strong> <br> 
     <em> Waseda University, Tokyo </em> <br>
     Talk: Dissipativity of the energy functional in time-fractional gradient flows 
@@ -20,7 +20,7 @@ toc_icon: "gear"
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/event_intcomsin.png"  width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<img src="/assets/images/event_intcomsin.png"  width="200" height="auto" alt="" align="left" style="padding-bottom:30px;padding-right: 30px;" /> 
 <li> <strong> <a href="https://intcomsin.de">IntComSin (Interfaces, Complex Structures, and Singular Limits) </a> </strong> <br> 
     <em> Universität Regensburg </em> <br>
     Talk: Well-posedness of mixed-dimensional and nonlocal phase-field models of Cahn-Hilliard type applied to tumor growth
