@@ -10,6 +10,8 @@ toc_label: "Category"
 toc_icon: "gear"
 ---
 
+List of lectures that I previously gave.
+
 ## Monotone Operators in Nonlinear PDEs (Johannes Kepler Universität Linz, WS2023)
 
 <strong> Overview: </strong>
