@@ -80,36 +80,52 @@ List of the conferences and workshops that I attend.
 
 ## Workshops
 
+<img src="/assets/images/school_lorentz.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <li> <strong> Nonlocality in Analysis, Numerics and Applications </strong> <br> 
     <em> Lorentz Center (Leiden, Netherlands) </em> 
-</li> 
+</li>
+<br clear="left"/>
+<hr />
 
-
+<img src="/assets/images/school_hcm.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <li> <strong> Hausdorff School on: Trending Tools for the Solvability of Nonlocal Elliptic and Parabolic Equations </strong> <br> 
     <em> Hausdorff Center for Mathematics (Bonn, Germany) </em> 
 </li> 
+<br clear="left"/>
+<hr />
 
-
+<img src="/assets/images/school_hcm.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <li> <strong> Hausdorff School on Diffusive Systems: Pattern Formation, Bifurcations, and Biological Application </strong> <br> 
     <em> Hausdorff Center for Mathematics (Bonn, Germany) </em> 
 </li> 
+<br clear="left"/>
+<hr />
 
-
+<img src="/assets/images/school_ismi.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <li> <strong> Workshop on Mathematical and Computational Materials Science </strong> <br> 
     <em> IMSI Institute for Mathematical and Statistical Innovation (Chicago, USA) </em> 
 </li> 
+<br clear="left"/>
+<hr />
 
-
+<img src="/assets/images/school_munster.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <li> <strong> Winterschool on Analysis and Applied Mathematics </strong> <br> 
     <em> Universität Münster </em> 
 </li> 
+<br clear="left"/>
+<hr />
 
-
+<img src="/assets/images/school_tum.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <li> <strong> OCIP (Workshop on Numerical Methods for 
 Optimal Control and Inverse Problems) 2019 </strong> <br> 
     <em> Technische Universität München </em> 
 </li> 
+<br clear="left"/>
+<hr />
 
+<img src="/assets/images/school_tum.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <li> <strong> Workshop on Advanced Computational Modeling for Tumor Growth Prediction </strong> <br> 
     <em> Technische Universität München </em> 
 </li> 
+<br clear="left"/>
+<hr />
