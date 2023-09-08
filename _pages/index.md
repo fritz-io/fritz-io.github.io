@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "About me"
 layout: archive
 sitemap: true
 permalink: /
