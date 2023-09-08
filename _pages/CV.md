@@ -10,9 +10,7 @@ toc_label: "Category"
 toc_icon: "gear"
 ---
 
-## Complete CV
-
-Upon request.
+If you are interested in my complete CV, please contact me by email.
 
 ## Short CV
 
