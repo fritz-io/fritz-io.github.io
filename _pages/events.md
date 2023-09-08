@@ -80,7 +80,7 @@ List of the conferences and workshops that I attend.
 
 ## Workshops
 
-<img src="/assets/images/school_lorentz.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<img src="/assets/images/school_lorentz.jpg" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <li> <strong> Nonlocality in Analysis, Numerics and Applications </strong> <br> 
     <em> Lorentz Center (Leiden, Netherlands) </em> 
 </li>
@@ -101,7 +101,7 @@ List of the conferences and workshops that I attend.
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/school_ismi.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<img src="/assets/images/school_imsi.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <li> <strong> Workshop on Mathematical and Computational Materials Science </strong> <br> 
     <em> IMSI Institute for Mathematical and Statistical Innovation (Chicago, USA) </em> 
 </li> 
