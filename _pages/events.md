@@ -62,7 +62,7 @@ List of the conferences and workshops that I attend.
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/event_smb.png" width="200" height="120" alt="" align="left" style="padding-bottom:30px;padding-right: 30px;" /> 
+<img src="/assets/images/event_smb.png" width="200" height="120" alt="" align="left" style="padding-bottom:40px;padding-right: 30px;" /> 
 <li> <strong> <a href="https://2020.smb.org">SMB (Society for Mathematical Biology) 2020 Annual Meeting </a> </strong> <br> 
     <em> Universität Heidelberg </em> <br>
     Talk: Analysis of a multispecies tumor growth models coupling 3D phase-fields with a 1D vascular network
@@ -70,7 +70,7 @@ List of the conferences and workshops that I attend.
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/event_fau.png" width="200" height="150" alt="" align="left" style="padding-bottom:30px;padding-right: 30px;" /> 
+<img src="/assets/images/event_fau.png" width="200" height="150" alt="" align="left" style="padding-bottom:40px;padding-right: 30px;" /> 
 <li> <strong> <a href="https://www.math.fau.de/2019/10/24/workshop-on-recent-developments-in-modelling-and-analysis-in-porous-media/">International Workshop on Recent Developments in Modelling, Analysis and Simulation of Processes in Porous Media </a> </strong> <br> 
     <em> Friedrich-Alexander-Universität Erlangen-Nürnberg </em> <br>
     Talk: On the unsteady Darcy-Forchheimer--Brinkman equation in tumor growth models
@@ -87,14 +87,14 @@ List of the conferences and workshops that I attend.
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/school_hcm.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<img src="/assets/images/school_hcm.png" width="200" height="auto" alt="" align="left" style="padding-bottom:20px;padding-right: 30px;" /> 
 <li> <strong> Hausdorff School on: Trending Tools for the Solvability of Nonlocal Elliptic and Parabolic Equations </strong> <br> 
     <em> Hausdorff Center for Mathematics (Bonn, Germany) </em> 
 </li> 
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/school_hcm.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<img src="/assets/images/school_hcm.png" width="200" height="auto" alt="" align="left" style="padding-bottom:20px;adding-right: 30px;" /> 
 <li> <strong> Hausdorff School on Diffusive Systems: Pattern Formation, Bifurcations, and Biological Application </strong> <br> 
     <em> Hausdorff Center for Mathematics (Bonn, Germany) </em> 
 </li> 
