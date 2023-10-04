@@ -21,7 +21,7 @@ List of lectures that I previously gave.
 - Nonlinear Evolution Problems
 
 <strong> Place and time: </strong>
-- Tuesdays 10:30am (7.3.2023 - 27.6.2023)
+- Wednesdays 8:30am (04.10.2023 - 31.01.2024)
 - Room S2 416-1
 
 <strong> Literature: </strong>
@@ -39,7 +39,7 @@ List of lectures that I previously gave.
 - Real-World Applications
 
 <strong> Place and time: </strong>
-- Wednesdays 1:45pm (04.10.2023 - 31.01.2024)
+- Tuesdays 10:30am (7.3.2023 - 27.6.2023)
 - Room MT 327
 
 <strong> Literature: </strong>
