@@ -33,19 +33,19 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 <br clear="left"/>
 <hr />
 
+## Peer-Reviewed Scientific Articles
+
+
 <img src="/assets/images/lung.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-right: 30px;" /> 
 <ol start="11">
 <li> <strong> A phase-field model for non-small cell lung cancer under the effects of immunotherapy </strong> <br> 
   <em> with C. Kuttler, J.T. Oden, P. Schlicke, C.
 Schumann, A. Wagner and B. Wohlmuth </em> <br>
-  Submitted (2023) <br>
-  Links: <a href="https://arxiv.org/abs/2303.09378">Preprint</a>
+  Mathematical Biosciences and Engineering (2023) <br>
+  Links: <a href="https://arxiv.org/abs/2303.09378">Preprint</a> & <a href="https://doi.org/10.3934/mbe.2023828">Journal</a>
 </li> </ol>
 <br clear="left"/>
 <hr />
-
-
-## Peer-Reviewed Scientific Articles
 
 <img src="/assets/images/phd.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-right: 30px;" /> 
 <ol start="10">
