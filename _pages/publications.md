@@ -42,7 +42,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
   <em> with C. Kuttler, J.T. Oden, P. Schlicke, C.
 Schumann, A. Wagner and B. Wohlmuth </em> <br>
   Mathematical Biosciences and Engineering (2023) <br>
-  Links: <a href="https://arxiv.org/abs/2303.09378">Preprint</a> & <a href="https://doi.org/10.3934/mbe.2023828">Journal</a>
+  Links: <a href="https://arxiv.org/abs/2303.09378">Preprint</a> & <a href="https://www.aimspress.com/article/doi/10.3934/mbe.2023828">Journal</a>
 </li> </ol>
 <br clear="left"/>
 <hr />
