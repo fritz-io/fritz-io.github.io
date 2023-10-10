@@ -14,6 +14,15 @@ Additional links to my preprints can be found on [arXiv](https://arxiv.org/a/fri
 My published work can also be tracked on [Google Scholar](https://scholar.google.com/citations?user=UXscgtgAAAAJ&hl=en).
 
 ## Preprints
+<img src="/assets/images/biot.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-right: 30px;" /> 
+<ol start="14">
+<li> <strong> On the well-posedness of the Cahn--Hilliard--Biot model and its applications to tumor growth </strong> <br> 
+    Submitted (2023) <br>
+  Links: <a href="https://arxiv.org/abs/2307.16606">Preprint</a>
+</li> </ol>
+<br clear="left"/>
+<hr />
+
 <img src="/assets/images/dilute.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-right: 30px;" /> 
 <ol start="13">
 <li> <strong> Analysis of a dilute polymer model with a time-fractional derivative </strong> <br> 
