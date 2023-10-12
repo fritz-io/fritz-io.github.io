@@ -18,7 +18,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 <ol start="14">
 <li> <strong> On the well-posedness of the Cahn-Hilliard-Biot model and its applications to tumor growth </strong> <br> 
     Submitted (2023) <br>
-  Links: <a href="https://arxiv.org/abs/2307.16606">Preprint</a>
+  Links: <a href="https://arxiv.org/abs/2310.07050">Preprint</a>
 </li> </ol>
 <br clear="left"/>
 <hr />
