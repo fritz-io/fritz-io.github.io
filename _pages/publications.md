@@ -23,18 +23,8 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/dilute.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-right: 30px;" /> 
-<ol start="13">
-<li> <strong> Analysis of a dilute polymer model with a time-fractional derivative </strong> <br> 
-    <em> with E. Süli and B. Wohlmuth </em> <br>
-    Submitted (2023) <br>
-  Links: <a href="https://arxiv.org/abs/2307.16606">Preprint</a>
-</li> </ol>
-<br clear="left"/>
-<hr />
-
 <img src="/assets/images/Fokker2.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-right: 30px;" /> 
-<ol start="12">
+<ol start="13">
 <li> <strong> Well-posedness and simulation of weak solutions to  the time-fractional Fokker-Planck equation with general forcing </strong> <br> 
   Submitted (2023) <br>
   Links: <a href="https://arxiv.org/abs/2307.16615">Preprint</a>
@@ -43,6 +33,17 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 <hr />
 
 ## Peer-Reviewed Scientific Articles
+
+
+<img src="/assets/images/dilute.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-right: 30px;" /> 
+<ol start="12">
+<li> <strong> Analysis of a dilute polymer model with a time-fractional derivative </strong> <br> 
+    <em> with E. Süli and B. Wohlmuth </em> <br>
+    SIAM Journal on Mathematical Analysis (to appear) <br>
+  Links: <a href="https://arxiv.org/abs/2307.16606">Preprint</a>
+</li> </ol>
+<br clear="left"/>
+<hr />
 
 
 <img src="/assets/images/lung.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-right: 30px;" /> 
