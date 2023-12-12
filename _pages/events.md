@@ -14,8 +14,8 @@ List of the conferences and workshops that I attend.
 
 ## Talk
 
-<img src="/assets/images/siamuq.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-bottom:15px;padding-right: 30px;" /> 
-<li> <strong> <a href="https://iciam2023.org">SIAM Conference on Uncertainty Quantification 2024</a>  </strong> <br> 
+<img src="/assets/images/siamuq.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-bottom:30px;padding-right: 30px;" /> 
+<li> <strong> <a href="https://www.siam.org/conferences/cm/conference/uq24">SIAM Conference on Uncertainty Quantification 2024</a>  </strong> <br> 
     <em> Triest </em> <br>
     Talk: Analysis and computation of a stochastic Cahn-Hilliard system modeling tumor growth
 </li> 
