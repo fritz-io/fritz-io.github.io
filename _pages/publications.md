@@ -14,6 +14,16 @@ Additional links to my preprints can be found on [arXiv](https://arxiv.org/a/fri
 My published work can also be tracked on [Google Scholar](https://scholar.google.com/citations?user=UXscgtgAAAAJ&hl=en).
 
 ## Preprints
+<img src="/assets/images/Stochastic.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-right: 30px;" /> 
+<ol start="15">
+<li> <strong> Analysis and computations of a stochastic Cahn-Hilliard model for tumor growth with chemotaxis and variable mobility </strong> <br> 
+    <em> with L. Scarpa </em> <br>
+    Submitted (2023) <br>
+  Links: <a href="https://arxiv.org/abs/2312.06288">Preprint</a>
+</li> </ol>
+<br clear="left"/>
+<hr />
+
 <img src="/assets/images/biot.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-right: 30px;" /> 
 <ol start="14">
 <li> <strong> On the well-posedness of the Cahn-Hilliard-Biot model and its applications to tumor growth </strong> <br> 
