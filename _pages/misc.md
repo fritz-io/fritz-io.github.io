@@ -20,6 +20,13 @@ Some other stuff that you might find interesting.
 - [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/)
 - [Writespace to make your LaTeX formula a PNG](https://www.writespace.app/)
 
+## Upcoming conferences in PDEs
+- [Equadiff 2024](https://www.kau.se/equadiff), Karlstad, Sweden, June 10 - 14, 2024 
+- [Waves 2024](https://waves2024.mps.mpg.de), Berlin, Germany, June 30 – July 5, 2024
+- [SMB Annual Meeting 2024](https://smb2024.org): Konkuk University, Seoul, South Korea, June 30 - July 5, 2024
+- 12th Workshop of the GAMM Activity Group "Analysis of partial
+differential equations", Prague, Czech Republic, September 16 - 21, 2024
+
 ## Quotes that I like
 - "As long as a branch of science offers an abundance of problems, so long is
 it alive."  <br /> – David Hilbert
