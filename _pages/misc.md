@@ -25,8 +25,10 @@ Some other stuff that you might find interesting.
 - [Equadiff 2024](https://www.kau.se/equadiff), Karlstad, Sweden, June 10 - 14, 2024 
 - [Waves 2024](https://waves2024.mps.mpg.de), Berlin, Germany, June 30 – July 5, 2024
 - [SMB Annual Meeting 2024](https://smb2024.org): Konkuk University, Seoul, South Korea, June 30 - July 5, 2024
-- 12th Workshop of the GAMM Activity Group "Analysis of partial
-differential equations", Prague, Czech Republic, September 16 - 21, 2024
+- [European Conference on Mathematical and Theoretical Biology (ECMTB)](https://ecmtb2024.org), Toledo, Spain, July 22 - 26, 2024
+- [Numerical Analysis & Modelling in Applied Sciences](https://sites.google.com/view/namas-24/), Gaeta, Italy, September 16 - 20, 2024
+- 12th Workshop of the GAMM Activity Group "Analysis of partial differential equations", Prague, Czech Republic, September 16 - 21, 2024
+- [17th German Probability and Statistics Days (GPSD 2025)](https://www.gpsd-2025.de), Dresden, Germany, March 11 - 14, 2025
 
 ## Quotes that I like
 - "As long as a branch of science offers an abundance of problems, so long is
