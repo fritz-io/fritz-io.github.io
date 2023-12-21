@@ -14,7 +14,7 @@ List of the conferences and workshops that I attend.
 
 ## Talk
 
-<img src="/assets/images/siamuq.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-bottom:30px;padding-right: 30px;" /> 
+<img src="/assets/images/Equadiff-logo.jpg" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-bottom:30px;padding-right: 30px;" /> 
 <li> <strong> <a href="https://www.kau.se/en/equadiff">Equadiff 2024</a>  </strong> <br> 
     <em> Karlstad (Sweden) </em> <br>
     Talk: tbd
@@ -22,7 +22,7 @@ List of the conferences and workshops that I attend.
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/Equadiff-logo.jpg" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-bottom:30px;padding-right: 30px;" /> 
+<img src="/assets/images/siamuq.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-bottom:30px;padding-right: 30px;" /> 
 <li> <strong> <a href="https://www.siam.org/conferences/cm/conference/uq24">SIAM Conference on Uncertainty Quantification 2024</a>  </strong> <br> 
     <em> Triest (Italy) </em> <br>
     Talk: Analysis and computation of a stochastic Cahn-Hilliard system modeling tumor growth
