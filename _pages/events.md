@@ -15,8 +15,16 @@ List of the conferences and workshops that I attend.
 ## Talk
 
 <img src="/assets/images/siamuq.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-bottom:30px;padding-right: 30px;" /> 
+<li> <strong> <a href="https://www.kau.se/en/equadiff">Equadiff 2024</a>  </strong> <br> 
+    <em> Karlstad (Sweden) </em> <br>
+    Talk: tbd
+</li> 
+<br clear="left"/>
+<hr />
+
+<img src="/assets/images/Equadiff-logo.jpg" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-bottom:30px;padding-right: 30px;" /> 
 <li> <strong> <a href="https://www.siam.org/conferences/cm/conference/uq24">SIAM Conference on Uncertainty Quantification 2024</a>  </strong> <br> 
-    <em> Triest </em> <br>
+    <em> Triest (Italy) </em> <br>
     Talk: Analysis and computation of a stochastic Cahn-Hilliard system modeling tumor growth
 </li> 
 <br clear="left"/>
@@ -24,7 +32,7 @@ List of the conferences and workshops that I attend.
 
 <img src="/assets/images/event_iciam.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-bottom:15px;padding-right: 30px;" /> 
 <li> <strong> <a href="https://iciam2023.org">ICIAM (International Congress on Industrial and Applied Mathematics) 2023</a>  </strong> <br> 
-    <em> Waseda University, Tokyo </em> <br>
+    <em> Tokyo (Japan) </em> <br>
     Talk: Dissipativity of the energy functional in time-fractional gradient flows 
 </li> 
 <br clear="left"/>
@@ -32,7 +40,7 @@ List of the conferences and workshops that I attend.
 
 <img src="/assets/images/event_intcomsin.png"  width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-bottom:15px;padding-right: 30px;" /> 
 <li> <strong> <a href="https://intcomsin.de">IntComSin (Interfaces, Complex Structures, and Singular Limits) </a> </strong> <br> 
-    <em> Universität Regensburg </em> <br>
+    <em> Regensburg (Germany) </em> <br>
     Talk: Well-posedness of mixed-dimensional and nonlocal phase-field models of Cahn-Hilliard type applied to tumor growth
 </li> 
 <br clear="left"/>
@@ -40,7 +48,7 @@ List of the conferences and workshops that I attend.
 
 <img src="/assets/images/event_dmv.png" width="200" height="120" alt="" align="left" style="padding-top:15px;padding-bottom:15px;padding-right: 30px;" /> 
 <li> <strong> <a href="https://www.uni-passau.de/dmv-oemg-2021/startseite/">DMV-ÖMG Annual Conference 2021 </a> </strong> <br> 
-    <em> Universität Passau </em> <br>
+    <em> Passau (Germany) </em> <br>
     Talk: On the time-fractional Cahn-Hilliard equation applied to tumor growth 
 </li> 
 <br clear="left"/>
