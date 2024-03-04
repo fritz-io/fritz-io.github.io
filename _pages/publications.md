@@ -49,8 +49,8 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 <ol start="12">
 <li> <strong> Analysis of a dilute polymer model with a time-fractional derivative </strong> <br> 
     <em> with E. Süli and B. Wohlmuth </em> <br>
-    SIAM Journal on Mathematical Analysis (to appear) <br>
-  Links: <a href="https://arxiv.org/abs/2307.16606">Preprint</a>
+    SIAM Journal on Mathematical Analysis (2024) <br>
+  Links: <a href="https://arxiv.org/abs/2307.16606">Preprint</a> & <a href="https://doi.org/10.1137/23M1590767">Journal</a>
 </li> </ol>
 <br clear="left"/>
 <hr />
