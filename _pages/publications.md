@@ -33,16 +33,16 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 <br clear="left"/>
 <hr />
 
+## Peer-Reviewed Scientific Articles
+
 <img src="/assets/images/Fokker2.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-right: 30px;" /> 
 <ol start="13">
 <li> <strong> Well-posedness and simulation of weak solutions to  the time-fractional Fokker-Planck equation with general forcing </strong> <br> 
-  Submitted (2023) <br>
-  Links: <a href="https://arxiv.org/abs/2307.16615">Preprint</a>
+  Discrete and Continuous Dynamical Systems - B (2024) <br>
+  Links: <a href="https://arxiv.org/abs/2307.16615">Preprint</a> & Journal
 </li> </ol>
 <br clear="left"/>
 <hr />
-
-## Peer-Reviewed Scientific Articles
 
 
 <img src="/assets/images/dilute.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-right: 30px;" /> 
