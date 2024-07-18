@@ -14,7 +14,7 @@ List of the conferences and workshops that I attend.
 
 ## Talk
 
-<img src="/assets/images/waves.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-bottom:30px;padding-right: 30px;" /> 
+<img src="/assets/images/WAVES.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-bottom:30px;padding-right: 30px;" /> 
 <li> <strong> <a href="https://waves2024.mps.mpg.de">WAVES 2024</a>  </strong> <br> 
     <em> Berlin (Germany) </em> <br>
     Talk: Well-posedness and energy formulation of models in nonlinear acoustics
