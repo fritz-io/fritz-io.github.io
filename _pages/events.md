@@ -14,10 +14,18 @@ List of the conferences and workshops that I attend.
 
 ## Talk
 
+<img src="/assets/images/waves.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-bottom:30px;padding-right: 30px;" /> 
+<li> <strong> <a href="https://waves2024.mps.mpg.de">WAVES 2024</a>  </strong> <br> 
+    <em> Berlin (Germany) </em> <br>
+    Talk: Well-posedness and energy formulation of models in nonlinear acoustics
+</li> 
+<br clear="left"/>
+<hr />
+
 <img src="/assets/images/Equadiff-logo.jpg" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-bottom:30px;padding-right: 30px;" /> 
 <li> <strong> <a href="https://www.kau.se/en/equadiff">Equadiff 2024</a>  </strong> <br> 
     <em> Karlstad (Sweden) </em> <br>
-    Talk: tbd
+    Talk: Analytical treatment of time-fractional gradient flows
 </li> 
 <br clear="left"/>
 <hr />
