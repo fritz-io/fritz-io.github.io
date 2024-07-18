@@ -14,6 +14,16 @@ Additional links to my preprints can be found on [arXiv](https://arxiv.org/a/fri
 My published work can also be tracked on [Google Scholar](https://scholar.google.com/citations?user=UXscgtgAAAAJ&hl=en).
 
 ## Preprints
+<img src="/assets/images/chb.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-right: 30px;" /> 
+<ol start="16">
+<li> <strong> Structure-preserving approximation of the Cahn-Hilliard-Biot system </strong> <br> 
+    <em> with A. Brunk </em> <br>
+    Submitted (2024) <br>
+  Links: <a href="https://arxiv.org/abs/2407.12349">Preprint</a>
+</li> </ol>
+<br clear="left"/>
+<hr />
+
 <img src="/assets/images/Stochastic.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-right: 30px;" /> 
 <ol start="15">
 <li> <strong> Analysis and computations of a stochastic Cahn-Hilliard model for tumor growth with chemotaxis and variable mobility </strong> <br> 
