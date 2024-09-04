@@ -14,7 +14,7 @@ Additional links to my preprints can be found on [arXiv](https://arxiv.org/a/fri
 My published work can also be tracked on [Google Scholar](https://scholar.google.com/citations?user=UXscgtgAAAAJ&hl=en).
 
 ## Preprints
-<img src="/assets/images/acoustics.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-right: 30px;" /> 
+<img src="/assets/images/acou.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-right: 30px;" /> 
 <ol start="17">
 <li> <strong> Well-posedness, long-time behavior, and discretization of some models of nonlinear acoustics in velocity-enthalpy formulation </strong> <br> 
     <em> with H. Egger </em> <br>
