@@ -44,16 +44,16 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 <br clear="left"/>
 <hr />
 
+## Peer-Reviewed Scientific Articles
+
 <img src="/assets/images/biot.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-right: 30px;" /> 
 <ol start="14">
 <li> <strong> On the well-posedness of the Cahn-Hilliard-Biot model and its applications to tumor growth </strong> <br> 
-    Submitted (2023) <br>
-  Links: <a href="https://arxiv.org/abs/2310.07050">Preprint</a>
+    Discrete and Continuous Dynamical Systems - S (2024) <br>
+  Links: <a href="https://arxiv.org/abs/2310.07050">Preprint</a> & <a href="https://doi.org/10.3934/dcdss.2024186">Journal</a>
 </li> </ol>
 <br clear="left"/>
 <hr />
-
-## Peer-Reviewed Scientific Articles
 
 <img src="/assets/images/Fokker2.png" width="200" height="auto" alt="" align="left" style="padding-top:15px;padding-right: 30px;" /> 
 <ol start="13">
