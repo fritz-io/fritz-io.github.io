@@ -19,7 +19,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 <li> <strong> Stabilization to trajectories of nonisothermal Cahn-Hilliard equations </strong> <br> 
     <em> with B. Azmi and S. Rodrigues </em> <br>
     Submitted (2024) <br>
-  Links: todo
+  Links: <a href="https://arxiv.org/abs/2411.04018">Preprint</a>
 </li> </ol>
 <br clear="left"/>
 <hr />
