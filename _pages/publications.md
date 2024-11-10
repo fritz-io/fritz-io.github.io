@@ -10,6 +10,14 @@ toc_label: "Category"
 toc_icon: "gear"
 ---
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Publications - Marvin Fritz</title>
+</head>
+<body>
+
 <h1>Publications</h1>
 
 <p>For a complete list of my work, including preprints and citations, see my profiles on
@@ -104,3 +112,5 @@ toc_icon: "gear"
     </li>
 </ol>
 
+</body>
+</html>
