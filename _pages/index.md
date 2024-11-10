@@ -7,8 +7,7 @@ author_profile: true
 classes: wide
 ---
 
-<img src="/assets/images/research.png" alt="Research visualization depicting applications in nonlinear acoustics, fluid dynamics, and tumor growth modeling" 
-     style="width:100%; max-width:420px; display:block; margin-bottom:25px; margin-left:auto; margin-right:auto; padding-left: 25px; padding-right: 25px;" />
+<img src="/assets/images/research.png" width="420px" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" /> 
 
 <p style="text-align: justify; line-height: 1.6;">
     I am a postdoctoral researcher in the Computational Methods for PDEs group at the 
