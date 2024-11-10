@@ -10,8 +10,6 @@ toc_label: "Category"
 toc_icon: "gear"
 ---
 
-<h1>Publications</h1>
-
 <p>For a complete list of my work, including preprints and citations, see my profiles on
     <a href="https://arxiv.org/a/fritz_m_1.html">arXiv</a>, 
     <a href="https://www.researchgate.net/profile/Marvin-Fritz">ResearchGate</a>, and 
@@ -72,7 +70,171 @@ toc_icon: "gear"
     </li>
 </ol>
 
-<!-- Continue similarly for each article and image -->
+<ol start="14">
+    <li>
+        <img src="/assets/images/biot.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+ <strong> On the well-posedness of the Cahn-Hilliard-Biot model and its applications to tumor growth </strong> <br> 
+        Discrete and Continuous Dynamical Systems - S (2024) <br>
+        Links: <a href="https://arxiv.org/abs/2310.07050">Preprint</a> & <a href="https://doi.org/10.3934/dcdss.2024186">Journal</a>
+        <br clear="left"/>
+        <hr />
+    </li>
+</ol>
+
+<ol start="13">
+<li>
+        <img src="/assets/images/Fokker2.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+ <strong> Well-posedness and simulation of weak solutions to  the time-fractional Fokker-Planck equation with general forcing </strong> <br> 
+  Discrete and Continuous Dynamical Systems - B (2024) <br>
+  Links: <a href="https://arxiv.org/abs/2307.16615">Preprint</a> & <a href="https://doi.org/10.3934/dcdsb.2024036">Journal</a>
+        <br clear="left"/>
+        <hr />
+    </li>
+</ol>
+
+<ol start="12">
+<li>
+        <img src="/assets/images/dilute.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+ <strong> Analysis of a dilute polymer model with a time-fractional derivative </strong> <br> 
+    <em> with E. Süli and B. Wohlmuth </em> <br>
+    SIAM Journal on Mathematical Analysis (2024) <br>
+  Links: <a href="https://arxiv.org/abs/2307.16606">Preprint</a> & <a href="https://doi.org/10.1137/23M1590767">Journal</a>
+        <br clear="left"/>
+        <hr />
+    </li>
+</ol>
+
+<ol start="11">
+<li>
+        <img src="/assets/images/lung.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+ <strong> A phase-field model for non-small cell lung cancer under the effects of immunotherapy </strong> <br> 
+  <em> with C. Kuttler, J.T. Oden, P. Schlicke, C.
+Schumann, A. Wagner and B. Wohlmuth </em> <br>
+  Mathematical Biosciences and Engineering (2023) <br>
+  Links: <a href="https://arxiv.org/abs/2303.09378">Preprint</a> & <a href="https://www.aimspress.com/article/doi/10.3934/mbe.2023828">Journal</a>
+        <br clear="left"/>
+        <hr />
+    </li>
+</ol>
+
+<ol start="10">
+<li>
+        <img src="/assets/images/phd.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+ <strong> Tumor evolution models of phase-field type with nonlocal effects and angiogenesis </strong> <br> 
+  Bulletin of Mathematical Biology (2023) <br>
+  Links: <a href="https://arxiv.org/abs/2303.10968">Preprint</a> & <a href="https://doi.org/10.1007/s11538-023-01151-6">Journal</a>
+        <br clear="left"/>
+        <hr />
+    </li>
+</ol>
+
+<ol start="9">
+<li> 
+        <img src="/assets/images/equivalence.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+<strong> Equivalence between a time-fractional and an integer-order gradient flow: The memory effect reflected in the energy </strong> <br> 
+  <em> with U. Khristenko and B. Wohlmuth </em> <br> 
+  Advances in Nonlinear Analysis (2023) <br>
+  Links: <a href="https://arxiv.org/abs/2106.10985">Preprint</a> & <a href="https://doi.org/10.1515/anona-2022-0262">Journal</a>
+        <br clear="left"/>
+        <hr />
+    </li>
+</ol>
+
+<ol start="8">
+<li>
+        <img src="/assets/images/1d0d3d.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+ <strong> A 1D-0D-3D coupled model for simulating blood flow and transport processes in breast tissue</strong>  <br> 
+  <em>with T. Köppl, J.T. Oden, A. Wagner, B. Wohlmuth and C. Wu</em> <br> 
+    International Journal for Numerical Methods in Biomedical Engineering (2022) <br> 
+  Links: <a href="https://arxiv.org/abs/2201.05392">Preprint</a> & <a href="https://doi.org/10.1002/cnm.3612">Journal</a>
+        <br clear="left"/>
+        <hr />
+    </li>
+</ol>
+
+<ol start="7">
+<li>
+        <img src="/assets/images/timefractional.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+ <strong> Time-fractional Cahn-Hilliard equation: Well-posedness, degeneracy, and numerical solutions</strong>  <br> 
+  <em>with M.L. Rajendran and B. Wohlmuth</em> <br> 
+    Computers & Mathematics with Applications (2022) <br>
+  Links: <a href="https://arxiv.org/abs/2104.03096">Preprint</a> & <a href="https://doi.org/10.1016/j.camwa.2022.01.002">Journal</a>
+        <br clear="left"/>
+        <hr />
+    </li>
+</ol>
+
+<ol start="6">
+<li>
+        <img src="/assets/images/subdiffusive.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+ <strong> On a subdiffusive tumour growth model with fractional time derivative</strong>  <br> 
+  <em>with C. Kuttler, M.L. Rajendran, L. Scarabosio and B. Wohlmuth</em> <br> 
+    IMA Journal of Applied Mathematics (2021) <br> 
+  Links: <a href="https://arxiv.org/abs/2006.10670">Preprint</a> & <a href="https://doi.org/10.1093/imamat/hxab009">Journal</a>
+        <br clear="left"/>
+        <hr />
+    </li>
+</ol>
+
+<ol start="5">
+<li>
+        <img src="/assets/images/modeling3.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+ <strong> Modeling and simulation of vascular tumors embedded in evolving capillary networks</strong>  <br> 
+  <em>with P.K. Jha, T. Köppl, J.T. Oden, A. Wagner and B. Wohlmuth</em> <br> 
+    Computer Methods in Applied Mechanics and Engineering (2021) <br>
+  Links: <a href="https://arxiv.org/abs/2101.10183">Preprint</a> & <a href="https://doi.org/10.1016/j.cma.2021.113975">Journal</a>
+        <br clear="left"/>
+        <hr />
+    </li>
+</ol>
+
+<ol start="4">
+<li>
+        <img src="/assets/images/modeling2.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+ <strong> Analysis of a new multispecies tumor growth model coupling 3D phase-fields with a 1D vascular network</strong>  <br> 
+  <em>with P.K. Jha, T. Köppl, J.T. Oden, B. Wohlmuth</em> <br>
+    Nonlinear Analysis: Real World Applications (2020) <br>
+  Links: <a href="https://arxiv.org/abs/2006.10477">Preprint</a> & <a href="https://doi.org/10.1016/j.nonrwa.2021.103331">Journal</a>
+        <br clear="left"/>
+        <hr />
+    </li>
+</ol>
+
+<ol start="3">
+<li>
+        <img src="/assets/images/tumor.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+ <strong> Local and nonlocal phase-field models of tumor growth and invasion due to ECM degradation</strong>  <br> 
+  <em>with E.A.B.F. Lima, V. Nikolić, J.T. Oden and B. Wohlmuth</em> <br> 
+  Mathematical Models and Methods in Applied Sciences (2019)<br>
+  Links: <a href="https://arxiv.org/abs/1906.07788">Preprint</a> & <a href="https://doi.org/10.1142/S0218202519500519">Journal</a>
+        <br clear="left"/>
+        <hr />
+    </li>
+</ol>
+
+<ol start="2">
+<li>
+        <img src="/assets/images/dfb.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+ <strong> On the unsteady Darcy-Forchheimer-Brinkman equation in local and nonlocal tumor growth models</strong>  <br> 
+  <em>with E.A.B.F. Lima, J.T. Oden and B. Wohlmuth</em> <br> 
+  Mathematical Models and Methods in Applied Sciences (2019)<br>
+  Links: <a href="https://arxiv.org/abs/1812.08872">Preprint</a> & <a href="https://doi.org/10.1142/S0218202519500325">Journal</a>
+        <br clear="left"/>
+        <hr />
+    </li>
+</ol>
+
+<ol start="1">
+<li>
+        <img src="/assets/images/blackstock.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+ <strong> Well-posedness and numerical treatment of the Blackstock equation in nonlinear acoustics</strong>  <br> 
+  <em>with V. Nikolić and B. Wohlmuth</em> 
+  <br> Mathematical Models and Methods in Applied Sciences (2018) <br>
+  Links: <a href="https://arxiv.org/abs/1806.05227">Preprint</a> & <a href="https://doi.org/10.1016/j.camwa.2022.01.002">Journal</a>
+        <br clear="left"/>
+        <hr />
+    </li>
+</ol>
 
 <h2>Theses</h2>
 
