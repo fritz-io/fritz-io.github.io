@@ -45,7 +45,7 @@ toc_icon: "gear"
 <hr/>
 
 <div style="display: flex; align-items: flex-start; padding-top: 15px;">
-    <img src="/assets/images/iciam.png" width="200" height="auto" alt="ICIAM 2024" style="margin-right: 20px;"/>
+    <img src="/assets/images/event_iciam.png" width="200" height="auto" alt="ICIAM 2024" style="margin-right: 20px;"/>
     <div>
  <strong> <a href="https://iciam2023.org">ICIAM (International Congress on Industrial and Applied Mathematics) 2023</a>  </strong> <br> 
     <em> Tokyo, Japan </em> <br>
