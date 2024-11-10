@@ -10,19 +10,28 @@ toc_label: "Category"
 toc_icon: "gear"
 ---
 
-If you are interested in my complete CV, please contact me by email.
+<p style="text-align: justify">If you are interested in my complete CV, please contact me by email.</p>
 
 ## Short CV
 
 ### Work Experience
-- 03/2023 — X: University Assistant at **Johannes Kepler Universität Linz**
-- 10/2022 — X: Postdoctoral researcher at **Johann Radon Institute for Computational and Applied Mathematics**
-- 04/2022 — 06/2022: Postdoctoral researcher at **Technical University of Munich**
-- 01/2018 — 04/2022: Doctoral researcher at **Technical University of Munich**
-- 06/2018 — 07/2018: Guest researcher at **University of Texas at Austin**
 
+<div style="margin-bottom: 20px;">
+    <ul style="list-style-type: none; padding: 0;">
+        <li><strong>03/2023 — Present:</strong> University Assistant at <strong>Johannes Kepler Universität Linz</strong></li>
+        <li><strong>10/2022 — Present:</strong> Postdoctoral researcher at <strong>Johann Radon Institute for Computational and Applied Mathematics</strong></li>
+        <li><strong>04/2022 — 06/2022:</strong> Postdoctoral researcher at <strong>Technical University of Munich</strong></li>
+        <li><strong>01/2018 — 04/2022:</strong> Doctoral researcher at <strong>Technical University of Munich</strong></li>
+        <li><strong>06/2018 — 07/2018:</strong> Guest researcher at <strong>University of Texas at Austin</strong></li>
+    </ul>
+</div>
 
 ### Education
-- 01/2018 — 04/2022: **Dr. rer. nat.** at Technical University of Munich
-- 10/2015 — 11/2017: **M.Sc.** in Mathematics at Technical University of Munich
-- 10/2012 — 09/2015: **B.Sc.** in Mathematics at Technical University of Munich
+
+<div style="margin-bottom: 20px;">
+    <ul style="list-style-type: none; padding: 0;">
+        <li><strong>01/2018 — 04/2022:</strong> <strong>Dr. rer. nat.</strong> at Technical University of Munich</li>
+        <li><strong>10/2015 — 11/2017:</strong> <strong>M.Sc.</strong> in Mathematics at Technical University of Munich</li>
+        <li><strong>10/2012 — 09/2015:</strong> <strong>B.Sc.</strong> in Mathematics at Technical University of Munich</li>
+    </ul>
+</div>
