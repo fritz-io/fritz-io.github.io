@@ -10,58 +10,69 @@ toc_label: "Category"
 toc_icon: "gear"
 ---
 
-List of lectures that I previously gave.
+<p style="text-align: justify">
+Here are the lectures I have previously taught.
+</p>
 
 ## Monotone Operators in Nonlinear PDEs (Johannes Kepler Universität Linz, WS2023)
 
-<strong> Overview: </strong>
-- Monotone Operators
-- Potential Operators
-- Nonlinear Stationary Problems
-- Nonlinear Evolution Problems
+<strong>Overview:</strong>
+<ul>
+  <li>Monotone Operators</li>
+  <li>Potential Operators</li>
+  <li>Nonlinear Stationary Problems</li>
+  <li>Nonlinear Evolution Problems</li>
+</ul>
 
-<strong> Place and time: </strong>
-- Wednesdays 8:30am (04.10.2023 - 31.01.2024)
-- Room S2 416-1
+<strong>Place and Time:</strong>
+<ul>
+  <li>Wednesdays 8:30am (04.10.2023 - 31.01.2024)</li>
+  <li>Room: S2 416-1</li>
+</ul>
 
-<strong> Literature: </strong>
-
-<img src="/assets/images/books_monotone.png" width="60%" height="auto"/>
+<strong>Literature:</strong>
+<img src="/assets/images/books_monotone.png" width="60%" height="auto" style="display:block; margin:20px auto;" alt="Monotone Operators Literature"/>
 
 ## Fractional Differential Equations (Johannes Kepler Universität Linz, SS2023)
 
-<strong> Overview: </strong>
-- Riemann-Liouville Differential and Integral Operators
-- Caputo's Approach
-- Existence and Uniqueness Results for Riemann-Liouville Fractional Differential Equations
-- Caputo Fractional Differential Equations: Basic Theory and Fundamental Results
-- Numerical Methods: Classical and Modern
-- Real-World Applications
+<strong>Overview:</strong>
+<ul>
+  <li>Riemann-Liouville Differential and Integral Operators</li>
+  <li>Caputo's Approach</li>
+  <li>Existence and Uniqueness for Riemann-Liouville Fractional Differential Equations</li>
+  <li>Caputo Fractional Differential Equations: Basic Theory and Fundamental Results</li>
+  <li>Numerical Methods: Classical and Modern</li>
+  <li>Real-World Applications</li>
+</ul>
 
-<strong> Place and time: </strong>
-- Tuesdays 10:30am (7.3.2023 - 27.6.2023)
-- Room MT 327
+<strong>Place and Time:</strong>
+<ul>
+  <li>Tuesdays 10:30am (7.3.2023 - 27.6.2023)</li>
+  <li>Room: MT 327</li>
+</ul>
 
-<strong> Literature: </strong>
-
-<img src="/assets/images/books_fractional.png" width="60%" height="auto"/>
-
+<strong>Literature:</strong>
+<img src="/assets/images/books_fractional.png" width="60%" height="auto" style="display:block; margin:20px auto;" alt="Fractional Differential Equations Literature"/>
 
 ## Fractal Structures in Mathematics and Nature (Technische Universität München, WS2019)
 
-<strong> Overview: </strong>
-- Feedback Processes
-- Fractals
-- Pythagoras tree 
-- Complex Newton Method
-- Continuous but Nowhere Differentiable Functions
-- Chaos
-- Attractors
+<strong>Overview:</strong>
+<ul>
+  <li>Feedback Processes</li>
+  <li>Fractals</li>
+  <li>Pythagoras Tree</li>
+  <li>Complex Newton Method</li>
+  <li>Continuous but Nowhere Differentiable Functions</li>
+  <li>Chaos</li>
+  <li>Attractors</li>
+</ul>
 
-<strong> Place and time: </strong>
-- Wednesdays 12:30pm (20.11.2019 - 22.01.2020)
-- Room MI 03.06.011
+<strong>Place and Time:</strong>
+<ul>
+  <li>Wednesdays 12:30pm (20.11.2019 - 22.01.2020)</li>
+  <li>Room: MI 03.06.011</li>
+</ul>
 
-<strong> Literature: </strong>
+<strong>Literature:</strong>
+<img src="/assets/images/books_fractals.png" width="60%" height="auto" style="display:block; margin:20px auto;" alt="Fractals Literature"/>
 
-<img src="/assets/images/books_fractals.png" width="60%" height="auto"/>
