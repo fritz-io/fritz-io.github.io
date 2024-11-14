@@ -19,6 +19,18 @@ toc_icon: "gear"
 <h2>Preprints</h2>
 <p>This section lists submitted manuscripts currently available as preprints.</p>
 
+<ol start="19">
+    <li>
+        <img src="/assets/images/ohta.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <strong>Analysis and discretization of the Ohta-Kawasaki equation with forcing and degenerate mobility</strong><br>
+        <em>with A. Brunk</em><br>
+        Submitted (2024)<br>
+        Links: <a href="https://arxiv.org/">Preprint</a> 
+        <br clear="left"/>
+        <hr />
+    </li>
+</ol>
+
 <ol start="18">
     <li>
         <img src="/assets/images/Actuator.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
