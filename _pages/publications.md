@@ -21,7 +21,7 @@ toc_icon: "gear"
 
 <ol start="19">
     <li>
-        <img src="/assets/images/ohta.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <img src="/assets/images/ohta-removebg-preview.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Analysis and discretization of the Ohta-Kawasaki equation with forcing and degenerate mobility</strong><br>
         <em>with A. Brunk</em><br>
         Submitted (2024)<br>
