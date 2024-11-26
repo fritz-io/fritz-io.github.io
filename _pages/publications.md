@@ -76,7 +76,7 @@ toc_icon: "gear"
         <strong>Structure-preserving approximation of the Cahn-Hilliard-Biot system</strong><br>
         <em>with A. Brunk</em><br>
         Numerical Methods for Partial Differential Equations (2024)<br>
-        Links: <a href="https://arxiv.org/abs/2407.12349">Preprint</a> & <a href="https://onlinelibrary.wiley.com/journal/10982426">Journal</a>
+        Links: <a href="https://arxiv.org/abs/2407.12349">Preprint</a> & <a href="https://doi.org/10.1002/num.23159">Journal</a>
         <br clear="left"/>
         <hr />
     </li>
