@@ -18,8 +18,8 @@ toc_icon: "gear"
 
 <div style="margin-bottom: 20px;">
     <ul style="list-style-type: none; padding: 0;">
-        <li><strong>03/2023 — Present:</strong> University Assistant at <strong>Johannes Kepler Universität Linz</strong></li>
         <li><strong>10/2022 — Present:</strong> Postdoctoral researcher at <strong>Johann Radon Institute for Computational and Applied Mathematics</strong></li>
+        <li><strong>03/2023 — 02/2024:</strong> University Assistant at <strong>Johannes Kepler Universität Linz</strong></li>
         <li><strong>04/2022 — 06/2022:</strong> Postdoctoral researcher at <strong>Technical University of Munich</strong></li>
         <li><strong>01/2018 — 04/2022:</strong> Doctoral researcher at <strong>Technical University of Munich</strong></li>
         <li><strong>06/2018 — 07/2018:</strong> Guest researcher at <strong>University of Texas at Austin</strong></li>
