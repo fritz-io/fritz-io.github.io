@@ -1,4 +1,4 @@
-w---
+---
 title: "Events"
 layout: archive
 sitemap: true
