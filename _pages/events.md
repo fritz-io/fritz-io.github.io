@@ -1,4 +1,4 @@
----
+w---
 title: "Events"
 layout: archive
 sitemap: true
@@ -12,7 +12,17 @@ toc_icon: "gear"
 
 <p style="text-align: justify">Here is a list of conferences and workshops I have attended.</p>
 
-## Talk
+## Talks
+
+<div style="display: flex; align-items: flex-start; padding-top: 15px;">
+    <img src="/assets/images/enumath.png" width="200" height="auto" alt="WAVES 2024" style="margin-right: 20px;"/>
+    <div>
+        <strong><a href="https://www.enumath2025.eu">ENUMATH 2025</a></strong><br>
+        <em>Heidelberg, Germany</em><br>
+        Talk: tba
+    </div>
+</div>
+<hr/>
 
 <div style="display: flex; align-items: flex-start; padding-top: 15px;">
     <img src="/assets/images/WAVES.png" width="200" height="auto" alt="WAVES 2024" style="margin-right: 20px;"/>
