@@ -25,7 +25,7 @@ toc_icon: "gear"
         <strong>Analysis and discretization of the Ohta-Kawasaki equation with forcing and degenerate mobility</strong><br>
         <em>with A. Brunk</em><br>
         Submitted (2024)<br>
-        Links: <a href="https://arxiv.org/">Preprint</a> 
+        Links: <a href="https://arxiv.org/abs/2411.09498">Preprint</a> 
         <br clear="left"/>
         <hr />
     </li>
