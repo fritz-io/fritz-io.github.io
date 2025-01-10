@@ -43,12 +43,15 @@ toc_icon: "gear"
     </li>
 </ol>
 
+<h2>Peer-Reviewed Scientific Articles</h2>
+<p>Below are my published works in peer-reviewed journals, including research on PDE applications in areas such as nonlinear acoustics, tumor growth, and fractional dynamics.</p>
+
 <ol start="17">
     <li>
         <img src="/assets/images/acou.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Well-posedness, long-time behavior, and discretization of some models of nonlinear acoustics in velocity-enthalpy formulation</strong><br>
         <em>with H. Egger</em><br>
-        Submitted (2024)<br>
+        Mathematical Methods in the Applied Sciences (to appear in 2025)<br>
         Links: <a href="https://arxiv.org/abs/2409.01067">Preprint</a>
         <br clear="left"/>
         <hr />
@@ -60,15 +63,12 @@ toc_icon: "gear"
         <img src="/assets/images/Stochastic.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Analysis and computations of a stochastic Cahn-Hilliard model for tumor growth with chemotaxis and variable mobility</strong><br>
         <em>with L. Scarpa</em><br>
-        Submitted (2023)<br>
+        Stochastics and Partial Differential Equations: Analysis and Computations (to appear in 2025)<br>
         Links: <a href="https://arxiv.org/abs/2312.06288">Preprint</a>
         <br clear="left"/>
         <hr />
     </li>
 </ol>
-
-<h2>Peer-Reviewed Scientific Articles</h2>
-<p>Below are my published works in peer-reviewed journals, including research on PDE applications in areas such as nonlinear acoustics, tumor growth, and fractional dynamics.</p>
 
 <ol start="15">
     <li>
