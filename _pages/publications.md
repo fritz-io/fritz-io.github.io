@@ -17,7 +17,6 @@ toc_icon: "gear"
 </p>
 
 <h2>Preprints</h2>
-<p>This section lists submitted manuscripts currently available as preprints.</p>
 
 <ol start="19">
     <li>
