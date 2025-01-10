@@ -44,7 +44,6 @@ toc_icon: "gear"
 </ol>
 
 <h2>Peer-Reviewed Scientific Articles</h2>
-<p>Below are my published works in peer-reviewed journals, including research on PDE applications in areas such as nonlinear acoustics, tumor growth, and fractional dynamics.</p>
 
 <ol start="17">
     <li>
