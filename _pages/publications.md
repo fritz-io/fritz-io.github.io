@@ -49,8 +49,8 @@ toc_icon: "gear"
         <img src="/assets/images/acou.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Well-posedness, long-time behavior, and discretization of some models of nonlinear acoustics in velocity-enthalpy formulation</strong><br>
         <em>with H. Egger</em><br>
-        Mathematical Methods in the Applied Sciences (to appear in 2025)<br>
-        Links: <a href="https://arxiv.org/abs/2409.01067">Preprint</a>
+        Mathematical Methods in the Applied Sciences (2025)<br>
+        Links: <a href="https://arxiv.org/abs/2409.01067">Preprint</a> & <a href="https://doi.org/10.1002/mma.10753">Journal</a>
         <br clear="left"/>
         <hr />
     </li>
@@ -61,8 +61,8 @@ toc_icon: "gear"
         <img src="/assets/images/Stochastic.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Analysis and computations of a stochastic Cahn-Hilliard model for tumor growth with chemotaxis and variable mobility</strong><br>
         <em>with L. Scarpa</em><br>
-        Stochastics and Partial Differential Equations: Analysis and Computations (to appear in 2025)<br>
-        Links: <a href="https://arxiv.org/abs/2312.06288">Preprint</a>
+        Stochastics and Partial Differential Equations: Analysis and Computations (2025)<br>
+        Links: <a href="https://arxiv.org/abs/2312.06288">Preprint</a> & <a href="https://doi.org/10.1007/s40072-025-00348-1">Journal</a>
         <br clear="left"/>
         <hr />
     </li>
