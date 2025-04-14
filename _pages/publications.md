@@ -18,6 +18,19 @@ toc_icon: "gear"
 
 <h2>Preprints</h2>
 
+ol start="20">
+    <li>
+        <img src="/assets/images/chf.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <strong>Analysis and structure-preserving approximation of a Cahn-Hilliard-Forchheimer system with solution-dependent mass and volume source
+</strong><br>
+        <em>with A. Brunk</em><br>
+        Submitted (2025)<br>
+        Links: <a href="https://arxiv.org/abs/2411.09498">Preprint</a> 
+        <br clear="left"/>
+        <hr />
+    </li>
+</ol>
+
 <ol start="19">
     <li>
         <img src="/assets/images/ohta-removebg-preview.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
