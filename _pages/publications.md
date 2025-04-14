@@ -18,7 +18,7 @@ toc_icon: "gear"
 
 <h2>Preprints</h2>
 
-ol start="20">
+<ol start="20">
     <li>
         <img src="/assets/images/chf.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Analysis and structure-preserving approximation of a Cahn-Hilliard-Forchheimer system with solution-dependent mass and volume source
