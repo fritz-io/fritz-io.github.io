@@ -15,11 +15,21 @@ toc_icon: "gear"
 ## Talks
 
 <div style="display: flex; align-items: flex-start; padding-top: 15px;">
-    <img src="/assets/images/enumath.png" width="200" height="auto" alt="WAVES 2024" style="margin-right: 20px;"/>
+    <img src="/assets/images/enumath.png" width="200" height="auto" alt="ENUMATH 2025" style="margin-right: 20px;"/>
     <div>
         <strong><a href="https://www.enumath2025.eu">ENUMATH 2025</a></strong><br>
         <em>Heidelberg, Germany</em><br>
-        Talk: tba
+        Talk: Structure-preserving approximation of a velocity-enthalpy system in nonlinear acoustics
+    </div>
+</div>
+<hr/>
+
+<div style="display: flex; align-items: flex-start; padding-top: 15px;">
+    <img src="/assets/images/anaday.png" width="200" height="auto" alt="Anaday 2025" style="margin-right: 20px;"/>
+    <div>
+        <strong><a href="https://www.plus.ac.at/mathematik/news-events-social-media/veranstaltungen/workshops/anaday-2025/">19th Austrian Numerical Analysis Day 2025</a></strong><br>
+        <em>Salzburg, Austria</em><br>
+        Talk: On structure-preserving discretizations of Cahn--Hilliard systems
     </div>
 </div>
 <hr/>
