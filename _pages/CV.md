@@ -10,7 +10,7 @@ toc_label: "Category"
 toc_icon: "gear"
 ---
 
-## Short CV
+## Curriculum Vitae
 
 ### Work Experience
 
@@ -41,15 +41,15 @@ toc_icon: "gear"
        alt="FEniCS logo"
        style="max-width: 180px;" />
 
-  <img src="{{ '/assets/images/firedrake-logo.png' | relative_url }}"
+  <img src="/assets/images/firedrake-logo.png"
        alt="Firedrake logo"
        style="max-width: 180px;" />
 
-  <img src="{{ '/assets/images/libmesh-logo.png' | relative_url }}"
+  <img src="/assets/images/libmesh-logo.png"
        alt="libMesh logo"
        style="max-width: 180px;" />
 
-  <img src="{{ '/assets/images/ngsolve-logo.png' | relative_url }}"
+  <img src="/assets/images/ngsolve-logo.png"
        alt="NGSolve logo"
        style="max-width: 180px;" />
 </div>
