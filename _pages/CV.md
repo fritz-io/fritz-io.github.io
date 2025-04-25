@@ -38,18 +38,18 @@ toc_icon: "gear"
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 16px; margin-top: 1rem;">
   <img src="/assets/images/fenics-logo2.png"
        alt="FEniCS logo"
-       style="max-width: 180px;" />
+       style="max-width: 400px;" />
 
   <img src="/assets/images/firedrake-logo.png"
        alt="Firedrake logo"
-       style="max-width: 180px;" />
+       style="max-width: 400px;" />
 
   <img src="/assets/images/libmesh-logo2.png"
        alt="libMesh logo"
-       style="max-width: 180px;" />
+       style="max-width: 400px;" />
 
-  <img src="/assets/images/ngsolve-logo.png"
+  <img src="/assets/images/ngsolve-logo2.png"
        alt="NGSolve logo"
-       style="max-width: 180px;" />
+       style="max-width: 400px;" />
 </div>
 
