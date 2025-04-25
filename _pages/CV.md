@@ -10,8 +10,6 @@ toc_label: "Category"
 toc_icon: "gear"
 ---
 
-<p style="text-align: justify">If you are interested in my complete CV, please contact me by email.</p>
-
 ## Short CV
 
 ### Work Experience
@@ -35,3 +33,24 @@ toc_icon: "gear"
         <li><strong>10/2012 — 09/2015:</strong> <strong>B.Sc.</strong> in Mathematics at Technical University of Munich</li>
     </ul>
 </div>
+
+### Software
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 16px; margin-top: 1rem;">
+  <img src="{{ '/assets/images/fenics-logo.png' | relative_url }}"
+       alt="FEniCS logo"
+       style="max-width: 180px;" />
+
+  <img src="{{ '/assets/images/firedrake-logo.png' | relative_url }}"
+       alt="Firedrake logo"
+       style="max-width: 180px;" />
+
+  <img src="{{ '/assets/images/libmesh-logo.png' | relative_url }}"
+       alt="libMesh logo"
+       style="max-width: 180px;" />
+
+  <img src="{{ '/assets/images/ngsolve-logo.png' | relative_url }}"
+       alt="NGSolve logo"
+       style="max-width: 180px;" />
+</div>
+
