@@ -37,7 +37,7 @@ toc_icon: "gear"
 ### Software
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 16px; margin-top: 1rem;">
-  <img src="/assets/images/fenics-logo.png"
+  <img src="/assets/images/fenics-logo2.png"
        alt="FEniCS logo"
        style="max-width: 180px;" />
 
@@ -45,7 +45,7 @@ toc_icon: "gear"
        alt="Firedrake logo"
        style="max-width: 180px;" />
 
-  <img src="/assets/images/libmesh-logo.png"
+  <img src="/assets/images/libmesh-logo2.png"
        alt="libMesh logo"
        style="max-width: 180px;" />
 
