@@ -37,7 +37,7 @@ toc_icon: "gear"
 ### Software
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 16px; margin-top: 1rem;">
-  <img src="{{ '/assets/images/fenics-logo.png' | relative_url }}"
+  <img src="/assets/images/fenics-logo.png"
        alt="FEniCS logo"
        style="max-width: 180px;" />
 
