@@ -10,7 +10,6 @@ toc_label: "Category"
 toc_icon: "gear"
 ---
 
-## Curriculum Vitae
 
 ### Work Experience
 
