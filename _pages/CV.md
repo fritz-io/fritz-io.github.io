@@ -36,20 +36,25 @@ toc_icon: "gear"
 ### Software
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 16px; margin-top: 1rem;">
-  <img src="/assets/images/fenics-logo2.png"
-       alt="FEniCS logo"
-       style="max-width: 400px;" />
-
-  <img src="/assets/images/firedrake-logo.png"
-       alt="Firedrake logo"
-       style="max-width: 400px;" />
-
-  <img src="/assets/images/libmesh-logo2.png"
-       alt="libMesh logo"
-       style="max-width: 400px;" />
-
-  <img src="/assets/images/ngsolve-logo2.png"
-       alt="NGSolve logo"
-       style="max-width: 400px;" />
+  <a href="https://fenicsproject.org/" target="_blank">
+    <img src="/assets/images/fenics-logo2.png"
+         alt="FEniCS logo"
+         style="max-width: 400px;" />
+  </a>
+  <a href="https://www.firedrakeproject.org/" target="_blank">
+    <img src="/assets/images/firedrake-logo.png"
+         alt="Firedrake logo"
+         style="max-width: 400px;" />
+  </a>
+  <a href="https://ngsolve.org/" target="_blank">
+    <img src="/assets/images/ngsolve-logo2.png"
+         alt="NGSolve logo"
+         style="max-width: 400px;" />
+  </a>
+  <a href="https://libmesh.github.io/" target="_blank">
+    <img src="/assets/images/libmesh-logo2.png"
+         alt="libMesh logo"
+         style="max-width: 400px;" />
+  </a>
 </div>
 
