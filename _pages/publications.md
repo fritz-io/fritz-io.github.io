@@ -18,6 +18,20 @@ toc_icon: "gear"
 
 <h2>Preprints</h2>
 
+<ol start="21">
+    <li>
+        <img src="/assets/images/IMG_2338.jpeg" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <strong>On feedback stabilisation for the Cahn-Hilliard equation and its numerical approximation
+</strong><br>
+        <em>with H. Egger, K. Kunisch, S. Rodrigues</em><br>
+        Submitted (2025)<br>
+        Links: <a href="https://arxiv.org/abs/2411.09498">Preprint</a> 
+        <br clear="left"/>
+        <hr />
+    </li>
+</ol>
+
+
 <ol start="20">
     <li>
         <img src="/assets/images/chf.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
