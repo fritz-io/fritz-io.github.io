@@ -19,7 +19,18 @@ toc_icon: "gear"
     <div>
         <strong><a href="https://www.enumath2025.eu">ENUMATH 2025</a></strong><br>
         <em>Heidelberg, Germany</em><br>
-        Talk: Structure-preserving approximation of a velocity-enthalpy system in nonlinear acoustics
+        Talk: Structure-preserving approximation of time-fractional phase-field equations
+    </div>
+</div>
+<hr/>
+
+<div style="display: flex; align-items: flex-start; padding-top: 15px;">
+    <img src="/assets/images/vc2025.png" width="200" height="auto" alt="VC 2025" style="margin-right: 20px;"/>
+    <div>
+        <strong><a href="https://vc2025.conf.tuwien.ac.at">16th Viennese Conference on Optimal Control and Dynamic Games
+</a></strong><br>
+        <em>Vienna, Austria</em><br>
+        Talk: On H²-conforming finite elements for phase-field control with point-source stabilization
     </div>
 </div>
 <hr/>
