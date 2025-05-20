@@ -11,6 +11,7 @@ toc_icon: "gear"
 ---
 
 <p style="text-align: justify">Here is a list of conferences and workshops I have attended.</p>
+Interesting upcoming conferences are <a href="https://iciam.org/event/iciam-2027-hague">ICIAM 2027 The Hague (NL)</a>
 
 ## Talks
 
