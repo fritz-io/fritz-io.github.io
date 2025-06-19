@@ -54,12 +54,6 @@ toc_icon: "gear"
 </div>
 <hr/>
 
-<a href="https://www.equadiff2026.cz">EQUADIFF 29.6.-3.7.2026 Prague</a>
-<a href="https://wccm-eccomas2026.org">ECCOMAS 19.-24.7.2026 Munich</a>
-<a href="https://ecmtb2026.org">ECMTB 13.-17.7.2026 Graz</a>
-<a href="https://iciam.org/event/iciam-2027-hague">ICIAM 12.-17.7.2027 The Hague</a>
-<a href="https://aimsconference.org/conferences/2026/index.html">AIMS Conference 6.-10.7.2026 Athens</a>
-
 
 ## Past talks
 
