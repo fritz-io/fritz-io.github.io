@@ -10,10 +10,58 @@ toc_label: "Category"
 toc_icon: "gear"
 ---
 
-<p style="text-align: justify">Here is a list of conferences and workshops I have attended.</p>
-Interesting upcoming conferences are <a href="https://www.equadiff2026.cz">EQUADIFF 29.6.-3.7.2026 Prague</a>, <a href="https://wccm-eccomas2026.org">ECCOMAS 19.-24.7.2026 Munich</a>, <a href="https://ecmtb2026.org">ECMTB 13.-17.7.2026 Graz</a>, <a href="https://iciam.org/event/iciam-2027-hague">ICIAM 12.-17.7.2027 The Hague</a>, ...
+<p style="text-align: justify">Here is a list of conferences and workshops I plan to attend and have previously attended.</p>
 
-## Talks
+## Planned upcoming conferences
+
+<div style="display: flex; align-items: flex-start; padding-top: 15px;">
+    <img src="/assets/images/aims2026.jpg" width="200" height="auto" alt="AIMS 2026" style="margin-right: 20px;"/>
+    <div>
+        <strong><a href="https://aimsconference.org/conferences/2026/index.html">AIMS Conference 2026</a></strong><br>
+        <em>Athens, Greece</em><br>
+        Date: 6.7.2026 - 10.7.2026
+    </div>
+</div>
+<hr/>
+
+<div style="display: flex; align-items: flex-start; padding-top: 15px;">
+    <img src="/assets/images/eccomas2026.jpg" width="200" height="auto" alt="ECCOMAS 2026" style="margin-right: 20px;"/>
+    <div>
+        <strong><a href="https://wccm-eccomas2026.org">ECCOMAS 2026</a></strong><br>
+        <em>Munich, Germany</em><br>
+        Date: 19.7.2026 - 24.7.2026
+    </div>
+</div>
+<hr/>
+
+<div style="display: flex; align-items: flex-start; padding-top: 15px;">
+    <img src="/assets/images/iciam2027.jpg" width="200" height="auto" alt="ICIAM 2027" style="margin-right: 20px;"/>
+    <div>
+        <strong><a href="https://iciam.org/event/iciam-2027-hague">ICIAM 2027</a></strong><br>
+        <em>The Hague, Netherlands</em><br>
+        Date: 12.7.2026 - 17.7.2026
+    </div>
+</div>
+<hr/>
+
+<div style="display: flex; align-items: flex-start; padding-top: 15px;">
+    <img src="/assets/images/mfo.png" width="200" height="auto" alt="MFO 2027" style="margin-right: 20px;"/>
+    <div>
+        <strong><a href="https://www.mfo.de">Mathematisches Forschungsinstitut Oberwolfach</a></strong><br>
+        <em>Oberwolfach, Germany</em><br>
+        Date: tba
+    </div>
+</div>
+<hr/>
+
+<a href="https://www.equadiff2026.cz">EQUADIFF 29.6.-3.7.2026 Prague</a>
+<a href="https://wccm-eccomas2026.org">ECCOMAS 19.-24.7.2026 Munich</a>
+<a href="https://ecmtb2026.org">ECMTB 13.-17.7.2026 Graz</a>
+<a href="https://iciam.org/event/iciam-2027-hague">ICIAM 12.-17.7.2027 The Hague</a>
+<a href="https://aimsconference.org/conferences/2026/index.html">AIMS Conference 6.-10.7.2026 Athens</a>
+
+
+## Past talks
 
 <div style="display: flex; align-items: flex-start; padding-top: 15px;">
     <img src="/assets/images/enumath.png" width="200" height="auto" alt="ENUMATH 2025" style="margin-right: 20px;"/>
