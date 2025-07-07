@@ -70,7 +70,7 @@ toc_icon: "gear"
     <div>
         <strong><a href="https://www.mfo.de">Mathematisches Forschungsinstitut Oberwolfach</a></strong><br>
         <em>Oberwolfach, Germany</em><br>
-        Date: tba
+        Date: July 2027
     </div>
 </div>
 <hr/>
