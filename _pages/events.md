@@ -15,6 +15,27 @@ toc_icon: "gear"
 ## Planned upcoming conferences
 
 <div style="display: flex; align-items: flex-start; padding-top: 15px;">
+    <img src="/assets/images/vc2025.png" width="200" height="auto" alt="VC 2025" style="margin-right: 20px;"/>
+    <div>
+        <strong><a href="https://vc2025.conf.tuwien.ac.at">16th Viennese Conference on Optimal Control and Dynamic Games
+</a></strong><br>
+        <em>Vienna, Austria</em><br>
+        Talk: On H²-conforming finite elements for phase-field control with point-source stabilization
+    </div>
+</div>
+<hr/>
+
+<div style="display: flex; align-items: flex-start; padding-top: 15px;">
+    <img src="/assets/images/enumath.png" width="200" height="auto" alt="ENUMATH 2025" style="margin-right: 20px;"/>
+    <div>
+        <strong><a href="https://www.enumath2025.eu">ENUMATH 2025</a></strong><br>
+        <em>Heidelberg, Germany</em><br>
+        Talk: Structure-preserving approximation of time-fractional phase-field equations
+    </div>
+</div>
+<hr/>
+
+<div style="display: flex; align-items: flex-start; padding-top: 15px;">
     <img src="/assets/images/aims2026.jpg" width="200" height="auto" alt="AIMS 2026" style="margin-right: 20px;"/>
     <div>
         <strong><a href="https://aimsconference.org/conferences/2026/index.html">AIMS Conference 2026</a></strong><br>
@@ -39,7 +60,7 @@ toc_icon: "gear"
     <div>
         <strong><a href="https://iciam.org/event/iciam-2027-hague">ICIAM 2027</a></strong><br>
         <em>The Hague, Netherlands</em><br>
-        Date: 12.7.2026 - 17.7.2026
+        Date: 12.7.2027 - 17.7.2027
     </div>
 </div>
 <hr/>
@@ -56,27 +77,6 @@ toc_icon: "gear"
 
 
 ## Past talks
-
-<div style="display: flex; align-items: flex-start; padding-top: 15px;">
-    <img src="/assets/images/enumath.png" width="200" height="auto" alt="ENUMATH 2025" style="margin-right: 20px;"/>
-    <div>
-        <strong><a href="https://www.enumath2025.eu">ENUMATH 2025</a></strong><br>
-        <em>Heidelberg, Germany</em><br>
-        Talk: Structure-preserving approximation of time-fractional phase-field equations
-    </div>
-</div>
-<hr/>
-
-<div style="display: flex; align-items: flex-start; padding-top: 15px;">
-    <img src="/assets/images/vc2025.png" width="200" height="auto" alt="VC 2025" style="margin-right: 20px;"/>
-    <div>
-        <strong><a href="https://vc2025.conf.tuwien.ac.at">16th Viennese Conference on Optimal Control and Dynamic Games
-</a></strong><br>
-        <em>Vienna, Austria</em><br>
-        Talk: On H²-conforming finite elements for phase-field control with point-source stabilization
-    </div>
-</div>
-<hr/>
 
 <div style="display: flex; align-items: flex-start; padding-top: 15px;">
     <img src="/assets/images/anaday.png" width="200" height="auto" alt="Anaday 2025" style="margin-right: 20px;"/>
