@@ -144,7 +144,7 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-scholar"
       #url: https://scholar.google.com/citations?user=UXscgtgAAAAJ&hl=en
-    - label: "Orcid" 
+    - label: "ORCID" 
       icon: "fab fa-fw fa-orcid"
       #url: https://orcid.org/0000-0002-8360-7371
 
