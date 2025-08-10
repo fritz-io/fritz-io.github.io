@@ -58,19 +58,19 @@ toc_icon: "gear"
     </li>
 </ol>
 
+<h2>Peer-Reviewed Scientific Articles</h2>
+
 <ol start="18">
     <li>
         <img src="/assets/images/Actuator.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Stabilization to trajectories of nonisothermal Cahn-Hilliard equations</strong><br>
         <em>with B. Azmi and S. Rodrigues</em><br>
-        Submitted (2024)<br>
-        Links: <a href="https://arxiv.org/abs/2411.04018">Preprint</a>
+        ESAIM: Control, Optimisation and Calculus of Variations (accepted)<br>
+        Links: <a href="https://arxiv.org/abs/2411.04018">Preprint</a> & <a href="https://www.esaim-cocv.org">Journal</a>
         <br clear="left"/>
         <hr />
     </li>
 </ol>
-
-<h2>Peer-Reviewed Scientific Articles</h2>
 
 <ol start="17">
     <li>
