@@ -33,6 +33,7 @@ Here are the lectures I have previously taught.
 <strong>Literature:</strong>
 <img src="/assets/images/books_numerical.png" width="60%" height="auto" style="display:block; margin:20px auto;" alt="Monotone Operators Literature"/>
 
+
 ## Monotone Operators in Nonlinear PDEs (Johannes Kepler Universität Linz, WS2023)
 
 <strong>Overview:</strong>
