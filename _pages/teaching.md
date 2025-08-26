@@ -14,6 +14,25 @@ toc_icon: "gear"
 Here are the lectures I have previously taught.
 </p>
 
+## Numerical Analysis (Johannes Kepler Universität Linz, WS2025)
+
+<strong>Overview:</strong>
+<ul>
+  <li>Polynomial/Trigonomeric interpolation</li>
+  <li>Numerical integration/differentiation</li>
+  <li>Approximation in the 2 and infinity norms</li>
+  <li>Solving nonlinear systems of equations</li>
+</ul>
+
+<strong>Place and Time:</strong>
+<ul>
+  <li>Tuesdays 12pm (07.10.2025 - 27.01.2026)</li>
+  <li>Room: S2 053</li>
+</ul>
+
+<strong>Literature:</strong>
+<img src="/assets/images/books_numerical.png" width="60%" height="auto" style="display:block; margin:20px auto;" alt="Monotone Operators Literature"/>
+
 ## Monotone Operators in Nonlinear PDEs (Johannes Kepler Universität Linz, WS2023)
 
 <strong>Overview:</strong>
