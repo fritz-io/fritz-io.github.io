@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "Dr. Marvin Fritz"
   avatar           : "/assets/images/avatar_new.png"
-  bio              : "Analysis of PDEs, Numerical Analysis, Mathematical Modeling & Computational Science"
+  bio              : "Numerical Analysis of PDEs, Mathematical Modeling & Computational Science"
   location         : "Linz, Austria"
   email            : "marvin.fritz@ricam.oeaw.ac.at"
   links:
