@@ -7,14 +7,14 @@ author_profile: true
 classes: wide
 ---
 
-<img src="/assets/images/research.png" width="420px" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" /> 
+<img src="/assets/images/research.png" width="480px" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" /> 
 
 <p style="text-align: justify; line-height: 1.6;">
     I am a mathematician specializing in <strong>numerical analysis and the theory of partial differential equations (PDEs)</strong>, with a strong focus on applications in engineering and the life sciences. Currently, I am a project leader in the Computational Methods for PDEs group at the <a href="https://www.oeaw.ac.at/ricam/">Johann Radon Institute (RICAM)</a>. I obtained my PhD at the Technical University of Munich under the supervision of Prof. Barbara Wohlmuth.
 </p>
 
 <p style="text-align: justify; line-height: 1.6;">
-My research combines <strong>rigorous mathematical & numerical analysis</strong> with the development of <strong>structure-preserving numerical methods</strong> for complex PDE models. In particular, I investigate stability, convergence, well-posedness and long-time behavior of nonlinear PDE systems arising in physics, biology, and engineering, and I design and analyze numerical schemes that respect the underlying qualitative properties of the equations.  
+My research combines <strong>rigorous mathematical & numerical analysis</strong> with the development of <strong>structure-preserving numerical methods</strong> for complex PDE models. Through my work, I contribute to bridging <em>theory and computation</em> in applied mathematics: ensuring that advanced PDE models are not only mathematically well-founded but also reliably computable and applicable to real-world problems.  
 </p>
 
 <h3 style="margin-top: 20px;">Research profile and expertise</h3>
@@ -25,10 +25,6 @@ My research combines <strong>rigorous mathematical & numerical analysis</strong>
     <li><strong>Control and Stabilization:</strong> Feedback control and optimization for PDE systems, linking theoretical analysis with computational approaches.</li>
     <li><strong>Applications in Engineering:</strong> Developing predictive models for real-world problems in nonlinear acoustics, fluid dynamics, and tumor growth.</li>
 </ul>
-
-<p style="text-align: justify; line-height: 1.6;">
-Through my work, I contribute to bridging <em>theory and computation</em> in applied mathematics: ensuring that advanced PDE models are not only mathematically well-founded but also reliably computable and applicable to real-world problems.  
-</p>
 
 <p>For a complete list of my work, including preprints and citations, see my profiles on
     <a href="https://arxiv.org/a/fritz_m_1.html">arXiv</a>, 
