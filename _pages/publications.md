@@ -17,7 +17,7 @@ toc_icon: "gear"
     <a href="https://orcid.org/0000-0002-8360-7371">ORCID</a>.
 </p>
 
-<iframe src="scholar_citations.php?id=UXscgtgAAAAJ&lang=en" style="width:100%; height:50px; border:none;"></iframe>
+<iframe src="/_pages/scholar_citations.php?id=UXscgtgAAAAJ&lang=en" style="width:100%; height:50px; border:none;"></iframe>
 
 
 <h2>Preprints</h2>
