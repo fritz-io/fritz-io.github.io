@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "About Me"
 layout: archive
 sitemap: true
 permalink: /
@@ -10,15 +10,29 @@ classes: wide
 <img src="/assets/images/research.png" width="420px" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" /> 
 
 <p style="text-align: justify; line-height: 1.6;">
-    I am a postdoctoral researcher in the Computational Methods for PDEs group at the 
-    <a href="https://www.oeaw.ac.at/ricam/">Johann Radon Institute for Computational and Applied Mathematics (RICAM)</a>.
-    I completed my PhD in the Numerical Mathematics group at the Technical University of Munich.
+I am a mathematician specializing in <strong>numerical analysis and the theory of partial differential equations (PDEs)</strong>, with a strong focus on applications in the natural and engineering sciences. Currently, I am a project leader in the Computational Methods for PDEs group at the <a href="https://www.oeaw.ac.at/ricam/">Johann Radon Institute (RICAM)</a>. Before that, I obtained my PhD at the Technical University of Munich in the group of Prof. Barbara Wohlmuth.  
 </p>
 
-<h3 style="margin-top: 20px;">My research focuses on:</h3>
+<p style="text-align: justify; line-height: 1.6;">
+My research combines <strong>rigorous mathematical & numerical analysis</strong> with the development of <strong>structure-preserving numerical methods</strong> for complex PDE models. In particular, I investigate stability, convergence, well-posedness and long-time behavior of nonlinear PDE systems arising in physics, biology, and engineering, and I design and analyze numerical schemes that respect the underlying qualitative properties of the equations.  
+</p>
+
+<h3 style="margin-top: 20px;">Research profile and expertise</h3>
 <ul style="padding-left: 15px; line-height: 1.6;">
-    <li>The well-posedness of nonlinear evolutionary PDEs, particularly those with nonlocal, stochastic, fractional, or mixed-dimensional characteristics.</li>
-    <li>Examining long-term behavior and regularity properties of PDE solutions.</li>
-    <li>Advancing numerical analysis techniques for PDEs.</li>
-    <li>Applying PDE theory to practical areas like nonlinear acoustics, fluid dynamics, and tumor growth modeling (see images on the right, from top to bottom for each).</li>
+    <li><strong>Numerical analysis of PDEs</strong>: development and analysis of discretization schemes that are stable, structure-preserving, and efficient.</li>
+    <li><strong>Modeling, analysis, and simulation</strong> of nonlinear, nonlocal, fractional, mixed-dimensional, and stochastic PDE systems.</li>
+    <li><strong>Uncertainty quantification and stochastic PDE methods</strong> (analysis and computation under randomness and noise).</li>
+    <li><strong>Control and stabilization</strong> of evolutionary PDEs, linking analysis with computational approaches.</li>
+    <li><strong>Applications</strong> in engineering and the life sciences, including nonlinear acoustics, fluid dynamics, and tumor growth modeling.</li>
 </ul>
+
+<p style="text-align: justify; line-height: 1.6;">
+Through my work, I contribute to bridging <em>theory and computation</em> in applied mathematics: ensuring that advanced PDE models are not only mathematically well-founded but also reliably computable and applicable to real-world problems.  
+</p>
+
+<p>For a complete list of my work, including preprints and citations, see my profiles on
+    <a href="https://arxiv.org/a/fritz_m_1.html">arXiv</a>, 
+    <a href="https://www.researchgate.net/profile/Marvin-Fritz">ResearchGate</a>, 
+    <a href="https://scholar.google.com/citations?user=UXscgtgAAAAJ&hl=en">Google Scholar</a>,
+    <a href="https://orcid.org/0000-0002-8360-7371">ORCID</a>.
+</p>
