@@ -15,11 +15,11 @@ toc_icon: "gear"
 
 <div style="margin-bottom: 20px;">
     <ul style="list-style-type: none; padding: 0;">
-        <li><strong>10/2022 — Present:</strong> Postdoctoral researcher at <strong>Johann Radon Institute for Computational and Applied Mathematics</strong></li>
-        <li><strong>03/2023 — 02/2024:</strong> University Assistant at <strong>Johannes Kepler Universität Linz</strong></li>
-        <li><strong>04/2022 — 06/2022:</strong> Postdoctoral researcher at <strong>Technical University of Munich</strong></li>
-        <li><strong>01/2018 — 04/2022:</strong> Doctoral researcher at <strong>Technical University of Munich</strong></li>
-        <li><strong>06/2018 — 07/2018:</strong> Guest researcher at <strong>University of Texas at Austin</strong></li>
+        <li><strong>2022 — Present:</strong> Research Scientist at <strong>Johann Radon Institute for Computational and Applied Mathematics</strong></li>
+        <li><strong>2023 — 2026:</strong> University Assistant at <strong>Johannes Kepler Universität Linz</strong></li>
+        <li><strong>2022:</strong> Postdoctoral researcher at <strong>Technical University of Munich</strong></li>
+        <li><strong>2018 — 2022:</strong> Doctoral researcher at <strong>Technical University of Munich</strong></li>
+        <li><strong>2018:</strong> Guest researcher at <strong>University of Texas at Austin</strong></li>
     </ul>
 </div>
 
@@ -27,9 +27,9 @@ toc_icon: "gear"
 
 <div style="margin-bottom: 20px;">
     <ul style="list-style-type: none; padding: 0;">
-        <li><strong>01/2018 — 04/2022:</strong> <strong>Dr. rer. nat.</strong> at Technical University of Munich</li>
-        <li><strong>10/2015 — 11/2017:</strong> <strong>M.Sc.</strong> in Mathematics at Technical University of Munich</li>
-        <li><strong>10/2012 — 09/2015:</strong> <strong>B.Sc.</strong> in Mathematics at Technical University of Munich</li>
+        <li><strong>2018 — 2022:</strong> <strong>Dr. rer. nat.</strong> at Technical University of Munich</li>
+        <li><strong>2015 — 2017:</strong> <strong>M.Sc.</strong> in Mathematics at Technical University of Munich</li>
+        <li><strong>2012 — 2015:</strong> <strong>B.Sc.</strong> in Mathematics at Technical University of Munich</li>
     </ul>
 </div>
 
