@@ -10,7 +10,7 @@ classes: wide
 <img src="/assets/images/research.png" width="480px" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" /> 
 
 <p style="text-align: justify; line-height: 1.6;">
-    I am a mathematician specializing in <strong>numerical analysis and the theory of partial differential equations (PDEs)</strong>, with a strong focus on applications in engineering and the life sciences. Currently, I am a project leader in the Computational Methods for PDEs group at the <a href="https://www.oeaw.ac.at/ricam/">Johann Radon Institute (RICAM)</a>. I obtained my PhD at the Technical University of Munich under the supervision of Prof. Barbara Wohlmuth.
+    I am a mathematician specializing in <strong>numerical analysis and the theory of partial differential equations (PDEs)</strong>, with a strong focus on applications in engineering and the life sciences. Currently, I am a project leader in the Computational Methods for PDEs group at the <a href="https://www.oeaw.ac.at/ricam/">Johann Radon Institute for Computatioanl and Applied Mathematics (RICAM)</a>. I obtained my PhD at the Technical University of Munich under the supervision of <a href="https://www.math.cit.tum.de/math/forschung/gruppen/numerical-analysis/">Prof. Barbara Wohlmuth</a>.
 </p>
 
 <p style="text-align: justify; line-height: 1.6;">
