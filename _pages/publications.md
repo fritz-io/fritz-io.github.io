@@ -25,7 +25,7 @@ toc_icon: "gear"
         <strong>On feedback stabilisation for the Cahn-Hilliard equation and its numerical approximation
 </strong><br>
         <em>with H. Egger, K. Kunisch, S. Rodrigues</em><br>
-        Submitted (2025)<br>
+        IMA Journal of Numerical Analysis (submitted)<br>
         Links: <a href="https://arxiv.org/abs/2411.09498">Preprint</a> 
         <br clear="left"/>
         <hr />
@@ -39,7 +39,7 @@ toc_icon: "gear"
         <strong>Analysis and structure-preserving approximation of a Cahn-Hilliard-Forchheimer system with solution-dependent mass and volume source
 </strong><br>
         <em>with A. Brunk</em><br>
-        Submitted (2025)<br>
+        ESAIM: Mathematical Modelling and Numerical Analysis (submitted) <br>
         Links: <a href="https://arxiv.org/abs/2411.09498">Preprint</a> 
         <br clear="left"/>
         <hr />
@@ -51,7 +51,7 @@ toc_icon: "gear"
         <img src="/assets/images/ohta-removebg-preview.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Analysis and discretization of the Ohta-Kawasaki equation with forcing and degenerate mobility</strong><br>
         <em>with A. Brunk</em><br>
-        Submitted (2024)<br>
+        Partial Differential Equations and Applications (submitted)<br>
         Links: <a href="https://arxiv.org/abs/2411.09498">Preprint</a> 
         <br clear="left"/>
         <hr />
