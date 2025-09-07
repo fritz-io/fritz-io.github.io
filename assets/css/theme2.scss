@@ -49,3 +49,11 @@ html {
   }
 }
 }
+
+/* Add your banner image to the site header */
+.site-header {
+  background-image: url('/assets/images/avatar.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
