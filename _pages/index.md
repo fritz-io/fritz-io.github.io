@@ -18,10 +18,10 @@ I am a mathematician specializing in <strong>numerical analysis and partial diff
 
 <h3 style="margin-top: 20px;">Research profile and expertise</h3>
 <ul style="padding-left: 15px; line-height: 1.6;">
-    <li><strong>Numerical analysis of PDEs</strong>: Development and analysis of discretization schemes that are stable, structure-preserving, and efficient, with emphasis on multiphysics and multiscale problems.</li>
-    <li><strong>Model reduction & complex systems:</strong> Reduced-order modeling and simulation of multiphysics processes such as fluid–structure interaction, poroelasticity, and coupled diffusion–reaction systems.</li>
-    <li><strong>Uncertainty quantification & stochastic PDEs:</strong> Quantification of variability and robustness in predictive simulations of engineering and biomedical systems.</li>
-    <li><strong>Control, optimization & inverse problems:</strong> Feedback control, stabilization, and parameter identification for PDE systems in engineering contexts.</li>
+    <li><strong>Numerical analysis of PDEs</strong>: development and analysis of discretization schemes that are stable, structure-preserving, and efficient.</li> 
+    <li><strong>Model Reduction and Complex Systems:</strong> Analysis and simulation of multiphysics problems (e.g., fluid-structure interaction, poroelasticity) and mixed-dimensional models.</li> 
+    <li><strong>Uncertainty Quantification and Stochastic PDEs:</strong> Analysis and computations for systems with random inputs and stochastic effects.</li> 
+    <li><strong>Control and Stabilization:</strong> Feedback control and optimization for PDE systems, linking theoretical analysis with computational approaches.</li>
     <li><strong>Engineering & biomedical applications:</strong> Tumor growth models, nonlinear acoustics, peridynamics, anomalous diffusion, and multiphysics coupling.</li>
 </ul>
 
