@@ -11,7 +11,7 @@ classes: wide
 
 <p style="text-align: justify; line-height: 1.6;">
 
-I am a mathematician specializing in <strong>numerical analysis and partial differential equations (PDEs)</strong>, with a strong focus on <strong>engineering applications and computational biophysics</strong>. My research bridges <strong>mathematical theory, advanced numerical algorithms, and high-performance computing</strong> to develop <strong>predictive simulation tools</strong> for multiphysics systems in biomedical engineering and other applications. Currently, I am a project leader in the <em>Computational Methods for PDEs</em> group at the 
+I am a mathematician specializing in <strong>numerical analysis and partial differential equations (PDEs)</strong>, with a strong focus on <strong>engineering applications and computational biophysics</strong>. My research bridges <strong>mathematical theory, advanced numerical algorithms, and high-performance computing</strong> to develop <strong>predictive simulation tools</strong> for multiphysics systems. Currently, I am a project leader in the <em>Computational Methods for PDEs</em> group at the 
 <a href="https://www.oeaw.ac.at/ricam/">Johann Radon Institute for Computational and Applied Mathematics (RICAM)</a>. I obtained my PhD at the Technical University of Munich under the supervision of 
 <a href="https://www.math.cit.tum.de/math/forschung/gruppen/numerical-analysis/">Prof. Barbara Wohlmuth</a>.
 </p>
