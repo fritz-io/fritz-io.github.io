@@ -32,21 +32,7 @@ toc_icon: "gear"
     </li>
 </ol>
 
-
 <ol start="20">
-    <li>
-        <img src="/assets/images/chf.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
-        <strong>Analysis and structure-preserving approximation of a Cahn-Hilliard-Forchheimer system with solution-dependent mass and volume source
-</strong><br>
-        <em>with A. Brunk</em><br>
-        ESAIM: Mathematical Modelling and Numerical Analysis (submitted) <br>
-        Links: <a href="https://arxiv.org/abs/2411.09498">Preprint</a> 
-        <br clear="left"/>
-        <hr />
-    </li>
-</ol>
-
-<ol start="19">
     <li>
         <img src="/assets/images/ohta-removebg-preview.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Analysis and discretization of the Ohta-Kawasaki equation with forcing and degenerate mobility</strong><br>
@@ -59,6 +45,19 @@ toc_icon: "gear"
 </ol>
 
 <h2>Peer-Reviewed Scientific Articles</h2>
+
+<ol start="19">
+    <li>
+        <img src="/assets/images/chf.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <strong>Analysis and structure-preserving approximation of a Cahn-Hilliard-Forchheimer system with solution-dependent mass and volume source
+</strong><br>
+        <em>with A. Brunk</em><br>
+        ESAIM: Mathematical Modelling and Numerical Analysis (accepted) <br>
+        Links: <a href="https://arxiv.org/abs/2411.09498">Preprint</a> 
+        <br clear="left"/>
+        <hr />
+    </li>
+</ol>
 
 <ol start="18">
     <li>
