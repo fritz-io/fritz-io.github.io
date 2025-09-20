@@ -10,29 +10,6 @@ toc_label: "Category"
 toc_icon: "gear"
 ---
 
-.logo-row {
-  display: flex;               /* place items side by side */  /* [web:5] */
-  flex-wrap: wrap;             /* allow wrapping on narrow screens */  /* [web:17] */
-  align-items: center;         /* vertically align images */  /* [web:5] */
-  gap: 16px;                   /* spacing between logos */  /* [web:5] */
-  margin-top: 1rem;            /* keep original spacing */  /* [web:5] */
-}
-
-.logo {
-  display: inline-flex;        /* lets the img size define anchor box */  /* [web:5] */
-  align-items: center;         /* center image in anchor */  /* [web:5] */
-  justify-content: center;     /* center image in anchor */  /* [web:5] */
-}
-
-.logo img {
-  height: 80px;                /* uniform visual height for all images */  /* [web:10] */
-  width: auto;                 /* preserve aspect ratio by letting width adjust */  /* [web:10] */
-  object-fit: contain;         /* prevent distortion within the set height */  /* [web:19] */
-  max-width: 100%;             /* be responsive if a container constrains width */  /* [web:5] */
-}
-
-
-
 ### Work Experience
 
 <div style="margin-bottom: 20px;">
@@ -57,18 +34,18 @@ toc_icon: "gear"
 
 ### Software
 
-<div class="logo-row">
-  <a href="https://fenicsproject.org/" target="_blank" class="logo">
-    <img src="/assets/images/fenics-logo3.png" alt="FEniCS logo" />
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 16px; margin-top: 1rem;">
+  <a href="https://fenicsproject.org/" target="_blank" style="display: inline-flex; align-items: center; justify-content: center;">
+    <img src="/assets/images/fenics-logo2.png" alt="FEniCS logo" style="height: 80px; width: auto; object-fit: contain; max-width: 100%;" />
   </a>
-  <a href="https://www.firedrakeproject.org/" target="_blank" class="logo">
-    <img src="/assets/images/firedrake-logo3.png" alt="Firedrake logo" />
+  <a href="https://www.firedrakeproject.org/" target="_blank" style="display: inline-flex; align-items: center; justify-content: center;">
+    <img src="/assets/images/firedrake-logo.png" alt="Firedrake logo" style="height: 80px; width: auto; object-fit: contain; max-width: 100%;" />
   </a>
-  <a href="https://ngsolve.org/" target="_blank" class="logo">
-    <img src="/assets/images/ngsolve-logo3.png" alt="NGSolve logo" />
+  <a href="https://ngsolve.org/" target="_blank" style="display: inline-flex; align-items: center; justify-content: center;">
+    <img src="/assets/images/ngsolve-logo2.png" alt="NGSolve logo" style="height: 80px; width: auto; object-fit: contain; max-width: 100%;" />
   </a>
-  <a href="https://libmesh.github.io/" target="_blank" class="logo">
-    <img src="/assets/images/libmesh-logo2.png" alt="libMesh logo" />
+  <a href="https://libmesh.github.io/" target="_blank" style="display: inline-flex; align-items: center; justify-content: center;">
+    <img src="/assets/images/libmesh-logo2.png" alt="libMesh logo" style="height: 80px; width: auto; object-fit: contain; max-width: 100%;" />
   </a>
 </div>
 
