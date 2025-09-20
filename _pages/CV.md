@@ -36,16 +36,16 @@ toc_icon: "gear"
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 16px; margin-top: 1rem;">
   <a href="https://fenicsproject.org/" target="_blank" style="display: inline-flex; align-items: center; justify-content: center;">
-    <img src="/assets/images/fenics-logo3.png" alt="FEniCS logo" style="height: 80px; width: auto; object-fit: contain; max-width: 100%;" />
+    <img src="/assets/images/fenics-logo3.png" alt="FEniCS logo" style="height: 100px; width: auto; object-fit: contain; max-width: 100%;" />
   </a>
   <a href="https://www.firedrakeproject.org/" target="_blank" style="display: inline-flex; align-items: center; justify-content: center;">
-    <img src="/assets/images/firedrake-logo3.png" alt="Firedrake logo" style="height: 80px; width: auto; object-fit: contain; max-width: 100%;" />
+    <img src="/assets/images/firedrake-logo3.png" alt="Firedrake logo" style="height: 100px; width: auto; object-fit: contain; max-width: 100%;" />
   </a>
   <a href="https://ngsolve.org/" target="_blank" style="display: inline-flex; align-items: center; justify-content: center;">
-    <img src="/assets/images/ngsolve-logo3.png" alt="NGSolve logo" style="height: 80px; width: auto; object-fit: contain; max-width: 100%;" />
+    <img src="/assets/images/ngsolve-logo3.png" alt="NGSolve logo" style="height: 100px; width: auto; object-fit: contain; max-width: 100%;" />
   </a>
   <a href="https://libmesh.github.io/" target="_blank" style="display: inline-flex; align-items: center; justify-content: center;">
-    <img src="/assets/images/libmesh-logo2.png" alt="libMesh logo" style="height: 80px; width: auto; object-fit: contain; max-width: 100%;" />
+    <img src="/assets/images/libmesh-logo2.png" alt="libMesh logo" style="height: 100px; width: auto; object-fit: contain; max-width: 100%;" />
   </a>
 </div>
 
