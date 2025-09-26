@@ -77,7 +77,7 @@ toc_icon: "gear"
         <img src="/assets/images/Actuator.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Stabilization to trajectories of nonisothermal Cahn-Hilliard equations</strong><br>
         <em>with B. Azmi and S. Rodrigues</em><br>
-        ESAIM: Control, Optimisation and Calculus of Variations (accepted)<br>
+        ESAIM: Control, Optimisation and Calculus of Variations (2025)<br>
         Links: <a href="https://arxiv.org/abs/2411.04018">Preprint</a> & <a href="https://doi.org/10.1051/cocv/2025068">Journal</a>
         <br clear="left"/>
         <hr />
