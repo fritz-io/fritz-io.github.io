@@ -19,20 +19,19 @@ toc_icon: "gear"
 
 <h2>Preprints</h2>
 
-<ol start="21">
+<ol start="22">
     <li>
-        <img src="/assets/images/IMG_2338.jpeg" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
-        <strong>On feedback stabilisation for the Cahn-Hilliard equation and its numerical approximation
-</strong><br>
-        <em>with H. Egger, K. Kunisch, S. Rodrigues</em><br>
-        IMA Journal of Numerical Analysis (submitted)<br>
+        <img src="/assets/images/nonlocal.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <strong>Unifying local and nonlocal corrosion frameworks: A convergent nonlocal extension of the KKS phase-field model</strong><br>
+        <em>with C. Cyron, A. Hermann, T. Köppl, A. Shojaei, S. Silling </em><br>
+        Journal of Applied Mathematics and Mechanics (submitted)<br>
         Links: <a href="https://arxiv.org/abs/2411.09498">Preprint</a> 
         <br clear="left"/>
         <hr />
     </li>
 </ol>
 
-<ol start="20">
+<ol start="21">
     <li>
         <img src="/assets/images/ohta-removebg-preview.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Analysis and discretization of the Ohta-Kawasaki equation with forcing and degenerate mobility</strong><br>
@@ -45,6 +44,20 @@ toc_icon: "gear"
 </ol>
 
 <h2>Peer-Reviewed Scientific Articles</h2>
+
+
+<ol start="20">
+    <li>
+        <img src="/assets/images/IMG_2338.jpeg" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <strong>On feedback stabilisation for the Cahn-Hilliard equation and its numerical approximation
+</strong><br>
+        <em>with H. Egger, K. Kunisch, S. Rodrigues</em><br>
+        IMA Journal of Numerical Analysis (accepted)<br>
+        Links: <a href="https://arxiv.org/abs/2411.09498">Preprint</a> 
+        <br clear="left"/>
+        <hr />
+    </li>
+</ol>
 
 <ol start="19">
     <li>
