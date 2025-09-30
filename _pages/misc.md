@@ -10,9 +10,7 @@ toc_label: "Category"
 toc_icon: "gear"
 ---
 
-Some other items that you might find interesting.
 
-## (Useful) Links
 <ul style="padding-left: 20px;">
     <li><a href="https://researchseminars.org/">Overview of upcoming online math talks</a></li>
     <li><a href="https://www.ams.org/meetings/calendar/mathcal">Math conference calendar by AMS</a></li>
