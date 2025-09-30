@@ -24,8 +24,8 @@ toc_icon: "gear"
         <img src="/assets/images/nonlocal.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Unifying local and nonlocal corrosion frameworks: A convergent nonlocal extension of the KKS phase-field model</strong><br>
         <em>with C. Cyron, A. Hermann, T. Köppl, A. Shojaei, S. Silling </em><br>
-        Journal of Applied Mathematics and Mechanics (submitted)<br>
-        Links: <a href="https://arxiv.org/abs/2411.09498">Preprint</a> 
+        Mathematical Models and Methods in Applied Sciences (submitted)<br>
+        Links: <a href="https://arxiv.org/abs/2509.23503">Preprint</a> 
         <br clear="left"/>
         <hr />
     </li>
@@ -66,7 +66,7 @@ toc_icon: "gear"
 </strong><br>
         <em>with A. Brunk</em><br>
         ESAIM: Mathematical Modelling and Numerical Analysis (accepted) <br>
-        Links: <a href="https://arxiv.org/abs/2411.09498">Preprint</a> 
+        Links: <a href="https://arxiv.org/abs/2504.09739">Preprint</a> 
         <br clear="left"/>
         <hr />
     </li>
