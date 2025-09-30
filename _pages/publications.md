@@ -52,8 +52,8 @@ toc_icon: "gear"
         <strong>On feedback stabilisation for the Cahn-Hilliard equation and its numerical approximation
 </strong><br>
         <em>with H. Egger, K. Kunisch, S. Rodrigues</em><br>
-        IMA Journal of Numerical Analysis (accepted)<br>
-        Links: <a href="https://arxiv.org/abs/2411.09498">Preprint</a> 
+        IMA Journal of Numerical Analysis<br>
+        Links: <a href="https://arxiv.org/abs/2411.09498">Preprint</a> & <a href="10.1093/imanum/draf118">Journal</a>
         <br clear="left"/>
         <hr />
     </li>
