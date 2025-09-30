@@ -53,7 +53,7 @@ toc_icon: "gear"
 </strong><br>
         <em>with H. Egger, K. Kunisch, S. Rodrigues</em><br>
         IMA Journal of Numerical Analysis<br>
-        Links: <a href="https://arxiv.org/abs/2411.09498">Preprint</a> & <a href="10.1093/imanum/draf118">Journal</a>
+        Links: <a href="https://arxiv.org/abs/2411.09498">Preprint</a> & <a href="https://doi.org/10.1093/imanum/draf118">Journal</a>
         <br clear="left"/>
         <hr />
     </li>
