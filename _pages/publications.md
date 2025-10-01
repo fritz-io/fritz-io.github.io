@@ -52,7 +52,7 @@ toc_icon: "gear"
         <strong>On feedback stabilisation for the Cahn-Hilliard equation and its numerical approximation
 </strong><br>
         <em>with H. Egger, K. Kunisch, S. Rodrigues</em><br>
-        IMA Journal of Numerical Analysis<br>
+        IMA Journal of Numerical Analysis (2025)<br>
         Links: <a href="https://arxiv.org/abs/2411.09498">Preprint</a> & <a href="https://doi.org/10.1093/imanum/draf118">Journal</a>
         <br clear="left"/>
         <hr />
@@ -65,8 +65,8 @@ toc_icon: "gear"
         <strong>Analysis and structure-preserving approximation of a Cahn-Hilliard-Forchheimer system with solution-dependent mass and volume source
 </strong><br>
         <em>with A. Brunk</em><br>
-        ESAIM: Mathematical Modelling and Numerical Analysis (accepted) <br>
-        Links: <a href="https://arxiv.org/abs/2504.09739">Preprint</a> 
+        ESAIM: Mathematical Modelling and Numerical Analysis (2025) <br>
+        Links: <a href="https://arxiv.org/abs/2504.09739">Preprint</a> & <a href="https://doi.org/10.1051/m2an/2025081">Journal</a>
         <br clear="left"/>
         <hr />
     </li>
