@@ -10,6 +10,27 @@ toc_label: "Category"
 toc_icon: "gear"
 ---
 
+
+<style>
+ol.bracketed {
+  counter-reset: item;
+  list-style: none;
+  padding-left: 0;
+}
+ol.bracketed > li {
+  counter-increment: item;
+  margin-bottom: 1em;
+  position: relative;
+  padding-left: 2.5em;
+}
+ol.bracketed > li::before {
+  content: "[" counter(item) "] ";
+  position: absolute;
+  left: 0;
+  font-weight: bold;
+}
+</style>
+
 <p>For a complete list of my work, including preprints and citations, see my profiles on
     <a href="https://arxiv.org/a/fritz_m_1.html">arXiv</a>, 
     <a href="https://www.researchgate.net/profile/Marvin-Fritz">ResearchGate</a>, 
@@ -19,7 +40,7 @@ toc_icon: "gear"
 
 <h2>Preprints</h2>
 
-<ol start="22">
+<ol start="22" class="bracketed">
     <li>
         <img src="/assets/images/nonlocal.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Unifying local and nonlocal corrosion frameworks: A convergent nonlocal extension of the KKS phase-field model</strong><br>
