@@ -40,7 +40,7 @@ ol.bracketed > li::before {
 
 <h2>Preprints</h2>
 
-<ol start="22" class="bracketed">
+<ol class="bracketed" style="counter-reset: item 21;">
     <li>
         <img src="/assets/images/nonlocal.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Unifying local and nonlocal corrosion frameworks: A convergent nonlocal extension of the KKS phase-field model</strong><br>
