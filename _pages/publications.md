@@ -13,12 +13,11 @@ toc_icon: "gear"
 
 <style>
 ol.bracketed {
-  counter-reset: item;
   list-style: none;
   padding-left: 0;
 }
 ol.bracketed > li {
-  counter-increment: item;
+  counter-increment: item -1; /* 🔹 subtract 1 for each item */
   margin-bottom: 1em;
   position: relative;
   padding-left: 2.5em;
@@ -40,7 +39,7 @@ ol.bracketed > li::before {
 
 <h2>Preprints</h2>
 
-<ol class="bracketed" style="counter-reset: item 21;">
+<ol class="bracketed" style="counter-reset: item 23;">  
     <li>
         <img src="/assets/images/nonlocal.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Unifying local and nonlocal corrosion frameworks: A convergent nonlocal extension of the KKS phase-field model</strong><br>
@@ -50,9 +49,6 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-</ol>
-
-<ol start="21">
     <li>
         <img src="/assets/images/ohta-removebg-preview.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Analysis and discretization of the Ohta-Kawasaki equation with forcing and degenerate mobility</strong><br>
