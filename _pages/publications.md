@@ -63,7 +63,7 @@ ol.bracketed > li::before {
 <h2>Peer-Reviewed Scientific Articles</h2>
 
 
-<ol start="20">
+<ol class="bracketed" style="counter-reset: item 21;">  
     <li>
         <img src="/assets/images/IMG_2338.jpeg" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>On feedback stabilisation for the Cahn-Hilliard equation and its numerical approximation
@@ -74,9 +74,6 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-</ol>
-
-<ol start="19">
     <li>
         <img src="/assets/images/chf.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Analysis and structure-preserving approximation of a Cahn-Hilliard-Forchheimer system with solution-dependent mass and volume source
@@ -87,9 +84,6 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-</ol>
-
-<ol start="18">
     <li>
         <img src="/assets/images/Actuator.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Stabilization to trajectories of nonisothermal Cahn-Hilliard equations</strong><br>
@@ -99,9 +93,6 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-</ol>
-
-<ol start="17">
     <li>
         <img src="/assets/images/acou.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Well-posedness, long-time behavior, and discretization of some models of nonlinear acoustics in velocity-enthalpy formulation</strong><br>
@@ -111,9 +102,6 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-</ol>
-
-<ol start="16">
     <li>
         <img src="/assets/images/Stochastic.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Analysis and computations of a stochastic Cahn-Hilliard model for tumor growth with chemotaxis and variable mobility</strong><br>
@@ -123,9 +111,6 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-</ol>
-
-<ol start="15">
     <li>
         <img src="/assets/images/chb.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Structure-preserving approximation of the Cahn-Hilliard-Biot system</strong><br>
@@ -134,10 +119,6 @@ ol.bracketed > li::before {
         Links: <a href="https://arxiv.org/abs/2407.12349">Preprint</a> & <a href="https://doi.org/10.1002/num.23159">Journal</a>
         <br clear="left"/>
         <hr />
-    </li>
-</ol>
-
-<ol start="14">
     <li>
         <img src="/assets/images/biot.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> On the well-posedness of the Cahn-Hilliard-Biot model and its applications to tumor growth </strong> <br> 
@@ -146,9 +127,6 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-</ol>
-
-<ol start="13">
 <li>
         <img src="/assets/images/Fokker2.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> Well-posedness and simulation of weak solutions to  the time-fractional Fokker-Planck equation with general forcing </strong> <br> 
@@ -157,9 +135,6 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-</ol>
-
-<ol start="12">
 <li>
         <img src="/assets/images/dilute.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> Analysis of a dilute polymer model with a time-fractional derivative </strong> <br> 
@@ -169,9 +144,6 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-</ol>
-
-<ol start="11">
 <li>
         <img src="/assets/images/lung.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> A phase-field model for non-small cell lung cancer under the effects of immunotherapy </strong> <br> 
@@ -182,9 +154,6 @@ Schumann, A. Wagner and B. Wohlmuth </em> <br>
         <br clear="left"/>
         <hr />
     </li>
-</ol>
-
-<ol start="10">
 <li>
         <img src="/assets/images/phd.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> Tumor evolution models of phase-field type with nonlocal effects and angiogenesis </strong> <br> 
@@ -193,9 +162,6 @@ Schumann, A. Wagner and B. Wohlmuth </em> <br>
         <br clear="left"/>
         <hr />
     </li>
-</ol>
-
-<ol start="9">
 <li> 
         <img src="/assets/images/equivalence.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
 <strong> Equivalence between a time-fractional and an integer-order gradient flow: The memory effect reflected in the energy </strong> <br> 
@@ -205,9 +171,6 @@ Schumann, A. Wagner and B. Wohlmuth </em> <br>
         <br clear="left"/>
         <hr />
     </li>
-</ol>
-
-<ol start="8">
 <li>
         <img src="/assets/images/1d0d3d.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> A 1D-0D-3D coupled model for simulating blood flow and transport processes in breast tissue</strong>  <br> 
@@ -217,9 +180,6 @@ Schumann, A. Wagner and B. Wohlmuth </em> <br>
         <br clear="left"/>
         <hr />
     </li>
-</ol>
-
-<ol start="7">
 <li>
         <img src="/assets/images/timefractional.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> Time-fractional Cahn-Hilliard equation: Well-posedness, degeneracy, and numerical solutions</strong>  <br> 
@@ -229,9 +189,6 @@ Schumann, A. Wagner and B. Wohlmuth </em> <br>
         <br clear="left"/>
         <hr />
     </li>
-</ol>
-
-<ol start="6">
 <li>
         <img src="/assets/images/subdiffusive.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> On a subdiffusive tumour growth model with fractional time derivative</strong>  <br> 
@@ -241,9 +198,6 @@ Schumann, A. Wagner and B. Wohlmuth </em> <br>
         <br clear="left"/>
         <hr />
     </li>
-</ol>
-
-<ol start="5">
 <li>
         <img src="/assets/images/modeling3.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> Modeling and simulation of vascular tumors embedded in evolving capillary networks</strong>  <br> 
@@ -253,9 +207,6 @@ Schumann, A. Wagner and B. Wohlmuth </em> <br>
         <br clear="left"/>
         <hr />
     </li>
-</ol>
-
-<ol start="4">
 <li>
         <img src="/assets/images/modeling2.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> Analysis of a new multispecies tumor growth model coupling 3D phase-fields with a 1D vascular network</strong>  <br> 
@@ -265,9 +216,6 @@ Schumann, A. Wagner and B. Wohlmuth </em> <br>
         <br clear="left"/>
         <hr />
     </li>
-</ol>
-
-<ol start="3">
 <li>
         <img src="/assets/images/tumor.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> Local and nonlocal phase-field models of tumor growth and invasion due to ECM degradation</strong>  <br> 
@@ -277,9 +225,6 @@ Schumann, A. Wagner and B. Wohlmuth </em> <br>
         <br clear="left"/>
         <hr />
     </li>
-</ol>
-
-<ol start="2">
 <li>
         <img src="/assets/images/dfb.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> On the unsteady Darcy-Forchheimer-Brinkman equation in local and nonlocal tumor growth models</strong>  <br> 
@@ -289,9 +234,6 @@ Schumann, A. Wagner and B. Wohlmuth </em> <br>
         <br clear="left"/>
         <hr />
     </li>
-</ol>
-
-<ol start="1">
 <li>
         <img src="/assets/images/blackstock.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> Well-posedness and numerical treatment of the Blackstock equation in nonlinear acoustics</strong>  <br> 
