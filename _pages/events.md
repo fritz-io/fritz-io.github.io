@@ -17,7 +17,7 @@ toc_icon: "gear"
 <div style="display: flex; align-items: flex-start; padding-top: 15px;">
     <img src="/assets/images/iocff.jpg" width="200" height="auto" alt="AIMS 2026" style="margin-right: 20px;"/>
     <div>
-        <strong><a href="https://sciforum.net/event/IOCFF2026?section=#welcome">International Online Conference on Fractal and Fractional 20266</a></strong><br>
+        <strong><a href="https://sciforum.net/event/IOCFF2026?section=#welcome">International Online Conference on Fractal and Fractional 2026</a></strong><br>
         <em>Online</em><br>
         Date: 13.4.2026 - 15.4.2026
     </div>
