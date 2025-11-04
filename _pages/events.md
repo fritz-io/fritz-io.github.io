@@ -25,16 +25,6 @@ toc_icon: "gear"
 <hr/>
 
 <div style="display: flex; align-items: flex-start; padding-top: 15px;">
-    <img src="/assets/images/siamopt2026.png" width="200" height="auto" alt="AIMS 2026" style="margin-right: 20px;"/>
-    <div>
-        <strong><a href="https://www.siam.org/conferences-events/siam-conferences/op26/">SIAM Conference on Optimization 2026</a></strong><br>
-        <em>Edinburgh, United Kingdom</em><br>
-        Date: 2.6.2026 - 5.6.2026
-    </div>
-</div>
-<hr/>
-
-<div style="display: flex; align-items: flex-start; padding-top: 15px;">
     <img src="/assets/images/aims2026.jpg" width="200" height="auto" alt="AIMS 2026" style="margin-right: 20px;"/>
     <div>
         <strong><a href="https://aimsconference.org/conferences/2026/index.html">AIMS Conference 2026</a></strong><br>
