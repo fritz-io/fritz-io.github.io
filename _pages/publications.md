@@ -59,8 +59,8 @@ ol.bracketed > li::before {
         <img src="/assets/images/ohta-removebg-preview.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Analysis and discretization of the Ohta-Kawasaki equation with forcing and degenerate mobility</strong><br>
         <em>with A. Brunk</em><br>
-        Partial Differential Equations and Applications (submitted)<br>
-        Links: <a href="https://arxiv.org/abs/2411.09498">Preprint</a> 
+        Partial Differential Equations and Applications (accepted)<br>
+        Links: <a href="https://arxiv.org/abs/2411.09498">Preprint</a> & <a href="https://link.springer.com/journal/42985">Journal</a>
         <br clear="left"/>
         <hr />
     </li>
