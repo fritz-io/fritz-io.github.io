@@ -22,18 +22,5 @@ I am a mathematician specializing in <strong>numerical analysis and partial diff
     <li><strong>Model Reduction and Complex Systems:</strong> Analysis and simulation of multiphysics problems (e.g., fluid-structure interaction, poroelasticity) and mixed-dimensional models.</li> 
     <li><strong>Uncertainty Quantification and Stochastic PDEs:</strong> Analysis and computations for systems with random inputs and stochastic effects.</li> 
     <li><strong>Control and Stabilization:</strong> Feedback control and optimization for PDE systems, linking theoretical analysis with computational approaches.</li>
-    <li><strong>Engineering & biomedical applications:</strong> Tumor growth models, nonlinear acoustics, peridynamics, anomalous diffusion, and multiphysics coupling.</li>
-</ul>
-
-<h3 style="margin-top: 20px;">Applications in Engineering and Applied Sciences</h3>
-<p style="text-align: justify; line-height: 1.6;">
-From the viewpoint of applications, my research connects advanced PDE modeling and numerical analysis with a wide spectrum of engineering and biomedical challenges. Current focus areas include:
-</p>
-<ul style="padding-left: 15px; line-height: 1.6;">
     <li><strong>Computational biophysics & biomedical engineering:</strong> Phase-field and PDE-based modeling of tumor growth, tissue mechanics, and transport phenomena, with relevance to individualized medicine and oncophysics.</li>
-    <li><strong>Nonlinear acoustics:</strong> Mathematical modeling and simulation of high-intensity ultrasound and nonlinear wave propagation, with applications ranging from medical imaging to acoustic engineering.</li>
-    <li><strong>Materials science & fracture mechanics:</strong> Nonlocal and peridynamic models for crack initiation and propagation, as well as fractional diffusion equations capturing memory effects and anomalous transport.</li>
-    <li><strong>Transport and diffusion in complex media:</strong> Fractional and stochastic PDE models describing subdiffusion and transport in heterogeneous environments, with applications in porous media, geophysics, and energy systems.</li>
-    <li><strong>Multiphysics & reduced-order modeling:</strong> Development of predictive and computationally efficient models for coupled processes such as fluid–structure interaction, poroelasticity, and multiphase flow.</li>
 </ul>
-
