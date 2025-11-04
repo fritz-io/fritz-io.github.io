@@ -49,7 +49,13 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-    <li>
+</ol>
+
+<h2>Peer-Reviewed Scientific Articles</h2>
+
+
+<ol class="bracketed" style="counter-reset: item 22;">  
+      <li>
         <img src="/assets/images/ohta-removebg-preview.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Analysis and discretization of the Ohta-Kawasaki equation with forcing and degenerate mobility</strong><br>
         <em>with A. Brunk</em><br>
@@ -58,12 +64,6 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-</ol>
-
-<h2>Peer-Reviewed Scientific Articles</h2>
-
-
-<ol class="bracketed" style="counter-reset: item 21;">  
     <li>
         <img src="/assets/images/IMG_2338.jpeg" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>On feedback stabilisation for the Cahn-Hilliard equation and its numerical approximation
