@@ -39,7 +39,16 @@ ol.bracketed > li::before {
 
 <h2>Preprints</h2>
 
-<ol class="bracketed" style="counter-reset: item 23;">  
+<ol class="bracketed" style="counter-reset: item 24;">  
+  <li>
+        <img src="/assets/images/fisher.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <strong>A time-fractional Fisher--KPP equation for tumor growth: Analysis and numerical simulation</strong><br>
+        <em>with N. Kavallaris </em><br>
+        Communications in Nonlinear Science and Numerical Simulation (submitted)<br>
+        Links: <a href="https://arxiv.org/abs/2509.23503">Preprint</a> 
+        <br clear="left"/>
+        <hr />
+    </li>
     <li>
         <img src="/assets/images/nonlocal.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Unifying local and nonlocal corrosion frameworks: A convergent nonlocal extension of the KKS phase-field model</strong><br>
