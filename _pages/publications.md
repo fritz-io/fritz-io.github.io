@@ -39,7 +39,16 @@ ol.bracketed > li::before {
 
 <h2>Preprints</h2>
 
-<ol class="bracketed" style="counter-reset: item 24;">  
+<ol class="bracketed" style="counter-reset: item 25;">  
+  <li>
+        <img src="/assets/images/endre.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <strong>On the well-posedness of a nonlocal kinetic model for dilute polymers with anomalous diffusion</strong><br>
+        <em>with E. Süli and B. Wohlmuth </em><br>
+        Fractional Calculus and Applied Analysis (submitted)<br>
+        Links: <a href="https://arxiv.org/abs/2509.23503">Preprint</a> 
+        <br clear="left"/>
+        <hr />
+  </li>
   <li>
         <img src="/assets/images/fisher.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>A time-fractional Fisher-KPP equation for tumor growth: Analysis and numerical simulation</strong><br>
