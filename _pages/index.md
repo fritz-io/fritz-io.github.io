@@ -18,9 +18,7 @@ I am a mathematician working in <strong>numerical analysis and partial different
 
 <h3 style="margin-top: 20px;">Research profile and expertise</h3>
 <ul style="padding-left: 15px; line-height: 1.6;">
-    <li><strong>Numerical analysis of PDEs</strong>: development and analysis of discretization schemes that are stable, structure-preserving, and efficient.</li> 
-    <li><strong>Model Reduction and Complex Systems:</strong> Analysis and simulation of multiphysics problems (e.g., fluid-structure interaction, poroelasticity) and mixed-dimensional models.</li> 
-    <li><strong>Numerical analysis of PDEs</strong>: stable and structure-preserving discretization schemes.</li> 
+<li><strong>Numerical analysis of PDEs</strong>: stable and structure-preserving discretization schemes.</li> 
     <li><strong>Model reduction & complex systems</strong>: multiphysics problems (fluid–structure interaction, poroelasticity) and mixed-dimensional models.</li> 
     <li><strong>Uncertainty quantification & stochastic PDEs</strong>: analysis and computation for systems with random inputs.</li> 
     <li><strong>Control & stabilization</strong>: feedback control and optimization for PDE systems.</li>
