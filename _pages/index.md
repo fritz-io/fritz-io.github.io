@@ -11,7 +11,7 @@ classes: wide
 
 <p style="text-align: justify; line-height: 1.6;">
 
-I am a mathematician specializing in <strong>numerical analysis and partial differential equations (PDEs)</strong>, with a strong focus on <strong>engineering applications and computational biophysics</strong>. My research bridges <strong>mathematical theory, advanced numerical algorithms, and high-performance computing</strong> to develop <strong>predictive simulation tools</strong> for multiphysics systems. Currently, I am a project leader in the <em>Computational Methods for PDEs</em> group at the 
+I am a mathematician working in <strong>numerical analysis and partial differential equations (PDEs)</strong>, with a focus on <strong>engineering applications and computational biophysics</strong>. My work connects <strong>mathematical analysis, numerical algorithms, and high-performance computing</strong> to build <strong>predictive simulation tools</strong> for multiphysics systems. I am currently a postdoctoral researcher in the <em>Computational Methods for PDEs</em> group at the 
 <a href="https://www.oeaw.ac.at/ricam/">Johann Radon Institute for Computational and Applied Mathematics (RICAM)</a>. I obtained my PhD at the Technical University of Munich under the supervision of 
 <a href="https://www.math.cit.tum.de/math/forschung/gruppen/numerical-analysis/">Prof. Barbara Wohlmuth</a>.
 </p>
@@ -20,7 +20,9 @@ I am a mathematician specializing in <strong>numerical analysis and partial diff
 <ul style="padding-left: 15px; line-height: 1.6;">
     <li><strong>Numerical analysis of PDEs</strong>: development and analysis of discretization schemes that are stable, structure-preserving, and efficient.</li> 
     <li><strong>Model Reduction and Complex Systems:</strong> Analysis and simulation of multiphysics problems (e.g., fluid-structure interaction, poroelasticity) and mixed-dimensional models.</li> 
-    <li><strong>Uncertainty Quantification and Stochastic PDEs:</strong> Analysis and computations for systems with random inputs and stochastic effects.</li> 
-    <li><strong>Control and Stabilization:</strong> Feedback control and optimization for PDE systems, linking theoretical analysis with computational approaches.</li>
-    <li><strong>Computational biophysics & biomedical engineering:</strong> Phase-field and PDE-based modeling of tumor growth, tissue mechanics, and transport phenomena, with relevance to individualized medicine and oncophysics.</li>
+    <li><strong>Numerical analysis of PDEs</strong>: stable and structure-preserving discretization schemes.</li> 
+    <li><strong>Model reduction & complex systems</strong>: multiphysics problems (fluid–structure interaction, poroelasticity) and mixed-dimensional models.</li> 
+    <li><strong>Uncertainty quantification & stochastic PDEs</strong>: analysis and computation for systems with random inputs.</li> 
+    <li><strong>Control & stabilization</strong>: feedback control and optimization for PDE systems.</li>
+    <li><strong>Computational biophysics & biomedical engineering</strong>: PDE and phase-field models for tumor growth, tissue mechanics, and transport phenomena.</li>
 </ul>
