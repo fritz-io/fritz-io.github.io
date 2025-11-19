@@ -10,8 +10,6 @@ toc_label: "Category"
 toc_icon: "gear"
 ---
 
-<p style="text-align: justify">Here is a list of conferences and workshops I plan to attend and have previously attended.</p>
-
 ## Planned upcoming conferences
 
 <div style="display: flex; align-items: flex-start; padding-top: 15px;">
