@@ -10,9 +10,6 @@ toc_label: "Category"
 toc_icon: "gear"
 ---
 
-<p style="text-align: justify">
-Here are the lectures I have previously taught.
-</p>
 
 ## Numerical Analysis (Johannes Kepler Universität Linz, WS2025)
 
