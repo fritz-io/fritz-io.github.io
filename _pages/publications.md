@@ -30,13 +30,6 @@ ol.bracketed > li::before {
 }
 </style>
 
-<p>For a complete list of my work, including preprints and citations, see my profiles on
-    <a href="https://arxiv.org/a/fritz_m_1.html">arXiv</a>, 
-    <a href="https://www.researchgate.net/profile/Marvin-Fritz">ResearchGate</a>, 
-    <a href="https://scholar.google.com/citations?user=UXscgtgAAAAJ&hl=en">Google Scholar</a>,
-    <a href="https://orcid.org/0000-0002-8360-7371">ORCID</a>.
-</p>
-
 <h2>Preprints</h2>
 
 <ol class="bracketed" style="counter-reset: item 25;">  
