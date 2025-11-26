@@ -44,6 +44,9 @@ toc_icon: "gear"
   <a href="https://ngsolve.org/" target="_blank" style="display: inline-flex; align-items: center; justify-content: center;">
     <img src="/assets/images/ngsolve-logo3.png" alt="NGSolve logo" style="height: 100px; width: auto; object-fit: contain; max-width: 100%;" />
   </a>
+<a href="https://kratosmultiphysics.github.io/Kratos/" target="_blank" style="display: inline-flex; align-items: center; justify-content: center;">
+    <img src="/assets/images/kratos.png" alt="libMesh logo" style="height: 100px; width: auto; object-fit: contain; max-width: 100%;" />
+  </a>
   <a href="https://libmesh.github.io/" target="_blank" style="display: inline-flex; align-items: center; justify-content: center;">
     <img src="/assets/images/libmesh-logo2.png" alt="libMesh logo" style="height: 100px; width: auto; object-fit: contain; max-width: 100%;" />
   </a>
