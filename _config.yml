@@ -108,7 +108,7 @@ author:
   name             : "Dr. Marvin Fritz"
   avatar           : "/assets/images/avatar_new.png"
   bio              : "Numerical Analysis of PDEs, Mathematical Modeling & Computational Science"
-  location         : '<a href="https://www.google.com/maps/place/Linz,+Austria" target="_blank" rel="noopener">Linz, Austria</a>'
+  location         : '<a href="https://www.google.com/maps/place/Linz,+Austria" target="_blank" rel="noopener" style="display:inline;">Linz, Austria</a>'
   email            : "marvin.fritz@ricam.oeaw.ac.at"
   links:
     - label: "Twitter"
