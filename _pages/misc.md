@@ -18,4 +18,5 @@ toc_icon: "gear"
     <li><a href="https://flamingtempura.github.io/bibtex-tidy/">Online BibTeX tidy</a></li>
     <li><a href="https://www.genealogy.math.ndsu.nodak.edu/">Mathematics Genealogy Project</a></li>
     <li><a href="https://www.writespace.app/">Writespace for LaTeX formula to PNG</a></li>
+    <li><a href="https://snip.mathpix.com/home">Convert PDF to LaTeX</a></li>
 </ul>
