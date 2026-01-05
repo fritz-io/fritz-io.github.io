@@ -33,7 +33,7 @@ ol.bracketed > li::before {
 <h2>Preprints</h2>
 
 <ol class="bracketed" style="counter-reset: item 25;">  
-  <li>
+  <li id="pub24">
         <img src="/assets/images/endre.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>On the well-posedness of a nonlocal kinetic model for dilute polymers with anomalous diffusion</strong><br>
         <em>with E. Süli and B. Wohlmuth </em><br>
@@ -42,7 +42,7 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
   </li>
-  <li>
+  <li id="pub23">
         <img src="/assets/images/fisher.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>A time-fractional Fisher-KPP equation for tumor growth: Analysis and numerical simulation</strong><br>
         <em>with N. Kavallaris </em><br>
@@ -51,7 +51,7 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-    <li>
+    <li id="pub22">
         <img src="/assets/images/nonlocal.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Unifying local and nonlocal corrosion frameworks: A convergent nonlocal extension of the KKS phase-field model</strong><br>
         <em>with C. Cyron, A. Hermann, T. Köppl, A. Shojaei, S. Silling </em><br>
@@ -66,7 +66,7 @@ ol.bracketed > li::before {
 
 
 <ol class="bracketed" style="counter-reset: item 22;">  
-      <li>
+      <li id="pub21">
         <img src="/assets/images/ohta-removebg-preview.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Analysis and discretization of the Ohta-Kawasaki equation with forcing and degenerate mobility</strong><br>
         <em>with A. Brunk</em><br>
@@ -75,7 +75,7 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-    <li>
+    <li id="pub20">
         <img src="/assets/images/IMG_2338.jpeg" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>On feedback stabilisation for the Cahn-Hilliard equation and its numerical approximation
 </strong><br>
@@ -85,7 +85,7 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-    <li>
+    <li id="pub19">
         <img src="/assets/images/chf.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Analysis and structure-preserving approximation of a Cahn-Hilliard-Forchheimer system with solution-dependent mass and volume source
 </strong><br>
@@ -95,7 +95,7 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-    <li>
+    <li id="pub18">
         <img src="/assets/images/Actuator.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Stabilization to trajectories of nonisothermal Cahn-Hilliard equations</strong><br>
         <em>with B. Azmi and S. Rodrigues</em><br>
@@ -104,7 +104,7 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-    <li>
+    <li id="pub17">
         <img src="/assets/images/acou.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Well-posedness, long-time behavior, and discretization of some models of nonlinear acoustics in velocity-enthalpy formulation</strong><br>
         <em>with H. Egger</em><br>
@@ -113,7 +113,7 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-    <li>
+    <li id="pub16">
         <img src="/assets/images/Stochastic.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Analysis and computations of a stochastic Cahn-Hilliard model for tumor growth with chemotaxis and variable mobility</strong><br>
         <em>with L. Scarpa</em><br>
@@ -122,7 +122,7 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-    <li>
+    <li id="pub15">
         <img src="/assets/images/chb.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Structure-preserving approximation of the Cahn-Hilliard-Biot system</strong><br>
         <em>with A. Brunk</em><br>
@@ -130,7 +130,7 @@ ol.bracketed > li::before {
         Links: <a href="https://arxiv.org/abs/2407.12349">Preprint</a> & <a href="https://doi.org/10.1002/num.23159">Journal</a>
         <br clear="left"/>
         <hr />
-    <li>
+    <li id="pub14">
         <img src="/assets/images/biot.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> On the well-posedness of the Cahn-Hilliard-Biot model and its applications to tumor growth </strong> <br> 
         Discrete and Continuous Dynamical Systems - S (2024) <br>
@@ -138,7 +138,7 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-<li>
+<li id="pub13">
         <img src="/assets/images/Fokker2.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> Well-posedness and simulation of weak solutions to  the time-fractional Fokker-Planck equation with general forcing </strong> <br> 
   Discrete and Continuous Dynamical Systems - B (2024) <br>
@@ -146,7 +146,7 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-<li>
+<li id="pub12">
         <img src="/assets/images/dilute.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> Analysis of a dilute polymer model with a time-fractional derivative </strong> <br> 
     <em> with E. Süli and B. Wohlmuth </em> <br>
@@ -155,7 +155,7 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-<li>
+<li id="pub11">
         <img src="/assets/images/lung.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> A phase-field model for non-small cell lung cancer under the effects of immunotherapy </strong> <br> 
   <em> with C. Kuttler, J.T. Oden, P. Schlicke, C.
@@ -165,7 +165,7 @@ Schumann, A. Wagner and B. Wohlmuth </em> <br>
         <br clear="left"/>
         <hr />
     </li>
-<li>
+<li id="pub10">
         <img src="/assets/images/phd.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> Tumor evolution models of phase-field type with nonlocal effects and angiogenesis </strong> <br> 
   Bulletin of Mathematical Biology (2023) <br>
@@ -173,7 +173,7 @@ Schumann, A. Wagner and B. Wohlmuth </em> <br>
         <br clear="left"/>
         <hr />
     </li>
-<li> 
+<li id="pub9"> 
         <img src="/assets/images/equivalence.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
 <strong> Equivalence between a time-fractional and an integer-order gradient flow: The memory effect reflected in the energy </strong> <br> 
   <em> with U. Khristenko and B. Wohlmuth </em> <br> 
@@ -182,7 +182,7 @@ Schumann, A. Wagner and B. Wohlmuth </em> <br>
         <br clear="left"/>
         <hr />
     </li>
-<li>
+<li id="pub8">
         <img src="/assets/images/1d0d3d.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> A 1D-0D-3D coupled model for simulating blood flow and transport processes in breast tissue</strong>  <br> 
   <em>with T. Köppl, J.T. Oden, A. Wagner, B. Wohlmuth and C. Wu</em> <br> 
@@ -191,7 +191,7 @@ Schumann, A. Wagner and B. Wohlmuth </em> <br>
         <br clear="left"/>
         <hr />
     </li>
-<li>
+<li id="pub7">
         <img src="/assets/images/timefractional.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> Time-fractional Cahn-Hilliard equation: Well-posedness, degeneracy, and numerical solutions</strong>  <br> 
   <em>with M.L. Rajendran and B. Wohlmuth</em> <br> 
@@ -200,7 +200,7 @@ Schumann, A. Wagner and B. Wohlmuth </em> <br>
         <br clear="left"/>
         <hr />
     </li>
-<li>
+<li id="pub6">
         <img src="/assets/images/subdiffusive.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> On a subdiffusive tumour growth model with fractional time derivative</strong>  <br> 
   <em>with C. Kuttler, M.L. Rajendran, L. Scarabosio and B. Wohlmuth</em> <br> 
@@ -209,7 +209,7 @@ Schumann, A. Wagner and B. Wohlmuth </em> <br>
         <br clear="left"/>
         <hr />
     </li>
-<li>
+<li id="pub5">
         <img src="/assets/images/modeling3.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> Modeling and simulation of vascular tumors embedded in evolving capillary networks</strong>  <br> 
   <em>with P.K. Jha, T. Köppl, J.T. Oden, A. Wagner and B. Wohlmuth</em> <br> 
@@ -218,7 +218,7 @@ Schumann, A. Wagner and B. Wohlmuth </em> <br>
         <br clear="left"/>
         <hr />
     </li>
-<li>
+<li id="pub4">
         <img src="/assets/images/modeling2.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> Analysis of a new multispecies tumor growth model coupling 3D phase-fields with a 1D vascular network</strong>  <br> 
   <em>with P.K. Jha, T. Köppl, J.T. Oden, B. Wohlmuth</em> <br>
@@ -227,7 +227,7 @@ Schumann, A. Wagner and B. Wohlmuth </em> <br>
         <br clear="left"/>
         <hr />
     </li>
-<li>
+<li id="pub3">
         <img src="/assets/images/tumor.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> Local and nonlocal phase-field models of tumor growth and invasion due to ECM degradation</strong>  <br> 
   <em>with E.A.B.F. Lima, V. Nikolić, J.T. Oden and B. Wohlmuth</em> <br> 
@@ -236,7 +236,7 @@ Schumann, A. Wagner and B. Wohlmuth </em> <br>
         <br clear="left"/>
         <hr />
     </li>
-<li>
+<li id="pub2">
         <img src="/assets/images/dfb.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> On the unsteady Darcy-Forchheimer-Brinkman equation in local and nonlocal tumor growth models</strong>  <br> 
   <em>with E.A.B.F. Lima, J.T. Oden and B. Wohlmuth</em> <br> 
@@ -245,7 +245,7 @@ Schumann, A. Wagner and B. Wohlmuth </em> <br>
         <br clear="left"/>
         <hr />
     </li>
-<li>
+<li id="pub1">
         <img src="/assets/images/blackstock.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> Well-posedness and numerical treatment of the Blackstock equation in nonlinear acoustics</strong>  <br> 
   <em>with V. Nikolić and B. Wohlmuth</em> 
