@@ -11,7 +11,7 @@ classes: wide
 
 <p style="text-align: justify; line-height: 1.6;">
 
-I am a mathematician working in <strong>numerical analysis and partial differential equations</strong>, with a focus on engineering applications and computational biophysics. Currently, I am a postdoctoral researcher at the 
+I am a mathematician working in <strong>numerical analysis</strong> and <strong>partial differential equations</strong>, with a focus on engineering applications and computational biophysics. Currently, I am a postdoctoral researcher at the 
 <a href="https://www.oeaw.ac.at/ricam/">Johann Radon Institute for Computational and Applied Mathematics (RICAM)</a>. I obtained my PhD at the Technical University of Munich under the supervision of 
 <a href="https://www.math.cit.tum.de/math/forschung/gruppen/numerical-analysis/">Prof. Barbara Wohlmuth</a>.
 </p>
