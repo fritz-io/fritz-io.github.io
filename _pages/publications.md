@@ -34,15 +34,6 @@ ol.bracketed > li::before {
 
 <ol class="bracketed" style="counter-reset: item 25;">  
   <li id="pub24">
-        <img src="/assets/images/endre.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
-        <strong>On the well-posedness of a nonlocal kinetic model for dilute polymers with anomalous diffusion</strong><br>
-        <em>with E. Süli and B. Wohlmuth </em><br>
-        Fractional Calculus and Applied Analysis (submitted)<br>
-        Links: <a href="https://arxiv.org/abs/2511.06570">Preprint</a> 
-        <br clear="left"/>
-        <hr />
-  </li>
-  <li id="pub23">
         <img src="/assets/images/fisher.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>A time-fractional Fisher-KPP equation for tumor growth: Analysis and numerical simulation</strong><br>
         <em>with N. Kavallaris </em><br>
@@ -51,7 +42,7 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-    <li id="pub22">
+    <li id="pub23">
         <img src="/assets/images/nonlocal.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Unifying local and nonlocal corrosion frameworks: A convergent nonlocal extension of the KKS phase-field model</strong><br>
         <em>with C. Cyron, A. Hermann, T. Köppl, A. Shojaei, S. Silling </em><br>
@@ -65,7 +56,16 @@ ol.bracketed > li::before {
 <h2>Peer-Reviewed Scientific Articles</h2>
 
 
-<ol class="bracketed" style="counter-reset: item 22;">  
+<ol class="bracketed" style="counter-reset: item 23;">  
+    <li id="pub22">
+        <img src="/assets/images/endre.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <strong>On the well-posedness of a nonlocal kinetic model for dilute polymers with anomalous diffusion</strong><br>
+        <em>with E. Süli and B. Wohlmuth </em><br>
+        Fractional Calculus and Applied Analysis (accepted)<br>
+        Links: <a href="https://arxiv.org/abs/2511.06570">Preprint</a> 
+        <br clear="left"/>
+        <hr />
+  </li>
       <li id="pub21">
         <img src="/assets/images/ohta-removebg-preview.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Analysis and discretization of the Ohta-Kawasaki equation with forcing and degenerate mobility</strong><br>
