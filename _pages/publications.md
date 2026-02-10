@@ -33,7 +33,7 @@ ol.bracketed > li::before {
 <h2>Preprints</h2>
 
 <ol class="bracketed" style="counter-reset: item 26;">  
-    <li id="pub24">
+    <li id="pub25">
         <img src="/assets/images/review.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Review of thermodynamic structures and structure-preserving discretisations of Cahn-Hilliard-type models</strong><br>
         <em>with A. Brunk, M. ten Eikelder, D. Höhn, D. Trautwein </em><br>
@@ -65,7 +65,7 @@ ol.bracketed > li::before {
 <h2>Peer-Reviewed Scientific Articles</h2>
 
 
-<ol class="bracketed" style="counter-reset: item 24;">  
+<ol class="bracketed" style="counter-reset: item 23;">  
     <li id="pub22">
         <img src="/assets/images/endre.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>On the well-posedness of a nonlocal kinetic model for dilute polymers with anomalous diffusion</strong><br>
