@@ -71,7 +71,7 @@ ol.bracketed > li::before {
         <strong>On the well-posedness of a nonlocal kinetic model for dilute polymers with anomalous diffusion</strong><br>
         <em>with E. Süli and B. Wohlmuth </em><br>
         Fractional Calculus and Applied Analysis (2026)<br>
-        Links: <a href="https://arxiv.org/abs/2511.06570">Preprint</a> & Journal (to appear)
+        Links: <a href="https://arxiv.org/abs/2511.06570">Preprint</a> & <a href="https://link.springer.com/journal/13540">Journal</a> (to appear)
         <br clear="left"/>
         <hr />
   </li>
