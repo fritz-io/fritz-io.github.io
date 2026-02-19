@@ -32,7 +32,16 @@ ol.bracketed > li::before {
 
 <h2>Preprints</h2>
 
-<ol class="bracketed" style="counter-reset: item 26;">  
+<ol class="bracketed" style="counter-reset: item 27;">  
+  <li id="pub26">
+        <img src="/assets/images/jumpAC.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <strong>An Allen-Cahn equation with jump-diffusion noise for biological damage and repair processes</strong><br>
+        <em>with A. Di Primio, L. Scarpa, M. Zanella </em><br>
+        Annals of Applied Probability (submitted)<br>
+        Links: <a href="https://arxiv.org/abs/2602.08791">Preprint</a> 
+        <br clear="left"/>
+        <hr />
+    </li>
     <li id="pub25">
         <img src="/assets/images/review.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Review of thermodynamic structures and structure-preserving discretisations of Cahn-Hilliard-type models</strong><br>
