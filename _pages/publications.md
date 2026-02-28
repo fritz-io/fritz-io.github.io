@@ -46,7 +46,7 @@ ol.bracketed > li::before {
         <img src="/assets/images/review.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Review of thermodynamic structures and structure-preserving discretisations of Cahn-Hilliard-type models</strong><br>
         <em>with A. Brunk, M. ten Eikelder, D. Höhn, D. Trautwein </em><br>
-        Numerical Mathematics and Advanced Applications ENUMATH 2025 (submitted)<br>
+        Numerical Mathematics and Advanced Applications (submitted)<br>
         Links: <a href="https://arxiv.org/abs/2602.08791">Preprint</a> 
         <br clear="left"/>
         <hr />
@@ -80,7 +80,7 @@ ol.bracketed > li::before {
         <strong>On the well-posedness of a nonlocal kinetic model for dilute polymers with anomalous diffusion</strong><br>
         <em>with E. Süli and B. Wohlmuth </em><br>
         Fractional Calculus and Applied Analysis (2026)<br>
-        Links: <a href="https://arxiv.org/abs/2511.06570">Preprint</a> & <a href="https://link.springer.com/journal/13540">Journal</a> (to appear)
+        Links: <a href="https://arxiv.org/abs/2511.06570">Preprint</a> & <a href="https://doi.org/10.1007/s13540-026-00503-y">Journal</a> 
         <br clear="left"/>
         <hr />
   </li>
