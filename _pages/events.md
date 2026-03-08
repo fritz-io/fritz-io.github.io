@@ -23,6 +23,16 @@ toc_icon: "gear"
 <hr/>
 
 <div style="display: flex; align-items: flex-start; padding-top: 15px;">
+    <img src="/assets/images/equadiff26.jpg" width="200" height="auto" alt="AIMS 2026" style="margin-right: 20px;"/>
+    <div>
+        <strong><a href="https://www.equadiff2026.cz/homepage">Equadiff 2026</a></strong><br>
+        <em>Prague, Czech Republic</em><br>
+        Date: 29.6.2026 - 3.7.2026
+    </div>
+</div>
+<hr/>
+
+<div style="display: flex; align-items: flex-start; padding-top: 15px;">
     <img src="/assets/images/aims2026.jpg" width="200" height="auto" alt="AIMS 2026" style="margin-right: 20px;"/>
     <div>
         <strong><a href="https://aimsconference.org/conferences/2026/index.html">AIMS Conference 2026</a></strong><br>
