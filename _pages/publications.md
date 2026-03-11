@@ -51,16 +51,7 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-  <li id="pub24">
-        <img src="/assets/images/fisher.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
-        <strong>A time-fractional Fisher-KPP equation for tumor growth: Analysis and numerical simulation</strong><br>
-        <em>with N. Kavallaris </em><br>
-        Communications in Nonlinear Science and Numerical Simulation (submitted)<br>
-        Links: <a href="https://arxiv.org/abs/2511.05312">Preprint</a> 
-        <br clear="left"/>
-        <hr />
-    </li>
-    <li id="pub23">
+    <li id="pub24">
         <img src="/assets/images/nonlocal.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Unifying local and nonlocal corrosion frameworks: A convergent nonlocal extension of the KKS phase-field model</strong><br>
         <em>with C. Cyron, A. Hermann, T. Köppl, A. Shojaei, S. Silling </em><br>
@@ -74,7 +65,16 @@ ol.bracketed > li::before {
 <h2>Peer-Reviewed Scientific Articles</h2>
 
 
-<ol class="bracketed" style="counter-reset: item 23;">  
+<ol class="bracketed" style="counter-reset: item 24;">  
+  <li id="pub23">
+        <img src="/assets/images/fisher.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <strong>A time-fractional Fisher-KPP equation for tumor growth: Analysis and numerical simulation</strong><br>
+        <em>with N. Kavallaris </em><br>
+        Communications in Nonlinear Science and Numerical Simulation (accepted)<br>
+        Links: <a href="https://arxiv.org/abs/2511.05312">Preprint</a> 
+        <br clear="left"/>
+        <hr />
+    </li>
     <li id="pub22">
         <img src="/assets/images/endre.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>On the well-posedness of a nonlocal kinetic model for dilute polymers with anomalous diffusion</strong><br>
