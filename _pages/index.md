@@ -18,8 +18,14 @@ classes: wide
 <p style="text-align: justify; line-height: 1.6;">
   I am a mathematician working in <strong>numerical analysis</strong> and
   <strong>partial differential equations</strong>, with a focus on engineering applications
-  and computational biophysics. Currently, I am a postdoctoral researcher at the
+  and computational biophysics.
+</p>
+
+<p style="text-align: justify; line-height: 1.6;">
+  Currently, I am a postdoctoral researcher at the
   <a href="https://www.oeaw.ac.at/ricam/">Johann Radon Institute for Computational and Applied Mathematics (RICAM)</a>.
+  From June 2026, I will join the <a href="https://www.univie.ac.at/">University of Vienna</a>
+  as a <strong>Assistant Professor (Tenure Track)</strong>.
 </p>
 
 <h3 style="margin-top: 20px;">Research profile and expertise</h3>
