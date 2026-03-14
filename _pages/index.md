@@ -25,7 +25,7 @@ classes: wide
   Currently, I am a postdoctoral researcher at
   <a href="https://www.oeaw.ac.at/ricam/">RICAM</a>.
   From June 2026, I will join the <a href="https://www.univie.ac.at/">University of Vienna</a>
-  as a <strong>Assistant Professor (Tenure Track)</strong>.
+  as <strong>Assistant Professor (Tenure Track)</strong>.
 </p>
 
 <h3 style="margin-top: 20px;">Research profile and expertise</h3>
