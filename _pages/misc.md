@@ -19,4 +19,5 @@ toc_icon: "gear"
     <li><a href="https://www.genealogy.math.ndsu.nodak.edu/">Mathematics Genealogy Project</a></li>
     <li><a href="https://www.writespace.app/">Writespace for LaTeX formula to PNG</a></li>
     <li><a href="https://snip.mathpix.com/home">Convert PDF to LaTeX</a></li>
+    <li><a href="https://tools.pdf24.org/de/pdf-komprimieren">Compress PDFs</a></li>
 </ul>
