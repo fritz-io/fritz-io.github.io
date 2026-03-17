@@ -70,8 +70,8 @@ ol.bracketed > li::before {
         <img src="/assets/images/fisher.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>A time-fractional Fisher-KPP equation for tumor growth: Analysis and numerical simulation</strong><br>
         <em>with N. Kavallaris </em><br>
-        Communications in Nonlinear Science and Numerical Simulation (accepted)<br>
-        Links: <a href="https://arxiv.org/abs/2511.05312">Preprint</a> 
+        Communications in Nonlinear Science and Numerical Simulation (2026) <br>
+        Links: <a href="https://arxiv.org/abs/2511.05312">Preprint</a> & <a href="https://doi.org/10.1016/j.cnsns.2026.109911">Journal</a>
         <br clear="left"/>
         <hr />
     </li>
