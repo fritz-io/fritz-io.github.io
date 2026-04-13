@@ -13,46 +13,6 @@ toc_icon: "gear"
 ## Planned upcoming conferences
 
 <div style="display: flex; align-items: flex-start; padding-top: 15px;">
-    <img src="/assets/images/iocff.jpg" width="200" height="auto" alt="AIMS 2026" style="margin-right: 20px;"/>
-    <div>
-        <strong><a href="https://sciforum.net/event/IOCFF2026?section=#welcome">International Online Conference on Fractal and Fractional 2026</a></strong><br>
-        <em>Online</em><br>
-        Date: 13.4.2026 - 15.4.2026
-    </div>
-</div>
-<hr/>
-
-<div style="display: flex; align-items: flex-start; padding-top: 15px;">
-    <img src="/assets/images/equadiff26.jpg" width="200" height="auto" alt="AIMS 2026" style="margin-right: 20px;"/>
-    <div>
-        <strong><a href="https://www.equadiff2026.cz/homepage">Equadiff 2026</a></strong><br>
-        <em>Prague, Czech Republic</em><br>
-        Date: 29.6.2026 - 3.7.2026
-    </div>
-</div>
-<hr/>
-
-<div style="display: flex; align-items: flex-start; padding-top: 15px;">
-    <img src="/assets/images/aims2026.jpg" width="200" height="auto" alt="AIMS 2026" style="margin-right: 20px;"/>
-    <div>
-        <strong><a href="https://aimsconference.org/conferences/2026/index.html">AIMS Conference 2026</a></strong><br>
-        <em>Athens, Greece</em><br>
-        Date: 6.7.2026 - 10.7.2026
-    </div>
-</div>
-<hr/>
-
-<div style="display: flex; align-items: flex-start; padding-top: 15px;">
-    <img src="/assets/images/eccomas2026.jpg" width="200" height="auto" alt="ECCOMAS 2026" style="margin-right: 20px;"/>
-    <div>
-        <strong><a href="https://wccm-eccomas2026.org">ECCOMAS 2026</a></strong><br>
-        <em>Munich, Germany</em><br>
-        Date: 19.7.2026 - 24.7.2026
-    </div>
-</div>
-<hr/>
-
-<div style="display: flex; align-items: flex-start; padding-top: 15px;">
     <img src="/assets/images/icosahom.png" width="200" height="auto" alt="ICOSAHOM 2027" style="margin-right: 20px;"/>
     <div>
         <strong><a href="https://icosahom2027.org">16th International Conference on Spectral and High Order Methods</a></strong><br>
@@ -74,6 +34,27 @@ toc_icon: "gear"
 
 
 ## Past talks
+
+<div style="display: flex; align-items: flex-start; padding-top: 15px;">
+    <img src="/assets/images/eccomas2026.jpg" width="200" height="auto" alt="ECCOMAS 2026" style="margin-right: 20px;"/>
+    <div>
+        <strong><a href="https://wccm-eccomas2026.org">ECCOMAS 2026</a></strong><br>
+        <em>Munich, Germany</em><br>
+        Organization: Advances on structure-preserving numerical methods for nonlinear PDEs<br>
+        Talk: On H²-conforming finite elements for the Cahn–Hilliard equation
+    </div>
+</div>
+<hr/>
+
+<div style="display: flex; align-items: flex-start; padding-top: 15px;">
+    <img src="/assets/images/aims2026.jpg" width="200" height="auto" alt="AIMS 2026" style="margin-right: 20px;"/>
+    <div>
+        <strong><a href="https://aimsconference.org/conferences/2026/index.html">AIMS Conference 2026</a></strong><br>
+        <em>Athens, Greece</em><br>
+        Organization: Nonlocal models arising in biology and ecology 
+    </div>
+</div>
+<hr/>
 
 <div style="display: flex; align-items: flex-start; padding-top: 15px;">
     <img src="/assets/images/enumath.png" width="200" height="auto" alt="ENUMATH 2025" style="margin-right: 20px;"/>
