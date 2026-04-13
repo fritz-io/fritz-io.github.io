@@ -17,13 +17,13 @@ minimal_mistakes_skin2   : "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Marvin Fritz"
+title                    : "Marvin Fritz 1"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Dr. Marvin Fritz"
+name                     : "Marvin Fritz 2"
 port                     : 4000
 host                     : "0.0.0.0"
-description              : "Dr. Marvin Fritz"
+description              : "Marvin Fritz 3"
 url                      : "https://fritz-io.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
