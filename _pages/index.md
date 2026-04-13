@@ -16,19 +16,10 @@ classes: wide
 />
 
 <p style="text-align: justify; line-height: 1.6;">
-  I am a mathematician working in <strong>numerical analysis</strong> and
-  <strong>partial differential equations</strong>, with a focus on engineering applications
-  and computational biophysics.
+  Hi there, I am Marvin Fritz, an <strong>Assistant Professor (Tenure Track)</strong> at <a href="https://www.univie.ac.at/">University of Vienna</a>.
 </p>
 
-<p style="text-align: justify; line-height: 1.6;">
-  Currently, I am a postdoctoral researcher at
-  <a href="https://www.oeaw.ac.at/ricam/">RICAM</a>.
-  From June 2026, I will join the <a href="https://www.univie.ac.at/">University of Vienna</a>
-  as <strong>Assistant Professor (Tenure Track)</strong>.
-</p>
-
-<h3 style="margin-top: 20px;">Research profile and expertise</h3>
+<h3 style="margin-top: 20px;">Research interests</h3>
 <ul style="padding-left: 15px; line-height: 1.6;">
   <li><strong>Numerical analysis of PDEs</strong>: stable and structure-preserving discretization schemes.</li>
   <li><strong>Model reduction &amp; complex systems</strong>: multiphysics problems (fluid–structure interaction, poroelasticity) and mixed-dimensional models.</li>
