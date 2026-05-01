@@ -27,3 +27,4 @@ classes: wide
   <li><strong>Control &amp; stabilization</strong>: feedback control and optimization for PDE systems.</li>
   <li><strong>Computational biophysics &amp; biomedical engineering</strong>: PDE and phase-field models for tumor growth, tissue mechanics, and transport phenomena.</li>
 </ul>
+
