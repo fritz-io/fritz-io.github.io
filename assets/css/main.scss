@@ -27,14 +27,26 @@ html {
 
 @media (min-width: 80em) {
 
-.author__avatar img {
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
+.author__avatar {
+  display: table-cell;
+  vertical-align: top;
+  width: 100px;
+  height: 100px;
 
   @include breakpoint($large) {
-    padding: 5px;
-    border: 1px solid $border-color;
+    display: block;
+    width: auto;
+    height: auto;
+  }
+
+  img {
+    max-width: 175px;
+    border-radius: 50%;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
   }
 }
 }
