@@ -28,8 +28,8 @@ html {
 @media (min-width: 80em) {
 
 .author__avatar img {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
 
   @include breakpoint($large) {
