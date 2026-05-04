@@ -14,6 +14,16 @@ toc_icon: "gear"
 ## Planned upcoming conferences
 
 <div style="display: flex; align-items: flex-start; padding-top: 15px;">
+    <img src="/assets/images/joint.png" width="200" height="auto" alt="GAMMDMV 2027" style="margin-right: 20px;"/>
+    <div>
+        <strong><a href="https://jahrestagung.gamm.org/joint-annual-meeting-2027/joint-annual-meeting/">Joint Annual Meeting of GAMM and DMV</a></strong><br>
+        <em>Ulm, Germany</em><br>
+        Date: 8.3.2027 - 12.3.2027
+    </div>
+</div>
+<hr/>
+
+<div style="display: flex; align-items: flex-start; padding-top: 15px;">
     <img src="/assets/images/icosahom.png" width="200" height="auto" alt="ICOSAHOM 2027" style="margin-right: 20px;"/>
     <div>
         <strong><a href="https://icosahom2027.org">16th International Conference on Spectral and High Order Methods</a></strong><br>
