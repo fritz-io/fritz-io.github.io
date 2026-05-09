@@ -18,7 +18,8 @@ toc_icon: "gear"
     <div>
         <strong><a href="https://jahrestagung.gamm.org/joint-annual-meeting-2027/joint-annual-meeting/">Joint Annual Meeting of GAMM and DMV</a></strong><br>
         <em>Ulm, Germany</em><br>
-        Date: 8.3.2027 - 12.3.2027
+        Date: 8.3.2027 - 12.3.2027<br>
+        Deadline: Talk 1.12.
     </div>
 </div>
 <hr/>
@@ -28,17 +29,8 @@ toc_icon: "gear"
     <div>
         <strong><a href="https://icosahom2027.org">16th International Conference on Spectral and High Order Methods</a></strong><br>
         <em>Milano, Italy</em><br>
-        Date: 5.7.2027 - 9.7.2027
-    </div>
-</div>
-<hr/>
-
-<div style="display: flex; align-items: flex-start; padding-top: 15px;">
-    <img src="/assets/images/iciam2027.jpg" width="200" height="auto" alt="ICIAM 2027" style="margin-right: 20px;"/>
-    <div>
-        <strong><a href="https://iciam.org/event/iciam-2027-hague">ICIAM 2027</a></strong><br>
-        <em>The Hague, Netherlands</em><br>
-        Date: 12.7.2027 - 17.7.2027
+        Date: 5.7.2027 - 9.7.2027 <br>
+        Deadline: MS 31.7. & Talk 31.12.
     </div>
 </div>
 <hr/>
