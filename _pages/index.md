@@ -16,7 +16,7 @@ classes: wide
 />
 
 <p style="text-align: justify; line-height: 1.6;">
-  Hello, I am Marvin Fritz, a tenure-track Professor (Assistant) at the <a href="https://www.univie.ac.at/">University of Vienna</a>.
+  Hi, I am Marvin Fritz, a tenure-track Professor at the <a href="https://www.univie.ac.at/">University of Vienna</a>.
 </p>
 
 <h3 style="margin-top: 20px;">Research interests</h3>
