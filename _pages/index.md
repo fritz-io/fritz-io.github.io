@@ -25,6 +25,6 @@ classes: wide
   <li><strong>Model reduction &amp; complex systems</strong>: multiphysics problems (fluid–structure interaction, poroelasticity) and mixed-dimensional models.</li>
   <li><strong>Uncertainty quantification &amp; stochastic PDEs</strong>: analysis and computation for systems with random inputs.</li>
   <li><strong>Control &amp; stabilization</strong>: feedback control and optimization for PDE systems.</li>
-  <li><strong>Computational biophysics &amp; biomedical engineering</strong>: PDE and phase-field models for tumor growth, tissue mechanics, and transport phenomena.</li>
+  <li><strong>Applications in engineering &amp; life sciences</strong>: phase-field models for tumor growth, tissue mechanics, materials degradation, and transport phenomena.</li>
 </ul>
 
