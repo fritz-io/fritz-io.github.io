@@ -35,7 +35,7 @@ ol.bracketed > li::before {
 <ol class="bracketed" style="counter-reset: item 30;">  
      <li id="pub29">
         <img src="/assets/images/white.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
-        <strong>Global weak solutions of a one-sided degenerate Cahn--Hilliard model for traction-driven digit morphogenesis</strong><br>
+        <strong>Global weak solutions of a one-sided degenerate Cahn-Hilliard model for traction-driven digit morphogenesis</strong><br>
         Submitted<br>
         Links: <a href="https://arxiv.org/abs/2602.08791">Preprint</a> 
         <br clear="left"/>
