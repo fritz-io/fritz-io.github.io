@@ -50,7 +50,7 @@ ol.bracketed > li::before {
         <hr />
     </li>
    <li id="pub27">
-        <img src="/assets/images/jumpAC.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <img src="/assets/images/highorder.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>High-order conforming finite elements for the Cahn-Hilliard equation: Relative-energy stability and energy defects</strong><br>
         <em>with A. Brunk </em><br>
         Submitted<br>
