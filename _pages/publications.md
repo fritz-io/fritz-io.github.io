@@ -32,12 +32,37 @@ ol.bracketed > li::before {
 
 <h2>Preprints</h2>
 
-<ol class="bracketed" style="counter-reset: item 27;">  
+<ol class="bracketed" style="counter-reset: item 30;">  
+     <li id="pub29">
+        <img src="/assets/images/white.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <strong>Global weak solutions of a one-sided degenerate Cahn--Hilliard model for traction-driven digit morphogenesis</strong><br>
+        Submitted<br>
+        Links: <a href="https://arxiv.org/abs/2602.08791">Preprint</a> 
+        <br clear="left"/>
+        <hr />
+    </li>
+   <li id="pub28">
+        <img src="/assets/images/fingering.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <strong>Structure-preserving discretization and fingering dynamics of a Cahn-Hilliard model for traction-driven digit morphogenesis</strong><br>
+        Submitted<br>
+        Links: <a href="https://arxiv.org/abs/2602.08791">Preprint</a> 
+        <br clear="left"/>
+        <hr />
+    </li>
+   <li id="pub27">
+        <img src="/assets/images/jumpAC.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <strong>High-order conforming finite elements for the Cahn-Hilliard equation: Relative-energy stability and energy defects</strong><br>
+        <em>with A. Brunk </em><br>
+        Submitted<br>
+        Links: <a href="https://arxiv.org/abs/2606.06719">Preprint</a> 
+        <br clear="left"/>
+        <hr />
+    </li>
   <li id="pub26">
         <img src="/assets/images/jumpAC.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>An Allen-Cahn equation with jump-diffusion noise for biological damage and repair processes</strong><br>
         <em>with A. Di Primio, L. Scarpa, M. Zanella </em><br>
-        Annals of Applied Probability (submitted)<br>
+        Submitted<br>
         Links: <a href="https://arxiv.org/abs/2602.08791">Preprint</a> 
         <br clear="left"/>
         <hr />
@@ -46,7 +71,7 @@ ol.bracketed > li::before {
         <img src="/assets/images/review.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Review of thermodynamic structures and structure-preserving discretisations of Cahn-Hilliard-type models</strong><br>
         <em>with A. Brunk, M. ten Eikelder, D. Höhn, D. Trautwein </em><br>
-        Numerical Mathematics and Advanced Applications (submitted)<br>
+        Submitted<br>
         Links: <a href="https://arxiv.org/abs/2602.08791">Preprint</a> 
         <br clear="left"/>
         <hr />
@@ -55,7 +80,7 @@ ol.bracketed > li::before {
         <img src="/assets/images/nonlocal.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Unifying local and nonlocal corrosion frameworks: A convergent nonlocal extension of the KKS phase-field model</strong><br>
         <em>with C. Cyron, A. Hermann, T. Köppl, A. Shojaei, S. Silling </em><br>
-        Mathematical Models and Methods in Applied Sciences (submitted)<br>
+        Submitted<br>
         Links: <a href="https://arxiv.org/abs/2509.23503">Preprint</a> 
         <br clear="left"/>
         <hr />
