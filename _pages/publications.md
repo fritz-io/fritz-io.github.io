@@ -28,13 +28,19 @@ ol.bracketed > li::before {
   left: 0;
   font-weight: bold;
 }
+.pub-placeholder {
+  float: left;
+  width: 200px;
+  height: 140px;   /* adjust to match typical thumbnail height */
+  padding: 15px 30px;
+}
 </style>
 
 <h2>Preprints</h2>
 
 <ol class="bracketed" style="counter-reset: item 33;">  
        <li id="pub32">
-        <img src="/assets/images/white.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <div class="pub-placeholder"></div>
         <strong>Rothe time discretization and weak solutions for a cutoff Westervelt system</strong><br>
         Submitted
         <br clear="left"/>
