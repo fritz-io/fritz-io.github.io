@@ -31,7 +31,7 @@ ol.bracketed > li::before {
 .pub-placeholder {
   float: left;
   width: 200px;
-  height: 140px;   /* adjust to match typical thumbnail height */
+  height: 100px;   /* adjust to match typical thumbnail height */
   padding: 15px 30px;
 }
 </style>
