@@ -32,12 +32,33 @@ ol.bracketed > li::before {
 
 <h2>Preprints</h2>
 
-<ol class="bracketed" style="counter-reset: item 30;">  
+<ol class="bracketed" style="counter-reset: item 33;">  
+       <li id="pub32">
+        <img src="/assets/images/white.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <strong>Rothe time discretization and weak solutions for a cutoff Westervelt system</strong><br>
+        Submitted
+        <br clear="left"/>
+        <hr />
+    </li>
+       <li id="pub31">
+        <img src="/assets/images/white.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <strong>On the well-posedness of the 3D Navier-Stokes equations with distributed Maxwell-type viscosity</strong><br>
+        Submitted
+         <br clear="left"/>
+        <hr />
+    </li>
+       <li id="pub30">
+        <img src="/assets/images/white.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <strong>A semiconvex counterexample to energy monotonicity for time-fractional gradient flows</strong><br>
+        Submitted
+        <br clear="left"/>
+        <hr />
+    </li>
      <li id="pub29">
         <img src="/assets/images/white.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Global weak solutions of a one-sided degenerate Cahn-Hilliard model for traction-driven digit morphogenesis</strong><br>
         Submitted<br>
-        Links: <a href="https://arxiv.org/abs/2602.08791">Preprint</a> 
+        Links: <a href="https://arxiv.org/abs/2606.10793">Preprint</a> 
         <br clear="left"/>
         <hr />
     </li>
@@ -45,7 +66,7 @@ ol.bracketed > li::before {
         <img src="/assets/images/fingering.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Structure-preserving discretization and fingering dynamics of a Cahn-Hilliard model for traction-driven digit morphogenesis</strong><br>
         Submitted<br>
-        Links: <a href="https://arxiv.org/abs/2602.08791">Preprint</a> 
+        Links: <a href="https://arxiv.org/abs/2606.12574">Preprint</a> 
         <br clear="left"/>
         <hr />
     </li>
