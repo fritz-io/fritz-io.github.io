@@ -40,28 +40,28 @@ ol.bracketed > li::before {
 
 <ol class="bracketed" style="counter-reset: item 33;">  
        <li id="pub32">
-        <div class="pub-placeholder"></div>
+        <img src="/assets/images/rothe.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Rothe time discretization and weak solutions for a cutoff Westervelt system</strong><br>
         Submitted
         <br clear="left"/>
         <hr />
     </li>
        <li id="pub31">
-        <div class="pub-placeholder"></div>
+        <img src="/assets/images/3dns.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>On the well-posedness of the 3D Navier-Stokes equations with distributed Maxwell-type viscosity</strong><br>
         Submitted
          <br clear="left"/>
         <hr />
     </li>
        <li id="pub30">
-        <div class="pub-placeholder"></div>
+        <img src="/assets/images/counter.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>A semiconvex counterexample to energy monotonicity for time-fractional gradient flows</strong><br>
         Submitted
         <br clear="left"/>
         <hr />
     </li>
      <li id="pub29">
-        <div class="pub-placeholder"></div>
+        <img src="/assets/images/global.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Global weak solutions of a one-sided degenerate Cahn-Hilliard model for traction-driven digit morphogenesis</strong><br>
         Submitted<br>
         Links: <a href="https://arxiv.org/abs/2606.10793">Preprint</a> 
