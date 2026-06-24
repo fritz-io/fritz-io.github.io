@@ -104,7 +104,7 @@ ol.bracketed > li::before {
         <hr />
     </li>
     <li id="pub24">
-        <img src="/assets/images/nonlocal.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <img src="/assets/images/peri2.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Unifying local and nonlocal corrosion frameworks: A convergent nonlocal extension of the KKS phase-field model</strong><br>
         <em>with C. Cyron, A. Hermann, T. Köppl, A. Shojaei, S. Silling </em><br>
         Submitted<br>
