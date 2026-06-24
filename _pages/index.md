@@ -22,6 +22,7 @@ classes: wide
 <h3 style="margin-top: 20px;">Research interests</h3>
 <ul style="padding-left: 15px; line-height: 1.6;">
   <li><strong>Numerical analysis of PDEs</strong>: stable and structure-preserving discretization schemes.</li>
+  <li><strong>Well-posedness analysis</strong>: existence, uniqueness, regularity, and long-time behavior.</li>
   <li><strong>Model reduction &amp; complex systems</strong>: multiphysics problems (fluid–structure interaction, poroelasticity) and mixed-dimensional models.</li>
   <li><strong>Uncertainty quantification &amp; stochastic PDEs</strong>: analysis and computation for systems with random inputs.</li>
   <li><strong>Control &amp; stabilization</strong>: feedback control and optimization for PDE systems.</li>
