@@ -38,7 +38,21 @@ ol.bracketed > li::before {
 
 <h2>Preprints</h2>
 
-<ol class="bracketed" style="counter-reset: item 33;">  
+<ol class="bracketed" style="counter-reset: item 35;">  
+         <li id="pub34">
+        <img src="/assets/images/zulehner.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <strong>A four-field auxiliary reformulation of a Cahn--Hilliard time step: Analysis and conforming finite element discretization</strong><br>
+        Submitted
+        <br clear="left"/>
+        <hr />
+    </li>
+         <li id="pub33">
+        <img src="/assets/images/maxwell.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <strong>A fractional de Rham complex for coframe-attached Maxwell equations</strong><br>
+        Submitted
+        <br clear="left"/>
+        <hr />
+    </li>
        <li id="pub32">
         <img src="/assets/images/rothe.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Rothe time discretization and weak solutions for a cutoff Westervelt system</strong><br>
