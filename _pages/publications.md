@@ -41,7 +41,7 @@ ol.bracketed > li::before {
 <ol class="bracketed" style="counter-reset: item 35;">  
          <li id="pub34">
         <img src="/assets/images/zulehner.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
-        <strong>A four-field auxiliary reformulation of a Cahn--Hilliard time step: Analysis and conforming finite element discretization</strong><br>
+        <strong>A four-field auxiliary reformulation of a Cahn-Hilliard time step: Analysis and conforming finite element discretization</strong><br>
         Submitted
         <br clear="left"/>
         <hr />
