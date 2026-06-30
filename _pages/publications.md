@@ -47,14 +47,14 @@ ol.bracketed > li::before {
         <hr />
     </li>
          <li id="pub33">
-        <img src="/assets/images/forms2.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <img src="/assets/images/forms.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>A fractional de Rham complex for coframe-attached Maxwell equations</strong><br>
         Submitted
         <br clear="left"/>
         <hr />
     </li>
        <li id="pub32">
-        <img src="/assets/images/rothe.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <img src="/assets/images/rothe1.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Rothe time discretization and weak solutions for a cutoff Westervelt system</strong><br>
         Submitted
         <br clear="left"/>
@@ -68,14 +68,14 @@ ol.bracketed > li::before {
         <hr />
     </li>
        <li id="pub30">
-        <img src="/assets/images/counter.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <img src="/assets/images/counter1.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>A semiconvex counterexample to energy monotonicity for time-fractional gradient flows</strong><br>
         Submitted
         <br clear="left"/>
         <hr />
     </li>
      <li id="pub29">
-        <img src="/assets/images/finger2.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <img src="/assets/images/finger3.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Global weak solutions of a one-sided degenerate Cahn-Hilliard model for traction-driven digit morphogenesis</strong><br>
         Submitted<br>
         Links: <a href="https://arxiv.org/abs/2606.10793">Preprint</a> 
@@ -118,7 +118,7 @@ ol.bracketed > li::before {
         <hr />
     </li>
     <li id="pub24">
-        <img src="/assets/images/peri3.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <img src="/assets/images/peri2.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Unifying local and nonlocal corrosion frameworks: A convergent nonlocal extension of the KKS phase-field model</strong><br>
         <em>with C. Cyron, A. Hermann, T. Köppl, A. Shojaei, S. Silling </em><br>
         Submitted<br>
