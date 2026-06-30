@@ -47,7 +47,7 @@ ol.bracketed > li::before {
         <hr />
     </li>
          <li id="pub33">
-        <img src="/assets/images/maxwell.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <img src="/assets/images/forms2.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>A fractional de Rham complex for coframe-attached Maxwell equations</strong><br>
         Submitted
         <br clear="left"/>
@@ -61,7 +61,7 @@ ol.bracketed > li::before {
         <hr />
     </li>
        <li id="pub31">
-        <img src="/assets/images/3dns.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <img src="/assets/images/navier2.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>On the well-posedness of the 3D Navier-Stokes equations with distributed Maxwell-type viscosity</strong><br>
         Submitted
          <br clear="left"/>
@@ -75,7 +75,7 @@ ol.bracketed > li::before {
         <hr />
     </li>
      <li id="pub29">
-        <img src="/assets/images/global.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <img src="/assets/images/finger2.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Global weak solutions of a one-sided degenerate Cahn-Hilliard model for traction-driven digit morphogenesis</strong><br>
         Submitted<br>
         Links: <a href="https://arxiv.org/abs/2606.10793">Preprint</a> 
@@ -118,7 +118,7 @@ ol.bracketed > li::before {
         <hr />
     </li>
     <li id="pub24">
-        <img src="/assets/images/peri2.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <img src="/assets/images/peri3.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Unifying local and nonlocal corrosion frameworks: A convergent nonlocal extension of the KKS phase-field model</strong><br>
         <em>with C. Cyron, A. Hermann, T. Köppl, A. Shojaei, S. Silling </em><br>
         Submitted<br>
@@ -142,7 +142,7 @@ ol.bracketed > li::before {
         <hr />
     </li>
     <li id="pub22">
-        <img src="/assets/images/endre.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <img src="/assets/images/fene2.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>On the well-posedness of a nonlocal kinetic model for dilute polymers with anomalous diffusion</strong><br>
         <em>with E. Süli and B. Wohlmuth </em><br>
         Fractional Calculus and Applied Analysis (2026)<br>
@@ -231,7 +231,7 @@ ol.bracketed > li::before {
         <hr />
     </li>
 <li id="pub12">
-        <img src="/assets/images/dilute.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <img src="/assets/images/fene1.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
  <strong> Analysis of a dilute polymer model with a time-fractional derivative </strong> <br> 
     <em> with E. Süli and B. Wohlmuth </em> <br>
     SIAM Journal on Mathematical Analysis (2024) <br>
