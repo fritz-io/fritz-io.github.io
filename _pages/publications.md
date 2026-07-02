@@ -38,7 +38,14 @@ ol.bracketed > li::before {
 
 <h2>Preprints</h2>
 
-<ol class="bracketed" style="counter-reset: item 35;">  
+<ol class="bracketed" style="counter-reset: item 36;">  
+  <li id="pub35">
+        <img src="/assets/images/voronoi.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <strong>Threshold dynamics for subdiffusive grain growth</strong><br>
+        Submitted
+        <br clear="left"/>
+        <hr />
+    </li>
          <li id="pub34">
         <img src="/assets/images/zulehner.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>A four-field auxiliary reformulation of a Cahn-Hilliard time step: Analysis and conforming finite element discretization</strong><br>
