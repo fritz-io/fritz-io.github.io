@@ -56,7 +56,8 @@ ol.bracketed > li::before {
          <li id="pub33">
         <img src="/assets/images/forms.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>A fractional de Rham complex for coframe-attached Maxwell equations</strong><br>
-        Submitted
+        Submitted <br>
+        Links: <a href="https://arxiv.org/abs/2607.09300">Preprint</a> 
         <br clear="left"/>
         <hr />
     </li>
