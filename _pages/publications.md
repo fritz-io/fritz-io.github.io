@@ -46,43 +46,28 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-         <li id="pub34">
-        <img src="/assets/images/zulehner.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
-        <strong>A four-field auxiliary reformulation of a Cahn-Hilliard time step: Analysis and conforming finite element discretization</strong><br>
-        Submitted
-        <br clear="left"/>
-        <hr />
-    </li>
-         <li id="pub33">
-        <img src="/assets/images/forms.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
-        <strong>A fractional de Rham complex for coframe-attached Maxwell equations</strong><br>
-        Submitted <br>
-        Links: <a href="https://arxiv.org/abs/2607.09300">Preprint</a> 
-        <br clear="left"/>
-        <hr />
-    </li>
-       <li id="pub32">
+       <li id="pub34">
         <img src="/assets/images/rothe1.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Rothe time discretization and weak solutions for a cutoff Westervelt system</strong><br>
         Submitted
         <br clear="left"/>
         <hr />
     </li>
-       <li id="pub31">
+       <li id="pub33">
         <img src="/assets/images/navier2.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>On the well-posedness of the 3D Navier-Stokes equations with distributed Maxwell-type viscosity</strong><br>
         Submitted
          <br clear="left"/>
         <hr />
     </li>
-       <li id="pub30">
+       <li id="pub32">
         <img src="/assets/images/counter1.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>A semiconvex counterexample to energy monotonicity for time-fractional gradient flows</strong><br>
         Submitted
         <br clear="left"/>
         <hr />
     </li>
-     <li id="pub29">
+     <li id="pub31">
         <img src="/assets/images/finger3.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Global weak solutions of a one-sided degenerate Cahn-Hilliard model for traction-driven digit morphogenesis</strong><br>
         Submitted<br>
@@ -90,7 +75,7 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-   <li id="pub28">
+   <li id="pub30">
         <img src="/assets/images/fingering.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Structure-preserving discretization and fingering dynamics of a Cahn-Hilliard model for traction-driven digit morphogenesis</strong><br>
         Submitted<br>
@@ -98,7 +83,7 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-   <li id="pub27">
+   <li id="pub29">
         <img src="/assets/images/highorder.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>High-order conforming finite elements for the Cahn-Hilliard equation: Relative-energy stability and energy defects</strong><br>
         <em>with A. Brunk </em><br>
@@ -107,7 +92,7 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-  <li id="pub26">
+  <li id="pub28">
         <img src="/assets/images/jumpAC.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>An Allen-Cahn equation with jump-diffusion noise for biological damage and repair processes</strong><br>
         <em>with A. Di Primio, L. Scarpa, M. Zanella </em><br>
@@ -116,7 +101,7 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-    <li id="pub25">
+    <li id="pub27">
         <img src="/assets/images/review.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Review of thermodynamic structures and structure-preserving discretisations of Cahn-Hilliard-type models</strong><br>
         <em>with A. Brunk, M. ten Eikelder, D. Höhn, D. Trautwein </em><br>
@@ -125,7 +110,7 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-    <li id="pub24">
+    <li id="pub26">
         <img src="/assets/images/peri2.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Unifying local and nonlocal corrosion frameworks: A convergent nonlocal extension of the KKS phase-field model</strong><br>
         <em>with C. Cyron, A. Hermann, T. Köppl, A. Shojaei, S. Silling </em><br>
@@ -139,7 +124,23 @@ ol.bracketed > li::before {
 <h2>Peer-Reviewed Scientific Articles</h2>
 
 
-<ol class="bracketed" style="counter-reset: item 24;">  
+<ol class="bracketed" style="counter-reset: item 26;">  
+           <li id="pub25">
+        <img src="/assets/images/zulehner.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <strong>A four-field auxiliary reformulation of a Cahn-Hilliard time step: Analysis and conforming finite element discretization</strong><br>
+        Numerical Mathematics: Theory, Methods and Applications (to appear) <br>
+        Links: <a href="https://arxiv.org/abs/2607.10724">Preprint</a> & <a href="https://www.global-sci.com/nmtma">Journal</a>
+        <br clear="left"/>
+        <hr />
+    </li>
+         <li id="pub24">
+        <img src="/assets/images/forms.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <strong>A fractional de Rham complex for coframe-attached Maxwell equations</strong><br>
+        Analysis and Mathematical Physics (to appear) <br>
+        Links: <a href="https://arxiv.org/abs/2607.09300">Preprint</a> & <a href="https://link.springer.com/journal/13324">Journal</a>
+        <br clear="left"/>
+        <hr />
+    </li>
   <li id="pub23">
         <img src="/assets/images/fisher.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>A time-fractional Fisher-KPP equation for tumor growth: Analysis and numerical simulation</strong><br>
