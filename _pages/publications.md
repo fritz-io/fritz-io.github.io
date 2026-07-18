@@ -55,7 +55,7 @@ ol.bracketed > li::before {
     </li>
        <li id="pub33">
         <img src="/assets/images/navier2.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
-        <strong>On the well-posedness of the 3D Navier-Stokes equations with distributed Maxwell-type viscosity</strong><br>
+        <strong>On the well-posedness of the 3D Navier–Stokes equations with distributed relaxation viscosity</strong><br>
         Submitted
          <br clear="left"/>
         <hr />
