@@ -102,15 +102,6 @@ ol.bracketed > li::before {
         <hr />
     </li>
     <li id="pub27">
-        <img src="/assets/images/review.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
-        <strong>Review of thermodynamic structures and structure-preserving discretisations of Cahn-Hilliard-type models</strong><br>
-        <em>with A. Brunk, M. ten Eikelder, D. Höhn, D. Trautwein </em><br>
-        Submitted<br>
-        Links: <a href="https://arxiv.org/abs/2602.08791">Preprint</a> 
-        <br clear="left"/>
-        <hr />
-    </li>
-    <li id="pub26">
         <img src="/assets/images/peri2.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Unifying local and nonlocal corrosion frameworks: A convergent nonlocal extension of the KKS phase-field model</strong><br>
         <em>with C. Cyron, A. Hermann, T. Köppl, A. Shojaei, S. Silling </em><br>
@@ -124,7 +115,16 @@ ol.bracketed > li::before {
 <h2>Peer-Reviewed Scientific Articles</h2>
 
 
-<ol class="bracketed" style="counter-reset: item 26;">  
+<ol class="bracketed" style="counter-reset: item 27;">  
+      <li id="pub26">
+        <img src="/assets/images/review.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <strong>Review of thermodynamic structures and structure-preserving discretisations of Cahn-Hilliard-type models</strong><br>
+        <em>with A. Brunk, M. ten Eikelder, D. Höhn, D. Trautwein </em><br>
+        Numerical Mathematics and Advanced Applications (to appear)<br>
+        Links: <a href="https://arxiv.org/abs/2602.08791">Preprint</a> & <a href="https://link.springer.com/book/10.1007/978-3-031-86173-4">Journal</a>
+        <br clear="left"/>
+        <hr />
+    </li>
            <li id="pub25">
         <img src="/assets/images/zulehner.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>A four-field auxiliary reformulation of a Cahn-Hilliard time step: Analysis and conforming finite element discretization</strong><br>
@@ -136,8 +136,8 @@ ol.bracketed > li::before {
          <li id="pub24">
         <img src="/assets/images/forms.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>A fractional de Rham complex for coframe-attached Maxwell equations</strong><br>
-        Analysis and Mathematical Physics (to appear) <br>
-        Links: <a href="https://arxiv.org/abs/2607.09300">Preprint</a> & <a href="https://link.springer.com/journal/13324">Journal</a>
+        Analysis and Mathematical Physics (2026) <br>
+        Links: <a href="https://arxiv.org/abs/2607.09300">Preprint</a> & <a href="https:/doi.org/10.1007/s13324-026-01248-w">Journal</a>
         <br clear="left"/>
         <hr />
     </li>
