@@ -39,7 +39,7 @@ ol.bracketed > li::before {
 <h2>Preprints</h2>
 
 <ol class="bracketed" style="counter-reset: item 38;">  
-    <li id="pub36">
+    <li id="pub37">
         <img src="/assets/images/sharp.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Sharp CFL stability and error analysis for fully explicit Cahn-Hilliard time stepping</strong><br>
         Submitted
