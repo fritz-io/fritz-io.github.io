@@ -61,27 +61,20 @@ ol.bracketed > li::before {
         <hr />
     </li>
        <li id="pub34">
-        <img src="/assets/images/rothe1.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
-        <strong>Rothe time discretization and weak solutions for a cutoff Westervelt system</strong><br>
-        Submitted
-        <br clear="left"/>
-        <hr />
-    </li>
-       <li id="pub33">
         <img src="/assets/images/navier2.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>On the well-posedness of the 3D Navier–Stokes equations with distributed relaxation viscosity</strong><br>
         Submitted
          <br clear="left"/>
         <hr />
     </li>
-       <li id="pub32">
+       <li id="pub33">
         <img src="/assets/images/counter1.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>A semiconvex counterexample to energy monotonicity for time-fractional gradient flows</strong><br>
-        Submitted
+        Links: <a href="https://arxiv.org/abs/2608.01188">Preprint</a> 
         <br clear="left"/>
         <hr />
     </li>
-     <li id="pub31">
+     <li id="pub32">
         <img src="/assets/images/finger3.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Global weak solutions of a one-sided degenerate Cahn-Hilliard model for traction-driven digit morphogenesis</strong><br>
         Submitted<br>
@@ -89,7 +82,7 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-   <li id="pub30">
+   <li id="pub31">
         <img src="/assets/images/fingering.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Structure-preserving discretization and fingering dynamics of a Cahn-Hilliard model for traction-driven digit morphogenesis</strong><br>
         Submitted<br>
@@ -97,7 +90,7 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-   <li id="pub29">
+   <li id="pub30">
         <img src="/assets/images/highorder.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>High-order conforming finite elements for the Cahn-Hilliard equation: Relative-energy stability and energy defects</strong><br>
         <em>with A. Brunk </em><br>
@@ -106,7 +99,7 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-  <li id="pub28">
+  <li id="pub29">
         <img src="/assets/images/jumpAC.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>An Allen-Cahn equation with jump-diffusion noise for biological damage and repair processes</strong><br>
         <em>with A. Di Primio, L. Scarpa, M. Zanella </em><br>
@@ -115,7 +108,7 @@ ol.bracketed > li::before {
         <br clear="left"/>
         <hr />
     </li>
-    <li id="pub27">
+    <li id="pub28">
         <img src="/assets/images/peri2.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Unifying local and nonlocal corrosion frameworks: A convergent nonlocal extension of the KKS phase-field model</strong><br>
         <em>with C. Cyron, A. Hermann, T. Köppl, A. Shojaei, S. Silling </em><br>
@@ -129,7 +122,15 @@ ol.bracketed > li::before {
 <h2>Peer-Reviewed Scientific Articles</h2>
 
 
-<ol class="bracketed" style="counter-reset: item 27;">  
+<ol class="bracketed" style="counter-reset: item 28;">  
+         <li id="pub27">
+        <img src="/assets/images/rothe1.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <strong>Rothe time discretization and weak solutions for a cutoff Westervelt system</strong><br>
+        Numerical Methods for Partial Differential Equations (to appear)<br>
+        Links: Preprint & <a href="https://onlinelibrary.wiley.com/journal/10982426">Journal</a>
+        <br clear="left"/>
+        <hr />
+    </li>
       <li id="pub26">
         <img src="/assets/images/review.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Review of thermodynamic structures and structure-preserving discretisations of Cahn-Hilliard-type models</strong><br>
