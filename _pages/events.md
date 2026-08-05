@@ -27,23 +27,18 @@ toc_icon: "gear"
 ### 2026
 
 - **[ECCOMAS 2026](https://wccm-eccomas2026.org)** (Munich, Germany)  
-
 - **[AIMS Conference 2026](https://aimsconference.org/conferences/2026/index.html)** (Athens, Greece)  
 
 ### 2025
 
 - **[ENUMATH 2025](https://www.enumath2025.eu)** (Heidelberg, Germany)
-
 - **[16th Viennese Conference on Optimal Control and Dynamic Games](https://vc2025.conf.tuwien.ac.at)** (Vienna, Austria)
-
 - **[19th Austrian Numerical Analysis Day 2025](https://www.plus.ac.at/mathematik/news-events-social-media/veranstaltungen/workshops/anaday-2025/)** (Salzburg, Austria)
 
 ### 2024
 
 - **[WAVES 2024](https://waves2024.mps.mpg.de)** (Berlin, Germany)
-
 - **[Equadiff 2024](https://www.kau.se/en/equadiff)** (Karlstad, Sweden)
-
 - **[SIAM Conference on Uncertainty Quantification 2024](https://www.siam.org/conferences/cm/conference/uq24)** (Trieste, Italy)
 
 ### 2023
@@ -57,11 +52,8 @@ toc_icon: "gear"
 ### 2021
 
 - **[DMV-ÖMG Annual Conference 2021](https://www.uni-passau.de/dmv-oemg-2021/startseite/)** (Passau, Germany)
-
 - **[16th U.S. National Congress on Computational Mechanics](http://16.usnccm.org)** (Chicago, United States)
-
 - **[VI ECCOMAS Young Investigators Conference 2021](https://yic2021.upv.es)** (Valencia, Spain)
-
 - **[SIAM Conference on Computational Science and Engineering 2021](https://www.siam.org/conferences/cm/conference/cse21)** (Virtual)
 
 ### 2020
