@@ -17,15 +17,15 @@ toc_icon: "gear"
 <div style="padding-top: 15px;">
     <strong><a href="https://jahrestagung.gamm.org/joint-annual-meeting-2027/joint-annual-meeting/">Joint Annual Meeting of GAMM and DMV</a></strong><br>
     <em>Ulm, Germany</em><br>
-    Date: 8.3.2027 - 12.3.2027<br>
+    Date: 8.3.2027–12.3.2027<br>
     Deadline: Talk 1.12.
 </div>
 <hr/>
 
 <div style="padding-top: 15px;">
     <strong><a href="https://icosahom2027.org">16th International Conference on Spectral and High Order Methods</a></strong><br>
-    <em>Milano, Italy</em><br>
-    Date: 5.7.2027 - 9.7.2027<br>
+    <em>Milan, Italy</em><br>
+    Date: 5.7.2027–9.7.2027<br>
     Deadline: MS 31.7. & Talk 31.12.
 </div>
 <hr/>
@@ -114,13 +114,13 @@ toc_icon: "gear"
 
 <div style="padding-top: 15px;">
     <strong><a href="http://16.usnccm.org">16th U.S. National Congress on Computational Mechanics (USNCCM)</a></strong><br>
-    <em>University of Illinois at Urbana-Champaign, Chicago</em>
+    <em>Chicago, United States</em>
 </div>
 <hr/>
 
 <div style="padding-top: 15px;">
     <strong><a href="https://yic2021.upv.es">YIC (VI ECCOMAS Young Investigators Conference) 2021</a></strong><br>
-    <em>Universitat Politècnica de València</em>
+    <em>Valencia, Spain</em>
 </div>
 <hr/>
 
@@ -134,7 +134,7 @@ toc_icon: "gear"
 
 <div style="padding-top: 15px;">
     <strong><a href="https://2020.smb.org">SMB (Society for Mathematical Biology) 2020 Annual Meeting</a></strong><br>
-    <em>Universität Heidelberg</em>
+    <em>Heidelberg, Germany</em>
 </div>
 <hr/>
 
@@ -142,6 +142,6 @@ toc_icon: "gear"
 
 <div style="padding-top: 15px;">
     <strong><a href="https://www.math.fau.de/2019/10/24/workshop-on-recent-developments-in-modelling-and-analysis-in-porous-media/">International Workshop on Recent Developments in Modelling, Analysis and Simulation of Processes in Porous Media</a></strong><br>
-    <em>Friedrich-Alexander-Universität Erlangen-Nürnberg</em>
+    <em>Erlangen, Germany</em>
 </div>
 <hr/>
