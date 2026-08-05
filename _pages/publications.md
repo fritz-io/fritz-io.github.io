@@ -38,7 +38,14 @@ ol.bracketed > li::before {
 
 <h2>Preprints</h2>
 
-<ol class="bracketed" style="counter-reset: item 38;">  
+<ol class="bracketed" style="counter-reset: item 39;">  
+      <li id="pub38">
+        <img src="/assets/images/deg.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
+        <strong>Numerical analysis of an implicit-mobility mass-lumped finite element scheme for the degenerate Cahn-Hilliard equation</strong><br>
+        Submitted
+        <br clear="left"/>
+        <hr />
+    </li>
     <li id="pub37">
         <img src="/assets/images/sharp.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>Sharp CFL stability and error analysis for fully explicit Cahn-Hilliard time stepping</strong><br>
