@@ -139,15 +139,15 @@ classes: wide
       </figure>
 
       <figure class="research-figure">
-        <a href="#pub18">
+        <a href="#pub1">
           <span class="research-figure__canvas">
             <img
-              src="{{ '/assets/images/Actuator.png' | relative_url }}"
-              alt="Actuator configuration for stabilization of a nonisothermal Cahn–Hilliard system"
+              src="{{ '/assets/images/blackstock.png' | relative_url }}"
+              alt="Wave governed by the Blackstock equation in nonlinear acoustics"
               loading="lazy"
               decoding="async">
           </span>
-          <figcaption>Actuator-based trajectory stabilization</figcaption>
+          <figcaption>Blackstock equation in nonlinear acoustics</figcaption>
         </a>
       </figure>
     </div>
