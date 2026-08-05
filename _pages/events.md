@@ -12,6 +12,8 @@ toc_icon: "gear"
 
 ## Planned upcoming events
 
+### 2027
+
 <div style="padding-top: 15px;">
     <strong><a href="https://jahrestagung.gamm.org/joint-annual-meeting-2027/joint-annual-meeting/">Joint Annual Meeting of GAMM and DMV</a></strong><br>
     <em>Ulm, Germany</em><br>
@@ -30,6 +32,8 @@ toc_icon: "gear"
 
 ## Past talks
 
+### 2026
+
 <div style="padding-top: 15px;">
     <strong><a href="https://wccm-eccomas2026.org">ECCOMAS 2026</a></strong><br>
     <em>Munich, Germany</em><br>
@@ -43,6 +47,8 @@ toc_icon: "gear"
     Organization: Nonlocal models arising in biology and ecology
 </div>
 <hr/>
+
+### 2025
 
 <div style="padding-top: 15px;">
     <strong><a href="https://www.enumath2025.eu">ENUMATH 2025</a></strong><br>
@@ -62,6 +68,8 @@ toc_icon: "gear"
 </div>
 <hr/>
 
+### 2024
+
 <div style="padding-top: 15px;">
     <strong><a href="https://waves2024.mps.mpg.de">WAVES 2024</a></strong><br>
     <em>Berlin, Germany</em>
@@ -76,9 +84,11 @@ toc_icon: "gear"
 
 <div style="padding-top: 15px;">
     <strong><a href="https://www.siam.org/conferences/cm/conference/uq24">SIAM Conference on Uncertainty Quantification 2024</a></strong><br>
-    <em>Triest, Italy</em>
+    <em>Trieste, Italy</em>
 </div>
 <hr/>
+
+### 2023
 
 <div style="padding-top: 15px;">
     <strong><a href="https://iciam2023.org">ICIAM (International Congress on Industrial and Applied Mathematics) 2023</a></strong><br>
@@ -86,11 +96,15 @@ toc_icon: "gear"
 </div>
 <hr/>
 
+### 2022
+
 <div style="padding-top: 15px;">
     <strong><a href="https://intcomsin.de">IntComSin (Interfaces, Complex Structures, and Singular Limits)</a></strong><br>
     <em>Regensburg, Germany</em>
 </div>
 <hr/>
+
+### 2021
 
 <div style="padding-top: 15px;">
     <strong><a href="https://www.uni-passau.de/dmv-oemg-2021/startseite/">DMV-ÖMG Annual Conference 2021</a></strong><br>
@@ -116,11 +130,15 @@ toc_icon: "gear"
 </div>
 <hr/>
 
+### 2020
+
 <div style="padding-top: 15px;">
     <strong><a href="https://2020.smb.org">SMB (Society for Mathematical Biology) 2020 Annual Meeting</a></strong><br>
     <em>Universität Heidelberg</em>
 </div>
 <hr/>
+
+### 2019
 
 <div style="padding-top: 15px;">
     <strong><a href="https://www.math.fau.de/2019/10/24/workshop-on-recent-developments-in-modelling-and-analysis-in-porous-media/">International Workshop on Recent Developments in Modelling, Analysis and Simulation of Processes in Porous Media</a></strong><br>
