@@ -6,7 +6,7 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
-
+@import "minimal-mistakes/custom";
 
 html {
   font-size: 16px;
@@ -34,4 +34,3 @@ html {
     }
   }
 }
-
