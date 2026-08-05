@@ -2,25 +2,25 @@
 layout: archive
 permalink: /
 description: >-
-  Marvin Fritz is a tenure-track Professor of Numerical Analysis at the University
-  of Vienna. His research concerns nonlinear and fractional partial differential
-  equations, structure-preserving numerical methods, control, and mathematical
-  models in the life sciences.
+  Marvin Fritz is a tenure-track Professor at the University of Vienna. His research
+  concerns nonlinear and fractional partial differential equations,
+  structure-preserving numerical methods, control, and mathematical models in the
+  life sciences.
 author_profile: true
 classes: wide
 ---
 
 <section id="about" class="site-intro" aria-labelledby="about-heading">
-  <p class="eyebrow">Numerical analysis · Partial differential equations</p>
-  <h1 id="about-heading">Marvin Fritz</h1>
+  <p class="eyebrow">Partial differential equations · Numerical analysis · Mathematical modeling</p>
+  <h1 id="about-heading" class="visually-hidden">Marvin Fritz</h1>
 
   <p class="lede">
-    Marvin Fritz is a tenure-track Professor of Numerical Analysis at the
+    Marvin Fritz is a tenure-track Professor at the
     <a href="https://www.univie.ac.at/">University of Vienna</a>.
   </p>
 
   <p>
-    His research concerns the analysis and numerical approximation of nonlinear,
+    My research concerns the analysis and numerical approximation of nonlinear,
     fractional, nonlocal, and stochastic partial differential equations. A central
     theme is the development of reliable computational methods that preserve the
     mathematical structure of models arising in materials science, control,
@@ -38,12 +38,6 @@ classes: wide
 
 <section id="research" class="one-page-section" aria-labelledby="research-heading">
   <h2 id="research-heading">Research</h2>
-  <p class="section-intro">
-    My work combines analytical questions—existence, uniqueness, regularity,
-    stability, and long-time behaviour—with numerical methods designed to retain
-    the structure of the underlying model.
-  </p>
-
   <article class="research-area">
     <div class="research-area__text">
       <h3>Structure-preserving discretization</h3>
@@ -206,7 +200,7 @@ classes: wide
 </section>
 
 <section id="meet" class="one-page-section" aria-labelledby="meet-heading">
-  <h2 id="meet-heading">Upcoming talks &amp; conferences</h2>
+  <h2 id="meet-heading">Upcoming talks</h2>
 
   <div class="upcoming-events">
     <article class="upcoming-event">
@@ -235,10 +229,21 @@ classes: wide
   </div>
 </section>
 
-<section id="publications" class="one-page-section" aria-labelledby="publications-heading">
-  <h2 id="publications-heading">Publications</h2>
-  <div class="publication-list" role="list" aria-label="Publications by Marvin Fritz">
-  {% for publication in site.data.publications %}
+<section id="publications" class="one-page-section" aria-labelledby="preprints-heading">
+  <h2 id="preprints-heading">Preprints</h2>
+  <div class="publication-list" role="list" aria-label="Preprints by Marvin Fritz">
+  {% assign preprints = site.data.publications | where: "category", "preprint" %}
+  {% for publication in preprints %}
+    {% include publication-card.html publication=publication %}
+  {% endfor %}
+  </div>
+</section>
+
+<section id="refereed-articles" class="one-page-section publication-section--continuation" aria-labelledby="articles-heading">
+  <h2 id="articles-heading">Refereed articles</h2>
+  <div class="publication-list" role="list" aria-label="Refereed articles by Marvin Fritz">
+  {% assign articles = site.data.publications | where: "category", "article" %}
+  {% for publication in articles %}
     {% include publication-card.html publication=publication %}
   {% endfor %}
   </div>
