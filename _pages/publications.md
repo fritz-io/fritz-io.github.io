@@ -159,7 +159,7 @@ ol.bracketed > li::before {
         <img src="/assets/images/forms.png" width="200" height="auto" alt="" align="left" style="padding: 15px 30px;">
         <strong>A fractional de Rham complex for coframe-attached Maxwell equations</strong><br>
         Analysis and Mathematical Physics (2026) <br>
-        Links: <a href="https://arxiv.org/abs/2607.09300">Preprint</a> & <a href="https:/doi.org/10.1007/s13324-026-01248-w">Journal</a>
+        Links: <a href="https://arxiv.org/abs/2607.09300">Preprint</a> & <a href="https://doi.org/10.1007/s13324-026-01248-w">Journal</a>
         <br clear="left"/>
         <hr />
     </li>
@@ -196,7 +196,7 @@ ol.bracketed > li::before {
 </strong><br>
         <em>with H. Egger, K. Kunisch, S. Rodrigues</em><br>
         IMA Journal of Numerical Analysis (2025)<br>
-        Links: <a href="https://arxiv.org/abs/2411.09498">Preprint</a> & <a href="https://doi.org/10.1093/imanum/draf118">Journal</a>
+        Links: <a href="https://arxiv.org/abs/2504.21150">Preprint</a> & <a href="https://doi.org/10.1093/imanum/draf118">Journal</a>
         <br clear="left"/>
         <hr />
     </li>
@@ -365,7 +365,7 @@ Schumann, A. Wagner and B. Wohlmuth </em> <br>
  <strong> Well-posedness and numerical treatment of the Blackstock equation in nonlinear acoustics</strong>  <br> 
   <em>with V. Nikolić and B. Wohlmuth</em> 
   <br> Mathematical Models and Methods in Applied Sciences (2018) <br>
-  Links: <a href="https://arxiv.org/abs/1806.05227">Preprint</a> & <a href="https://doi.org/10.1016/j.camwa.2022.01.002">Journal</a>
+  Links: <a href="https://arxiv.org/abs/1806.05227">Preprint</a> & <a href="https://doi.org/10.1142/S0218202518500550">Journal</a>
         <br clear="left"/>
         <hr />
     </li>
