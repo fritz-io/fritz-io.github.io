@@ -99,15 +99,15 @@ classes: wide
       </figure>
 
       <figure class="research-figure">
-        <a href="#pub13">
+        <a href="#pub29">
           <span class="research-figure__canvas">
             <img
-              src="{{ '/assets/images/Fokker2.png' | relative_url }}"
-              alt="Probability-density simulation for a time-fractional Fokker–Planck equation"
+              src="{{ '/assets/images/jumpAC.png' | relative_url }}"
+              alt="Jump noise damage to the Allen-Cahn phase-field"
               loading="lazy"
               decoding="async">
           </span>
-          <figcaption>Time-fractional Fokker–Planck dynamics</figcaption>
+          <figcaption>Jump-diffusion noise in the stochastic Allen-Cahn equation</figcaption>
         </a>
       </figure>
     </div>
