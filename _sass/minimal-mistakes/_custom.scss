@@ -133,31 +133,31 @@ figure {
   line-height: 1.48;
 }
 
+
 .research-gallery {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 0.7rem;
-  width: 100%;
-  max-width: 17.5rem;
-  margin: 0;
+  width: min(100%, 17.5rem);
+  max-width: 100%;
+  margin: 0 0 0 auto;
+  justify-self: end;
 }
 
 .research-figure {
   min-width: 0;
 }
 
-.research-figure a {
-  display: block;
-  color: inherit;
-  text-decoration: none;
-}
-
 .research-figure__canvas {
+  box-sizing: border-box;
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 8.35rem;
-  height: 6.75rem;
+
+  width: 100%;
+  height: auto;
+  aspect-ratio: 8.35 / 6.75;
+
   overflow: hidden;
   padding: 0.18rem;
   border: 1px solid $border-color;
@@ -169,25 +169,14 @@ figure {
   display: block;
   width: auto !important;
   height: auto !important;
-  max-width: 7.6rem !important;
-  max-height: 6rem !important;
+  max-width: 100% !important;
+  max-height: 100% !important;
   object-fit: contain;
   transition: transform 160ms ease;
 }
 
-.research-figure a:hover img {
-  transform: scale(1.02);
-}
-
 .research-figure figcaption {
-  margin-top: 0.22rem;
-  color: $muted-text-color;
-  font-size: 0.64rem;
-  line-height: 1.25;
-}
-
-.research-figure a:hover figcaption {
-  color: $link-color;
+  overflow-wrap: anywhere;
 }
 
 /* Upcoming events */
@@ -301,13 +290,14 @@ figure {
 
 @media (max-width: 48rem) {
   .research-area {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
 
   .research-gallery {
-    width: min(17.5rem, 100%);
-    max-width: 17.5rem;
-    margin-top: 0.35rem;
+    width: min(100%, 17.5rem);
+    max-width: 100%;
+    margin: 0.5rem auto 0;
+    justify-self: center;
   }
 }
 
