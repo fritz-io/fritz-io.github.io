@@ -14,11 +14,6 @@ classes: wide
   <p class="eyebrow">Partial differential equations · Numerical analysis · Mathematical modeling</p>
   <h1 id="about-heading" class="visually-hidden">Marvin Fritz</h1>
 
-  <p class="lede">
-    Marvin Fritz is a tenure-track Professor at the
-    <a href="https://www.univie.ac.at/">University of Vienna</a>.
-  </p>
-
   <p>
     My research concerns the analysis and numerical approximation of nonlinear,
     fractional, nonlocal, and stochastic partial differential equations. A central
