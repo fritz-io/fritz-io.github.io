@@ -26,11 +26,9 @@ toc_icon: "gear"
 
 ### 2026
 
-- **[ECCOMAS 2026](https://wccm-eccomas2026.org)** (Munich, Germany)  
-  Organization: Advances on structure-preserving numerical methods for nonlinear PDEs
-
+- **[ECCOMAS 2026](https://wccm-eccomas2026.org)** (Munich, Germany)
+  
 - **[AIMS Conference 2026](https://aimsconference.org/conferences/2026/index.html)** (Athens, Greece)  
-  Organization: Nonlocal models arising in biology and ecology
 
 ### 2025
 
