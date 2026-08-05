@@ -1,0 +1,73 @@
+name: Site checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 5 * * 1"
+
+permissions:
+  contents: read
+
+jobs:
+  build-and-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2"
+          bundler-cache: true
+
+      - name: Build Jekyll site
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build --trace
+
+      - name: Validate generated HTML and internal links
+        run: >
+          bundle exec htmlproofer ./_site
+          --disable-external
+          --allow-hash-href
+          --ignore-urls "/localhost/,/127\.0\.0\.1/"
+
+      - name: Start local web server
+        run: |
+          python3 -m http.server 4000 --directory _site >/tmp/marvinfritz-site.log 2>&1 &
+          echo $! > /tmp/marvinfritz-site.pid
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run accessibility checks
+        run: npx --yes pa11y-ci@4.1.1 --config .pa11yci.json
+
+      - name: Stop local web server
+        if: always()
+        run: |
+          if [ -f /tmp/marvinfritz-site.pid ]; then
+            kill "$(cat /tmp/marvinfritz-site.pid)" || true
+          fi
+
+  external-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Check external links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --config .lychee.toml
+            './**/*.md'
+            './**/*.html'
+            './_data/**/*.yml'
+          fail: true

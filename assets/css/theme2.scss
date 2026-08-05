@@ -1,59 +1,37 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+# Alternate dark theme.
 ---
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin2 | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin2 | default: 'dark' }}";
+@import "minimal-mistakes";
+
 
 html {
-    font-size: 12px; // change to whatever
-  
-    @include breakpoint($medium) {
-      font-size: 14px; // change to whatever
-    }
-  
-    @include breakpoint($large) {
-      font-size: 16px; // change to whatever
-    }
-  
-    @include breakpoint($x-large) {
-      font-size: 18px; // change to whatever
-    }
-  }
-
-
-@media (min-width: 80em) {
-
-.author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 100px;
-  height: 100px;
+  font-size: 16px;
 
   @include breakpoint($large) {
+    font-size: 17px;
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 80em) {
+  .author__avatar {
     display: block;
     width: auto;
     height: auto;
-  }
 
-  img {
-    max-width: 175px;
-    border-radius: 50%;
-
-    @include breakpoint($large) {
+    img {
+      max-width: 175px;
       padding: 5px;
       border: 1px solid $border-color;
+      border-radius: 50%;
     }
   }
 }
-}
 
-/* Add your banner image to the site header */
-.site-header {
-  background-image: url('/assets/images/avatar.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}

@@ -1,0 +1,595 @@
+# Publications are displayed in this order. Keep `number` unique.
+# Images have descriptive alternative text; use image_alt: "" only for purely decorative images.
+
+- number: 38
+  category: preprint
+  title: Numerical analysis of an implicit-mobility mass-lumped finite element scheme for the degenerate Cahn–Hilliard
+    equation
+  status: Submitted
+  image: /assets/images/deg.png
+  image_alt: Phase-field illustration associated with the degenerate Cahn–Hilliard analysis.
+  topics:
+  - structure-preserving numerics
+  - Cahn–Hilliard
+- number: 37
+  category: preprint
+  title: Sharp CFL stability and error analysis for fully explicit Cahn–Hilliard time stepping
+  status: Submitted
+  image: /assets/images/sharp.png
+  image_alt: Numerical pattern associated with explicit Cahn–Hilliard time stepping.
+  topics:
+  - numerical analysis
+  - Cahn–Hilliard
+- number: 36
+  category: preprint
+  title: A Gronwall framework for order perturbations in multi-term fractional differential equations
+  status: Submitted
+  image: /assets/images/IMG_0279.png
+  image_alt: Illustration associated with perturbations of fractional differential orders.
+  topics:
+  - fractional equations
+  - analysis
+- number: 35
+  category: preprint
+  title: Threshold dynamics for subdiffusive grain growth
+  status: Submitted
+  image: /assets/images/voronoi.png
+  image_alt: Voronoi-style grain structure associated with subdiffusive grain growth.
+  topics:
+  - fractional equations
+  - materials
+- number: 34
+  category: preprint
+  title: On the well-posedness of the 3D Navier–Stokes equations with distributed relaxation viscosity
+  status: Submitted
+  image: /assets/images/navier2.png
+  image_alt: Flow illustration associated with distributed relaxation viscosity.
+  topics:
+  - well-posedness
+  - fluid dynamics
+- number: 33
+  category: preprint
+  title: A semiconvex counterexample to energy monotonicity for time-fractional gradient flows
+  status: Preprint
+  image: /assets/images/counter1.png
+  image_alt: Energy illustration associated with a time-fractional gradient-flow counterexample.
+  arxiv: https://arxiv.org/abs/2608.01188
+  topics:
+  - fractional equations
+  - gradient flows
+- number: 32
+  category: preprint
+  title: Global weak solutions of a one-sided degenerate Cahn–Hilliard model for traction-driven digit morphogenesis
+  status: Submitted
+  image: /assets/images/finger3.png
+  image_alt: Digit-morphogenesis illustration associated with a degenerate Cahn–Hilliard model.
+  arxiv: https://arxiv.org/abs/2606.10793
+  topics:
+  - Cahn–Hilliard
+  - life sciences
+  - well-posedness
+- number: 31
+  category: preprint
+  title: Structure-preserving discretization and fingering dynamics of a Cahn–Hilliard model for traction-driven
+    digit morphogenesis
+  status: Submitted
+  image: /assets/images/fingering.png
+  image_alt: Fingering-pattern illustration associated with digit morphogenesis.
+  arxiv: https://arxiv.org/abs/2606.12574
+  topics:
+  - structure-preserving numerics
+  - Cahn–Hilliard
+  - life sciences
+- number: 30
+  category: preprint
+  title: 'High-order conforming finite elements for the Cahn–Hilliard equation: Relative-energy stability and energy
+    defects'
+  authors:
+  - A. Brunk
+  status: Submitted
+  image: /assets/images/highorder.png
+  image_alt: Finite-element illustration associated with high-order Cahn–Hilliard discretization.
+  arxiv: https://arxiv.org/abs/2606.06719
+  topics:
+  - finite elements
+  - Cahn–Hilliard
+  - structure-preserving numerics
+- number: 29
+  category: preprint
+  title: An Allen–Cahn equation with jump-diffusion noise for biological damage and repair processes
+  authors:
+  - A. Di Primio
+  - L. Scarpa
+  - M. Zanella
+  status: Submitted
+  image: /assets/images/jumpAC.png
+  image_alt: Simulation illustration associated with biological damage and repair.
+  arxiv: https://arxiv.org/abs/2602.17495
+  topics:
+  - stochastic PDEs
+  - life sciences
+  - Allen–Cahn
+- number: 28
+  category: preprint
+  title: 'Unifying local and nonlocal corrosion frameworks: A convergent nonlocal extension of the KKS phase-field
+    model'
+  authors:
+  - C. Cyron
+  - A. Hermann
+  - T. Köppl
+  - A. Shojaei
+  - S. Silling
+  status: Submitted
+  image: /assets/images/peri2.png
+  image_alt: Corrosion illustration associated with a nonlocal phase-field model.
+  arxiv: https://arxiv.org/abs/2509.23503
+  topics:
+  - nonlocal models
+  - materials
+  - phase fields
+- number: 27
+  category: article
+  title: Rothe time discretization and weak solutions for a cutoff Westervelt system
+  status: To appear
+  venue: Numerical Methods for Partial Differential Equations
+  image: /assets/images/rothe1.png
+  image_alt: Wave illustration associated with a cutoff Westervelt system.
+  journal: https://onlinelibrary.wiley.com/journal/10982426
+  journal_label: Journal
+  topics:
+  - nonlinear acoustics
+  - time discretization
+  - well-posedness
+- number: 26
+  category: article
+  title: Review of thermodynamic structures and structure-preserving discretisations of Cahn–Hilliard-type models
+  authors:
+  - A. Brunk
+  - M. ten Eikelder
+  - D. Höhn
+  - D. Trautwein
+  status: To appear
+  venue: Numerical Mathematics and Advanced Applications
+  image: /assets/images/review.png
+  image_alt: Phase-field illustration associated with the Cahn–Hilliard review.
+  arxiv: https://arxiv.org/abs/2602.08791
+  journal: https://link.springer.com/book/10.1007/978-3-031-86173-4
+  journal_label: Proceedings
+  topics:
+  - Cahn–Hilliard
+  - structure-preserving numerics
+  - thermodynamics
+- number: 25
+  category: article
+  title: 'A four-field auxiliary reformulation of a Cahn–Hilliard time step: Analysis and conforming finite element
+    discretization'
+  status: To appear
+  venue: 'Numerical Mathematics: Theory, Methods and Applications'
+  image: /assets/images/zulehner.png
+  image_alt: Finite-element illustration associated with a four-field Cahn–Hilliard reformulation.
+  arxiv: https://arxiv.org/abs/2607.10724
+  journal: https://www.global-sci.com/nmtma
+  journal_label: Journal
+  topics:
+  - finite elements
+  - Cahn–Hilliard
+  - numerical analysis
+- number: 24
+  category: article
+  title: A fractional de Rham complex for coframe-attached Maxwell equations
+  status: Published
+  venue: Analysis and Mathematical Physics
+  year: 2026
+  image: /assets/images/forms.png
+  image_alt: Differential-form illustration associated with fractional Maxwell equations.
+  arxiv: https://arxiv.org/abs/2607.09300
+  doi: https://doi.org/10.1007/s13324-026-01248-w
+  selected: true
+  summary: A fractional differential-complex framework for Maxwell equations formulated on coframes.
+  topics:
+  - fractional equations
+  - Maxwell equations
+  - analysis
+- number: 23
+  category: article
+  title: 'A time-fractional Fisher–KPP equation for tumor growth: Analysis and numerical simulation'
+  authors:
+  - N. Kavallaris
+  status: Published
+  venue: Communications in Nonlinear Science and Numerical Simulation
+  year: 2026
+  image: /assets/images/fisher.png
+  image_alt: Tumor-growth simulation associated with a time-fractional Fisher–KPP model.
+  arxiv: https://arxiv.org/abs/2511.05312
+  doi: https://doi.org/10.1016/j.cnsns.2026.109911
+  selected: true
+  summary: Analysis and simulation of a tumor-growth model in which fractional time dynamics encode memory effects.
+  topics:
+  - fractional equations
+  - life sciences
+  - tumor growth
+- number: 22
+  category: article
+  title: On the well-posedness of a nonlocal kinetic model for dilute polymers with anomalous diffusion
+  authors:
+  - E. Süli
+  - B. Wohlmuth
+  status: Published
+  venue: Fractional Calculus and Applied Analysis
+  year: 2026
+  image: /assets/images/fene2.png
+  image_alt: Polymer-configuration illustration associated with anomalous diffusion.
+  arxiv: https://arxiv.org/abs/2511.06570
+  doi: https://doi.org/10.1007/s13540-026-00503-y
+  topics:
+  - fractional equations
+  - kinetic models
+  - well-posedness
+- number: 21
+  category: article
+  title: Analysis and discretization of the Ohta–Kawasaki equation with forcing and degenerate mobility
+  authors:
+  - A. Brunk
+  status: Published
+  venue: Partial Differential Equations and Applications
+  year: 2025
+  image: /assets/images/ohta-removebg-preview.png
+  image_alt: Pattern-formation illustration associated with the Ohta–Kawasaki equation.
+  arxiv: https://arxiv.org/abs/2411.09498
+  doi: https://doi.org/10.1007/s42985-025-00362-x
+  topics:
+  - phase fields
+  - structure-preserving numerics
+  - well-posedness
+- number: 20
+  category: article
+  title: On feedback stabilisation for the Cahn–Hilliard equation and its numerical approximation
+  authors:
+  - H. Egger
+  - K. Kunisch
+  - S. Rodrigues
+  status: Published
+  venue: IMA Journal of Numerical Analysis
+  year: 2025
+  image: /assets/images/IMG_2338.webp
+  image_alt: Controlled phase-field evolution associated with feedback stabilisation.
+  arxiv: https://arxiv.org/abs/2504.21150
+  doi: https://doi.org/10.1093/imanum/draf118
+  selected: true
+  summary: A feedback-control strategy and numerical approximation for stabilising Cahn–Hilliard trajectories.
+  topics:
+  - control
+  - Cahn–Hilliard
+  - numerical analysis
+- number: 19
+  category: article
+  title: Analysis and structure-preserving approximation of a Cahn–Hilliard–Forchheimer system with solution-dependent
+    mass and volume source
+  authors:
+  - A. Brunk
+  status: Published
+  venue: 'ESAIM: Mathematical Modelling and Numerical Analysis'
+  year: 2025
+  image: /assets/images/chf.png
+  image_alt: Multiphysics illustration associated with a Cahn–Hilliard–Forchheimer system.
+  arxiv: https://arxiv.org/abs/2504.09739
+  doi: https://doi.org/10.1051/m2an/2025081
+  topics:
+  - multiphysics
+  - Cahn–Hilliard
+  - structure-preserving numerics
+- number: 18
+  category: article
+  title: Stabilization to trajectories of nonisothermal Cahn–Hilliard equations
+  authors:
+  - B. Azmi
+  - S. Rodrigues
+  status: Published
+  venue: 'ESAIM: Control, Optimisation and Calculus of Variations'
+  year: 2025
+  image: /assets/images/Actuator.png
+  image_alt: Actuator illustration associated with trajectory stabilization.
+  arxiv: https://arxiv.org/abs/2411.04018
+  doi: https://doi.org/10.1051/cocv/2025068
+  topics:
+  - control
+  - Cahn–Hilliard
+  - nonisothermal models
+- number: 17
+  category: article
+  title: Well-posedness, long-time behavior, and discretization of some models of nonlinear acoustics in velocity-enthalpy
+    formulation
+  authors:
+  - H. Egger
+  status: Published
+  venue: Mathematical Methods in the Applied Sciences
+  year: 2025
+  image: /assets/images/acou.png
+  image_alt: Acoustic-wave illustration associated with velocity–enthalpy models.
+  arxiv: https://arxiv.org/abs/2409.01067
+  doi: https://doi.org/10.1002/mma.10753
+  topics:
+  - nonlinear acoustics
+  - well-posedness
+  - numerical analysis
+- number: 16
+  category: article
+  title: Analysis and computations of a stochastic Cahn–Hilliard model for tumor growth with chemotaxis and variable
+    mobility
+  authors:
+  - L. Scarpa
+  status: Published
+  venue: 'Stochastics and Partial Differential Equations: Analysis and Computations'
+  year: 2025
+  image: /assets/images/Stochastic.png
+  image_alt: Stochastic tumor-growth simulation associated with chemotaxis and variable mobility.
+  arxiv: https://arxiv.org/abs/2312.06288
+  doi: https://doi.org/10.1007/s40072-025-00348-1
+  topics:
+  - stochastic PDEs
+  - tumor growth
+  - Cahn–Hilliard
+- number: 15
+  category: article
+  title: Structure-preserving approximation of the Cahn–Hilliard–Biot system
+  authors:
+  - A. Brunk
+  status: Published
+  venue: Numerical Methods for Partial Differential Equations
+  year: 2025
+  image: /assets/images/chb.png
+  image_alt: Poroelastic phase-field illustration associated with the Cahn–Hilliard–Biot system.
+  arxiv: https://arxiv.org/abs/2407.12349
+  doi: https://doi.org/10.1002/num.23159
+  topics:
+  - poroelasticity
+  - Cahn–Hilliard
+  - structure-preserving numerics
+- number: 14
+  category: article
+  title: On the well-posedness of the Cahn–Hilliard–Biot model and its applications to tumor growth
+  status: Published
+  venue: Discrete and Continuous Dynamical Systems – S
+  year: 2024
+  image: /assets/images/biot.png
+  image_alt: Tumor-growth illustration associated with a Cahn–Hilliard–Biot model.
+  arxiv: https://arxiv.org/abs/2310.07050
+  doi: https://doi.org/10.3934/dcdss.2024186
+  topics:
+  - poroelasticity
+  - tumor growth
+  - well-posedness
+- number: 13
+  category: article
+  title: Well-posedness and simulation of weak solutions to the time-fractional Fokker–Planck equation with general
+    forcing
+  status: Published
+  venue: Discrete and Continuous Dynamical Systems – B
+  year: 2024
+  image: /assets/images/Fokker2.png
+  image_alt: Probability-density illustration associated with a time-fractional Fokker–Planck equation.
+  arxiv: https://arxiv.org/abs/2307.16615
+  doi: https://doi.org/10.3934/dcdsb.2024036
+  topics:
+  - fractional equations
+  - Fokker–Planck
+  - well-posedness
+- number: 12
+  category: article
+  title: Analysis of a dilute polymer model with a time-fractional derivative
+  authors:
+  - E. Süli
+  - B. Wohlmuth
+  status: Published
+  venue: SIAM Journal on Mathematical Analysis
+  year: 2024
+  image: /assets/images/fene1.png
+  image_alt: Polymer-configuration illustration associated with a time-fractional model.
+  arxiv: https://arxiv.org/abs/2307.16606
+  doi: https://doi.org/10.1137/23M1590767
+  topics:
+  - fractional equations
+  - kinetic models
+  - well-posedness
+- number: 11
+  category: article
+  title: A phase-field model for non-small cell lung cancer under the effects of immunotherapy
+  authors:
+  - C. Kuttler
+  - J. T. Oden
+  - P. Schlicke
+  - C. Schumann
+  - A. Wagner
+  - B. Wohlmuth
+  status: Published
+  venue: Mathematical Biosciences and Engineering
+  year: 2023
+  image: /assets/images/lung.png
+  image_alt: Lung-cancer phase-field illustration associated with immunotherapy.
+  arxiv: https://arxiv.org/abs/2303.09378
+  doi: https://doi.org/10.3934/mbe.2023828
+  topics:
+  - tumor growth
+  - immunotherapy
+  - phase fields
+- number: 10
+  category: article
+  title: Tumor evolution models of phase-field type with nonlocal effects and angiogenesis
+  status: Published
+  venue: Bulletin of Mathematical Biology
+  year: 2023
+  image: /assets/images/phd.png
+  image_alt: Tumor-and-vasculature illustration associated with nonlocal phase-field models.
+  arxiv: https://arxiv.org/abs/2303.10968
+  doi: https://doi.org/10.1007/s11538-023-01151-6
+  topics:
+  - tumor growth
+  - nonlocal models
+  - angiogenesis
+- number: 9
+  category: article
+  title: 'Equivalence between a time-fractional and an integer-order gradient flow: The memory effect reflected
+    in the energy'
+  authors:
+  - U. Khristenko
+  - B. Wohlmuth
+  status: Published
+  venue: Advances in Nonlinear Analysis
+  year: 2023
+  image: /assets/images/equivalence.png
+  image_alt: Energy illustration associated with fractional and integer-order gradient flows.
+  arxiv: https://arxiv.org/abs/2106.10985
+  doi: https://doi.org/10.1515/anona-2022-0262
+  topics:
+  - fractional equations
+  - gradient flows
+  - analysis
+- number: 8
+  category: article
+  title: A 1D–0D–3D coupled model for simulating blood flow and transport processes in breast tissue
+  authors:
+  - T. Köppl
+  - J. T. Oden
+  - A. Wagner
+  - B. Wohlmuth
+  - C. Wu
+  status: Published
+  venue: International Journal for Numerical Methods in Biomedical Engineering
+  year: 2022
+  image: /assets/images/1d0d3d.png
+  image_alt: Mixed-dimensional vascular-network illustration associated with breast tissue.
+  arxiv: https://arxiv.org/abs/2201.05392
+  doi: https://doi.org/10.1002/cnm.3612
+  topics:
+  - mixed-dimensional models
+  - blood flow
+  - life sciences
+- number: 7
+  category: article
+  title: 'Time-fractional Cahn–Hilliard equation: Well-posedness, degeneracy, and numerical solutions'
+  authors:
+  - M. L. Rajendran
+  - B. Wohlmuth
+  status: Published
+  venue: Computers & Mathematics with Applications
+  year: 2022
+  image: /assets/images/timefractional.png
+  image_alt: Phase-field illustration associated with a time-fractional Cahn–Hilliard equation.
+  arxiv: https://arxiv.org/abs/2104.03096
+  doi: https://doi.org/10.1016/j.camwa.2022.01.002
+  topics:
+  - fractional equations
+  - Cahn–Hilliard
+  - numerical analysis
+- number: 6
+  category: article
+  title: On a subdiffusive tumour growth model with fractional time derivative
+  authors:
+  - C. Kuttler
+  - M. L. Rajendran
+  - L. Scarabosio
+  - B. Wohlmuth
+  status: Published
+  venue: IMA Journal of Applied Mathematics
+  year: 2021
+  image: /assets/images/subdiffusive.png
+  image_alt: Tumor-growth illustration associated with subdiffusive dynamics.
+  arxiv: https://arxiv.org/abs/2006.10670
+  doi: https://doi.org/10.1093/imamat/hxab009
+  topics:
+  - fractional equations
+  - tumor growth
+  - subdiffusion
+- number: 5
+  category: article
+  title: Modeling and simulation of vascular tumors embedded in evolving capillary networks
+  authors:
+  - P. K. Jha
+  - T. Köppl
+  - J. T. Oden
+  - A. Wagner
+  - B. Wohlmuth
+  status: Published
+  venue: Computer Methods in Applied Mechanics and Engineering
+  year: 2021
+  image: /assets/images/modeling3.png
+  image_alt: Vascular-tumor illustration associated with evolving capillary networks.
+  arxiv: https://arxiv.org/abs/2101.10183
+  doi: https://doi.org/10.1016/j.cma.2021.113975
+  topics:
+  - tumor growth
+  - vascular networks
+  - multiphysics
+- number: 4
+  category: article
+  title: Analysis of a new multispecies tumor growth model coupling 3D phase fields with a 1D vascular network
+  authors:
+  - P. K. Jha
+  - T. Köppl
+  - J. T. Oden
+  - B. Wohlmuth
+  status: Published
+  venue: 'Nonlinear Analysis: Real World Applications'
+  year: 2021
+  image: /assets/images/modeling2.png
+  image_alt: Coupled tumor-and-vascular-network illustration associated with a mixed-dimensional model.
+  arxiv: https://arxiv.org/abs/2006.10477
+  doi: https://doi.org/10.1016/j.nonrwa.2021.103331
+  topics:
+  - tumor growth
+  - mixed-dimensional models
+  - vascular networks
+- number: 3
+  category: article
+  title: Local and nonlocal phase-field models of tumor growth and invasion due to ECM degradation
+  authors:
+  - E. A. B. F. Lima
+  - V. Nikolić
+  - J. T. Oden
+  - B. Wohlmuth
+  status: Published
+  venue: Mathematical Models and Methods in Applied Sciences
+  year: 2019
+  image: /assets/images/tumor.png
+  image_alt: Tumor-invasion illustration associated with extracellular-matrix degradation.
+  arxiv: https://arxiv.org/abs/1906.07788
+  doi: https://doi.org/10.1142/S0218202519500519
+  topics:
+  - tumor growth
+  - nonlocal models
+  - phase fields
+- number: 2
+  category: article
+  title: On the unsteady Darcy–Forchheimer–Brinkman equation in local and nonlocal tumor growth models
+  authors:
+  - E. A. B. F. Lima
+  - J. T. Oden
+  - B. Wohlmuth
+  status: Published
+  venue: Mathematical Models and Methods in Applied Sciences
+  year: 2019
+  image: /assets/images/dfb.png
+  image_alt: Flow illustration associated with Darcy–Forchheimer–Brinkman tumor models.
+  arxiv: https://arxiv.org/abs/1812.08872
+  doi: https://doi.org/10.1142/S0218202519500325
+  topics:
+  - tumor growth
+  - porous media
+  - nonlocal models
+- number: 1
+  category: article
+  title: Well-posedness and numerical treatment of the Blackstock equation in nonlinear acoustics
+  authors:
+  - V. Nikolić
+  - B. Wohlmuth
+  status: Published
+  venue: Mathematical Models and Methods in Applied Sciences
+  year: 2018
+  image: /assets/images/blackstock.png
+  image_alt: Acoustic-wave illustration associated with the Blackstock equation.
+  arxiv: https://arxiv.org/abs/1806.05227
+  doi: https://doi.org/10.1142/S0218202518500550
+  topics:
+  - nonlinear acoustics
+  - well-posedness
+  - numerical analysis

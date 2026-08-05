@@ -1,54 +1,39 @@
-This is the personal webpage of Marvin Fritz.
+# marvinfritz.de
 
-[Webpage](https://fritz-io.github.io/)!
+Academic website of Marvin Fritz, built with Jekyll and the Minimal Mistakes remote theme.
 
-### Creator
+## Local preview
 
-**Michael Rose**
+```bash
+bundle install
+bundle exec jekyll serve
+```
 
-- <https://mademistakes.com>
-- <https://twitter.com/mmistakes>
-- <https://github.com/mmistakes>
+Then open `http://localhost:4000`.
 
-### Icons + Demo Images:
+## Updating publications
 
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
-- [Unsplash](https://unsplash.com/)
+Edit `_data/publications.yml`. The publications page and the selected-publication
+section on the homepage are generated from that file.
 
-### Other:
+Each publication needs a unique `number`, a `category` (`preprint` or `article`),
+a title, and any available links. Set `selected: true` and add a short `summary`
+to feature an item on the homepage.
 
-- [Jekyll](http://jekyllrb.com/)
-- [jQuery](http://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](http://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
+## Page-specific mathematics
 
----
+MathJax is loaded only when a page opts in:
 
-## License
+```yaml
+mathjax: true
+```
 
-The MIT License (MIT)
+## Automated checks
 
-Copyright (c) 2017 Michael Rose
+GitHub Actions builds the site, validates generated HTML and internal links,
+runs WCAG 2 AA accessibility checks, and checks external links. Dependabot
+checks Ruby gems and GitHub Actions monthly.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Image optimization
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+The homepage uses `assets/images/research.webp`, a resized WebP replacement for the former 5.8 MB PNG. Publication images are lazy-loaded.
