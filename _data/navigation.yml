@@ -1,12 +1,15 @@
-# main links links
 main:
-  - title: "Home" 
+  - title: "Home"
     url: /
+  - title: "Research"
+    url: /research/
   - title: "Publications"
     url: /publications/
-  - title: "Events"
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Talks & Events"
     url: /events/
   - title: "CV"
     url: /cv/
-  - title: "Misc"
-    url: /misc/
+  - title: "Resources"
+    url: /resources/

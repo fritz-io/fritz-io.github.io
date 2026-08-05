@@ -3,34 +3,62 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
+      <nav id="site-nav" class="greedy-nav" aria-label="Primary navigation">
         {% unless logo_path == empty %}
-          <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
+          <a class="site-logo" href="{{ '/' | relative_url }}">
+            <img
+              src="{{ logo_path | relative_url }}"
+              alt="{{ site.masthead_title | default: site.title }}">
+          </a>
         {% endunless %}
+
         <a class="site-title" href="{{ '/' | relative_url }}">
           {{ site.masthead_title | default: site.title }}
-          {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
+          {% if site.subtitle %}
+            <span class="site-subtitle">{{ site.subtitle }}</span>
+          {% endif %}
         </a>
+
         <ul class="visible-links">
-          {%- for link in site.data.navigation.main -%}
+          {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item">
-              <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+              <a
+                href="{{ link.url | relative_url }}"
+                {% if link.description %}title="{{ link.description }}"{% endif %}>
+                {{ link.title }}
+              </a>
             </li>
-          {%- endfor -%}
+          {% endfor %}
         </ul>
+
         {% if site.minimal_mistakes_skin2 %}
-          <i class="fas fa-fw fa-adjust" aria-hidden="true" onclick="node1=document.getElementById('theme_source');node2=document.getElementById('theme_source_2');if(node1.getAttribute('rel')=='stylesheet'){node1.setAttribute('rel', 'stylesheet alternate'); node2.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'dark');}else{node2.setAttribute('rel', 'stylesheet alternate'); node1.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'light');} return false;"></i>
+          <button
+            class="theme-toggle"
+            type="button"
+            data-theme-toggle
+            aria-pressed="false"
+            aria-label="Switch to dark theme"
+            title="Switch to dark theme">
+            <i class="fas fa-circle-half-stroke" aria-hidden="true"></i>
+          </button>
         {% endif %}
+
         {% if site.search == true %}
-        <button class="search__toggle" type="button">
-          <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
-          <i class="fas fa-search"></i>
-        </button>
+          <button class="search__toggle" type="button">
+            <span class="visually-hidden">
+              {{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}
+            </span>
+            <i class="fas fa-search" aria-hidden="true"></i>
+          </button>
         {% endif %}
+
         <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
-          <div class="navicon"></div>
+          <span class="visually-hidden">
+            {{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}
+          </span>
+          <span class="navicon" aria-hidden="true"></span>
         </button>
+
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>

@@ -1,316 +1,134 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+remote_theme: "mmistakes/minimal-mistakes@4.25.0"
+minimal_mistakes_skin: "default"
+minimal_mistakes_skin2: "dark"
 
-# Theme Settings
-#
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+locale: "en-US"
+title: "Marvin Fritz"
+title_separator: "–"
+subtitle: "Numerical Analysis"
+name: "Marvin Fritz"
+description: >-
+  Marvin Fritz is a tenure-track Professor at the University of Vienna working on
+  numerical analysis of partial differential equations, structure-preserving methods,
+  fractional equations, control, and mathematical models in the life sciences.
+url: "https://www.marvinfritz.de"
+baseurl: ""
+repository: "fritz-io/fritz-io.github.io"
+masthead_title: "Marvin Fritz"
+teaser: "/assets/images/research.webp"
+og_image: "/assets/images/research.webp"
+og_image_alt: "Research illustration for the academic website of Marvin Fritz"
+logo:
+breadcrumbs: false
+words_per_minute: 200
+search: false
+timezone: "Europe/Vienna"
 
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-minimal_mistakes_skin2   : "dark"
-
-# Site Settings
-locale                   : "en-US"
-title                    : "Marvin Fritz"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Marvin Fritz"
-port                     : 4000
-host                     : "0.0.0.0"
-description              : "Marvin Fritz is a tenure-track Professor at the University of Vienna, working on numerical analysis of PDEs, structure-preserving methods, fractional equations, control, and mathematical models in life sciences."
-url                      : "https://www.marvinfritz.de"
-baseurl                  : ""
-repository               : "fritz-io/fritz-io.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-  utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
-  giscus:
-    repo_id              : # Shown during giscus setup at https://giscus.app
-    category_name        : # Full text name of the category
-    category_id          : # Shown during giscus setup at https://giscus.app
-    discussion_term      : # "pathname" (default), "url", "title", "og:title"
-    reactions_enabled    : # '1' for enabled (default), '0' for disabled
-    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
-  staticman:
-    branch               : # "master"
-    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
-reCaptcha:
-  siteKey                :
-  secret                 :
 atom_feed:
-  path                   : # blank (default) uses feed.xml
-  hide                   : true
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
-algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
-google:
-  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
-  instant_search         : # false (default), true
-# SEO Related
-google_site_verification : 
-bing_site_verification   :
-naver_site_verification  :
-yandex_site_verification :
-baidu_site_verification  :
+  hide: true
 
-# Social Sharing
-twitter:
-  username               :
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : Person
-  name                   : Marvin Fritz
-  links: 
-  - https://orcid.org/0000-0002-8360-7371
-  - https://scholar.google.com/citations?user=UXscgtgAAAAJ
-  - https://arxiv.org/a/fritz_m_1
-
-# Analytics
-analytics:
-  provider               : 
-  google:
-    tracking_id          : 
-    anonymize_ip         : 
-
-
-# Site Author
-author:
-  name             : "Marvin Fritz"
-  avatar           : "/assets/images/E4EFF94B-D03E-410E-AE60-744F714BC731.png"
-  bio              : "Numerical Analysis of PDEs, Mathematical Modeling & Computational Science"
-  location         : '<a href="https://www.google.com/maps/place/Vienna,+Austria" target="_blank" rel="noopener" style="display:inline;">Vienna, Austria</a>'
-  email            : "marvin.fritz@univie.ac.at"
+  type: "Person"
+  name: "Marvin Fritz"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - "https://orcid.org/0000-0002-8360-7371"
+    - "https://scholar.google.com/citations?user=UXscgtgAAAAJ"
+    - "https://arxiv.org/a/fritz_m_1"
+    - "https://www.researchgate.net/profile/Marvin-Fritz"
+
+author:
+  name: "Marvin Fritz"
+  avatar: "/assets/images/E4EFF94B-D03E-410E-AE60-744F714BC731.png"
+  bio: "Numerical analysis of PDEs, mathematical modelling, and computational science"
+  location: "Vienna, Austria"
+  email: "marvin.fritz@univie.ac.at"
+  links:
+    - label: "University profile"
+      icon: "fas fa-fw fa-building-columns"
+      url: "https://mathematik.univie.ac.at/en/about-us/staff/?api_lang=en&api_pkey=1021846&api_task=member_details"
+
+footer:
+  since: "2023"
+  links:
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-8360-7371"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=UXscgtgAAAAJ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      #url: https://github.com/fritz-io
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      #url: 
-    - label: "StackOverflow"
-      icon: "fab fa-fw fa-stack-overflow"
-      #url: 
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      #url: 
-    - label: "ResearchGate"
-      icon: "fab fa-fw fa-researchgate"
-      #url: https://www.researchgate.net/profile/Marvin-Fritz
-    - label: "arXiv"
-      icon: "fab fa-fw fa-arxiv"
-      #url: https://arxiv.org/a/fritz_m_1.html
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-scholar"
-      #url: https://scholar.google.com/citations?user=UXscgtgAAAAJ&hl=en
-    - label: "ORCID" 
-      icon: "fab fa-fw fa-orcid"
-      #url: https://orcid.org/0000-0002-8360-7371
+      url: "https://github.com/fritz-io"
 
-
-# Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github fa-lg"
-      # url: 
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-    - label: "StackOverflow"
-      icon: "fab fa-fw fa-stack-overflow fa-lg"
-      # url: 
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin fa-lg"
-      # url: 
-
-
-# Reading Files
 include:
-  - .htaccess
   - _pages
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
-  - vendor
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
-  - CHANGELOG
-  - config
+  - .github
+  - .lychee.toml
+  - .pa11yci.json
   - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - log
+  - Gemfile.lock
+  - README.md
   - node_modules
-  - package.json
-  - package-lock.json
-  - Rakefile
-  - README
-  - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
-keep_files:
-  - .git
-  - .svn
+  - vendor
+
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-
-# Conversion
 markdown: kramdown
 highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
+permalink: /:categories/:title/
 
-
-# Markdown Processing
 kramdown:
   input: GFM
   hard_wrap: false
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  toc_levels: 1..6
+  toc_levels: 1..3
   smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
 
-
-# Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed
+  quiet_deps: true
+  silence_deprecations:
+    - import
 
-
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-
-# Plugins (previously gems:)
 plugins:
+  - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jemoji
 
-# mimic GitHub Pages with --safe
 whitelist:
+  - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jemoji
 
-
-# Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path>/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
-
-
-# HTML Compression
-# - https://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
     envs: development
 
-
-# Defaults
 defaults:
-  # _posts
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: archive
+      author_profile: true
+      classes: wide
+      sitemap: true
   - scope:
       path: ""
       type: posts
@@ -318,14 +136,5 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
       share: true
       related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      author_profile: true
-
-

@@ -1,0 +1,53 @@
+{% assign publication = include.publication %}
+<li class="publication-card" id="pub{{ publication.number }}">
+  <span class="publication-card__number" aria-label="Publication {{ publication.number }}">
+    [{{ publication.number }}]
+  </span>
+
+  {% if publication.image %}
+    <div class="publication-card__media">
+      <img
+        src="{{ publication.image | relative_url }}"
+        alt="{{ publication.image_alt | default: '' | escape }}"
+        width="320"
+        height="200"
+        loading="lazy"
+        decoding="async">
+    </div>
+  {% endif %}
+
+  <div class="publication-card__body">
+    <h3 class="publication-card__title">{{ publication.title }}</h3>
+
+    {% if publication.authors and publication.authors != empty %}
+      <p class="publication-card__authors">
+        With {{ publication.authors | join: ", " }}
+      </p>
+    {% endif %}
+
+    <p class="publication-card__venue">
+      {% if publication.venue %}
+        <cite>{{ publication.venue }}</cite>{% if publication.year %}, {{ publication.year }}{% endif %}
+      {% endif %}
+      {% if publication.status and publication.status != "Published" %}
+        {% if publication.venue %}<span aria-hidden="true"> · </span>{% endif %}
+        {{ publication.status }}
+      {% endif %}
+    </p>
+
+    {% if publication.arxiv or publication.doi or publication.journal %}
+      <p class="publication-card__links" aria-label="Links for {{ publication.title | escape }}">
+        {% if publication.arxiv %}
+          <a href="{{ publication.arxiv }}">Preprint</a>
+        {% endif %}
+        {% if publication.doi %}
+          <a href="{{ publication.doi }}">Published article</a>
+        {% elsif publication.journal %}
+          <a href="{{ publication.journal }}">
+            {{ publication.journal_label | default: "Journal" }}
+          </a>
+        {% endif %}
+      </p>
+    {% endif %}
+  </div>
+</li>
