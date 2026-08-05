@@ -17,16 +17,16 @@ minimal_mistakes_skin2   : "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Marvin Fritz"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Marvin Fritz"
 port                     : 4000
 host                     : "0.0.0.0"
-description              : "Marvin Fritz"
-url                      : "https://fritz-io.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+description              : "Marvin Fritz is a tenure-track Professor at the University of Vienna, working on numerical analysis of PDEs, structure-preserving methods, fractional equations, control, and mathematical models in life sciences."
+url                      : "https://www.marvinfritz.de"
+baseurl                  : ""
+repository               : "fritz-io/fritz-io.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -91,9 +91,12 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : Marvin Fritz
+  links: 
+  - https://orcid.org/0000-0002-8360-7371
+  - https://scholar.google.com/citations?user=UXscgtgAAAAJ
+  - https://arxiv.org/a/fritz_m_1
 
 # Analytics
 analytics:
