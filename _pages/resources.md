@@ -1,33 +1,19 @@
 ---
-title: "Resources"
+layout: null
 permalink: /resources/
-description: "Selected research, writing, citation, and document tools."
+sitemap: false
 ---
-
-<div class="resource-grid">
-  <section class="resource-card">
-    <h2>Talks and conferences</h2>
-    <ul>
-      <li><a href="https://researchseminars.org/">ResearchSeminars.org</a></li>
-      <li><a href="https://www.ams.org/meetings/calendar/mathcal">AMS mathematics calendar</a></li>
-      <li><a href="https://euromathsoc.org/events">European Mathematical Society events</a></li>
-    </ul>
-  </section>
-
-  <section class="resource-card">
-    <h2>References and writing</h2>
-    <ul>
-      <li><a href="https://flamingtempura.github.io/bibtex-tidy/">BibTeX Tidy</a></li>
-      <li><a href="https://www.genealogy.math.ndsu.nodak.edu/">Mathematics Genealogy Project</a></li>
-      <li><a href="https://www.writespace.app/">Writespace</a></li>
-    </ul>
-  </section>
-
-  <section class="resource-card">
-    <h2>Document tools</h2>
-    <ul>
-      <li><a href="https://snip.mathpix.com/home">Mathpix Snip</a></li>
-      <li><a href="https://tools.pdf24.org/en/compress-pdf">PDF24 Compress PDF</a></li>
-    </ul>
-  </section>
-</div>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="refresh" content="0; url={{ '/#about' | relative_url }}">
+  <link rel="canonical" href="{{ site.url }}{{ '/#about' | relative_url }}">
+  <title>Page moved · Marvin Fritz</title>
+  <script>window.location.replace("{{ '/#about' | relative_url }}");</script>
+</head>
+<body>
+  <p>This page has moved to <a href="{{ '/#about' | relative_url }}">the homepage</a>.</p>
+</body>
+</html>

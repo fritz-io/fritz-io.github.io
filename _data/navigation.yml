@@ -1,15 +1,2 @@
-main:
-  - title: "Home"
-    url: /
-  - title: "Research"
-    url: /research/
-  - title: "Publications"
-    url: /publications/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Talks & Events"
-    url: /events/
-  - title: "CV"
-    url: /cv/
-  - title: "Resources"
-    url: /resources/
+# Intentionally empty: this is a focused one-page website.
+main: []
