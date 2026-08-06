@@ -1,0 +1,14 @@
+<nav class="skip-links" aria-label="Skip links">
+  <ul>
+    <li>
+      <a href="#main" class="screen-reader-shortcut">
+        {{ site.data.ui-text[site.locale].skip_content | default: "Skip to content" }}
+      </a>
+    </li>
+    <li>
+      <a href="#footer" class="screen-reader-shortcut">
+        {{ site.data.ui-text[site.locale].skip_footer | default: "Skip to footer" }}
+      </a>
+    </li>
+  </ul>
+</nav>
