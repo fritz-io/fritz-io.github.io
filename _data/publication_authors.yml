@@ -1,0 +1,145 @@
+# Complete author lists in the order used by each publication.
+# Keep the key equal to the publication `number` in publications.yml.
+# For future publications, add the complete author list here.
+
+"38":
+  - "M. Fritz"
+"37":
+  - "M. Fritz"
+"36":
+  - "M. Fritz"
+"35":
+  - "M. Fritz"
+"34":
+  - "M. Fritz"
+"33":
+  - "M. Fritz"
+"32":
+  - "M. Fritz"
+"31":
+  - "M. Fritz"
+"30":
+  - "A. Brunk"
+  - "M. Fritz"
+"29":
+  - "A. Di Primio"
+  - "M. Fritz"
+  - "L. Scarpa"
+  - "M. Zanella"
+"28":
+  - "C. Cyron"
+  - "M. Fritz"
+  - "A. Hermann"
+  - "T. Köppl"
+  - "A. Shojaei"
+  - "S. Silling"
+"27":
+  - "M. Fritz"
+"26":
+  - "A. Brunk"
+  - "M. ten Eikelder"
+  - "M. Fritz"
+  - "D. Höhn"
+  - "D. Trautwein"
+"25":
+  - "M. Fritz"
+"24":
+  - "M. Fritz"
+"23":
+  - "M. Fritz"
+  - "N. Kavallaris"
+"22":
+  - "M. Fritz"
+  - "E. Süli"
+  - "B. Wohlmuth"
+"21":
+  - "A. Brunk"
+  - "M. Fritz"
+"20":
+  - "H. Egger"
+  - "M. Fritz"
+  - "K. Kunisch"
+  - "S. Rodrigues"
+"19":
+  - "A. Brunk"
+  - "M. Fritz"
+"18":
+  - "B. Azmi"
+  - "M. Fritz"
+  - "S. Rodrigues"
+"17":
+  - "H. Egger"
+  - "M. Fritz"
+"16":
+  - "M. Fritz"
+  - "L. Scarpa"
+"15":
+  - "A. Brunk"
+  - "M. Fritz"
+"14":
+  - "M. Fritz"
+"13":
+  - "M. Fritz"
+"12":
+  - "M. Fritz"
+  - "E. Süli"
+  - "B. Wohlmuth"
+"11":
+  - "A. Wagner"
+  - "P. Schlicke"
+  - "M. Fritz"
+  - "C. Kuttler"
+  - "J. T. Oden"
+  - "C. Schumann"
+  - "B. Wohlmuth"
+"10":
+  - "M. Fritz"
+"9":
+  - "M. Fritz"
+  - "U. Khristenko"
+  - "B. Wohlmuth"
+"8":
+  - "M. Fritz"
+  - "T. Köppl"
+  - "J. T. Oden"
+  - "A. Wagner"
+  - "B. Wohlmuth"
+  - "C. Wu"
+"7":
+  - "M. Fritz"
+  - "M. L. Rajendran"
+  - "B. Wohlmuth"
+"6":
+  - "M. Fritz"
+  - "C. Kuttler"
+  - "M. L. Rajendran"
+  - "B. Wohlmuth"
+  - "L. Scarabosio"
+"5":
+  - "M. Fritz"
+  - "P. K. Jha"
+  - "T. Köppl"
+  - "J. T. Oden"
+  - "A. Wagner"
+  - "B. Wohlmuth"
+"4":
+  - "M. Fritz"
+  - "P. K. Jha"
+  - "T. Köppl"
+  - "J. T. Oden"
+  - "B. Wohlmuth"
+"3":
+  - "M. Fritz"
+  - "E. A. B. F. Lima"
+  - "V. Nikolić"
+  - "J. T. Oden"
+  - "B. Wohlmuth"
+"2":
+  - "M. Fritz"
+  - "E. A. B. F. Lima"
+  - "J. T. Oden"
+  - "B. Wohlmuth"
+"1":
+  - "M. Fritz"
+  - "V. Nikolić"
+  - "B. Wohlmuth"
