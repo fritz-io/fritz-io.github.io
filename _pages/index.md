@@ -164,11 +164,11 @@ classes: wide
       </figure>
 
       <figure class="research-figure">
-        <a href="#pub11">
+        <a href="#pub10">
           <span class="research-figure__canvas">
             <img
-              src="{{ '/assets/images/lung2.png' | relative_url }}"
-              alt="Non-small lung cancer growth"
+              src="{{ '/assets/images/modeling2.png' | relative_url }}"
+              alt="Angiogenesis"
               loading="lazy"
               decoding="async">
           </span>
