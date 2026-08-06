@@ -107,7 +107,7 @@ classes: wide
               loading="lazy"
               decoding="async">
           </span>
-          <figcaption>Jump-diffusion noise in the stochastic Allen-Cahn equation</figcaption>
+          <figcaption>Stochastic Allen–Cahn equation</figcaption>
         </a>
       </figure>
     </div>
@@ -139,15 +139,15 @@ classes: wide
       </figure>
 
       <figure class="research-figure">
-        <a href="#pub1">
+        <a href="#pub17">
           <span class="research-figure__canvas">
             <img
-              src="{{ '/assets/images/blackstock.png' | relative_url }}"
-              alt="Wave governed by the Blackstock equation in nonlinear acoustics"
+              src="{{ '/assets/images/blackstock3.png' | relative_url }}"
+              alt="Nonlinear acoustics in ultrasound"
               loading="lazy"
               decoding="async">
           </span>
-          <figcaption>Blackstock equation in nonlinear acoustics</figcaption>
+          <figcaption>Nonlinear acoustics in ultrasound</figcaption>
         </a>
       </figure>
     </div>
