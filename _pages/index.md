@@ -152,28 +152,26 @@ classes: wide
 
     <div class="research-gallery" aria-label="Simulations for mathematical life-science models">
       <figure class="research-figure">
-        <a href="#pub31">
+        <a href="#pub8">
           <span class="research-figure__canvas">
             <img
-              src="{{ '/assets/images/finger.png' | relative_url }}"
-              alt="Fingering-pattern simulation for traction-driven digit morphogenesis"
+              src="{{ '/assets/images/1d0d3d.png' | relative_url }}"
+              alt="Mixed-dimensional blood flow model for tumor growth"
               loading="lazy"
               decoding="async">
           </span>
-          <figcaption>Traction-driven digit morphogenesis</figcaption>
         </a>
       </figure>
 
       <figure class="research-figure">
-        <a href="#pub5">
+        <a href="#pub11">
           <span class="research-figure__canvas">
             <img
-              src="{{ '/assets/images/modeling3.png' | relative_url }}"
-              alt="Simulation of a vascular tumor embedded in an evolving capillary network"
+              src="{{ '/assets/images/lung2.png' | relative_url }}"
+              alt="Non-small lung cancer growth"
               loading="lazy"
               decoding="async">
           </span>
-          <figcaption>Vascular tumors and capillary networks</figcaption>
         </a>
       </figure>
     </div>
