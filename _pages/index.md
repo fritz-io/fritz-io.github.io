@@ -142,7 +142,7 @@ classes: wide
         <a href="#pub17">
           <span class="research-figure__canvas">
             <img
-              src="{{ '/assets/images/blackstock3.png' | relative_url }}"
+              src="{{ '/assets/images/blackstock4.png' | relative_url }}"
               alt="Nonlinear acoustics in ultrasound"
               loading="lazy"
               decoding="async">
