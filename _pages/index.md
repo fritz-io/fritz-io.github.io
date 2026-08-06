@@ -14,14 +14,6 @@ classes: wide
   <p class="eyebrow">Partial differential equations · Numerical analysis · Mathematical modeling</p>
   <h1 id="about-heading" class="visually-hidden">Marvin Fritz</h1>
 
-  <p>
-    My research concerns the analysis and numerical approximation of nonlinear,
-    fractional, nonlocal, and stochastic partial differential equations. A central
-    theme is the development of reliable computational methods that preserve the
-    mathematical structure of models arising in materials science, control,
-    mechanics, nonlinear acoustics, and mathematical biology.
-  </p>
-
   <nav class="section-nav" aria-label="On this page">
     <a href="#research">Research</a>
     <span aria-hidden="true">·</span>
@@ -46,15 +38,14 @@ classes: wide
 
     <div class="research-gallery" aria-label="Simulations for structure-preserving discretization">
       <figure class="research-figure">
-        <a href="#pub30">
+        <a href="#pub15">
           <span class="research-figure__canvas">
             <img
-              src="{{ '/assets/images/highorder.png' | relative_url }}"
-              alt="Numerical simulation for a high-order conforming finite-element method for the Cahn–Hilliard equation"
+              src="{{ '/assets/images/chb.png' | relative_url }}"
+              alt="Numerical simulation for the Cahn-Hilliard-Biot system in tumor growth"
               loading="lazy"
               decoding="async">
           </span>
-          <figcaption>High-order Cahn–Hilliard discretization</figcaption>
         </a>
       </figure>
 
@@ -67,8 +58,7 @@ classes: wide
               loading="lazy"
               decoding="async">
           </span>
-          <figcaption>Ohta–Kawasaki pattern formation</figcaption>
-        </a>
+          </a>
       </figure>
     </div>
   </article>
@@ -94,8 +84,7 @@ classes: wide
               loading="lazy"
               decoding="async">
           </span>
-          <figcaption>Subdiffusive grain growth</figcaption>
-        </a>
+          </a>
       </figure>
 
       <figure class="research-figure">
@@ -107,7 +96,6 @@ classes: wide
               loading="lazy"
               decoding="async">
           </span>
-          <figcaption>Stochastic Allen–Cahn equation</figcaption>
         </a>
       </figure>
     </div>
@@ -134,7 +122,6 @@ classes: wide
               loading="lazy"
               decoding="async">
           </span>
-          <figcaption>Cahn–Hilliard feedback stabilization</figcaption>
         </a>
       </figure>
 
@@ -147,7 +134,6 @@ classes: wide
               loading="lazy"
               decoding="async">
           </span>
-          <figcaption>Nonlinear acoustics in ultrasound</figcaption>
         </a>
       </figure>
     </div>
@@ -169,7 +155,7 @@ classes: wide
         <a href="#pub31">
           <span class="research-figure__canvas">
             <img
-              src="{{ '/assets/images/fingering.png' | relative_url }}"
+              src="{{ '/assets/images/finger.png' | relative_url }}"
               alt="Fingering-pattern simulation for traction-driven digit morphogenesis"
               loading="lazy"
               decoding="async">
