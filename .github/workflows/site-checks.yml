@@ -79,5 +79,6 @@ jobs:
         with:
           args: >-
             --config .lychee.toml
+            --root-dir "${{ github.workspace }}/_site"
             './_site/**/*.html'
           fail: true
