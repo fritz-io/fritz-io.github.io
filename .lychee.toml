@@ -1,13 +1,24 @@
 max_retries = 3
 timeout = 20
-accept = [200, 204, 206, 301, 302, 307, 308, 403, 429]
+
+accept = [
+  "200",
+  "204",
+  "206",
+  "301",
+  "302",
+  "307",
+  "308",
+  "403",
+  "429"
+]
+
 include_mail = false
 exclude_loopback = true
-include_fragments = true
+include_fragments = "full"
 
 exclude = [
-  '^https://scholar\\.google\\.com/',
-  '^https://www\\.researchgate\\.net/',
-  '^https://www\\.google\\.com/maps/',
-  '^mailto:'
+  '^https://scholar\.google\.com/',
+  '^https://www\.researchgate\.net/',
+  '^https://www\.google\.com/maps/'
 ]
