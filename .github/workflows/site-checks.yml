@@ -58,16 +58,26 @@ jobs:
 
   external-links:
     runs-on: ubuntu-latest
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2"
+          bundler-cache: true
+
+      - name: Build Jekyll site
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build --trace
 
       - name: Check external links
         uses: lycheeverse/lychee-action@v2
         with:
           args: >-
             --config .lychee.toml
-            './**/*.md'
-            './**/*.html'
-            './_data/**/*.yml'
+            './_site/**/*.html'
           fail: true
