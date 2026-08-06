@@ -1,5 +1,7 @@
 {% assign publication = include.publication %}
 {% assign arxiv_id = publication.arxiv | split: "/" | last %}
+{% assign publication_number = publication.number | append: "" %}
+{% assign ordered_authors = site.data.publication_authors[publication_number] | default: publication.authors %}
 <article class="publication-entry" id="pub{{ publication.number }}" role="listitem">
   <div class="publication-entry__title">
     <span class="publication-entry__number" aria-label="Publication {{ publication.number }}">[{{ publication.number }}]</span>
@@ -7,7 +9,9 @@
   </div>
 
   <div class="publication-entry__authors">
-    M. Fritz{% if publication.authors and publication.authors != empty %}, {{ publication.authors | join: ", " }}{% endif %}
+    {% for author in ordered_authors %}
+      {{ author }}{% unless forloop.last %}, {% endunless %}
+    {% endfor %}
   </div>
 
   <div class="publication-entry__source">
