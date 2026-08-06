@@ -157,7 +157,7 @@ figure {
   aspect-ratio: 1 / 1;
 
   overflow: hidden;
-  padding: 0.45rem;
+  padding: 0;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   background: mix($background-color, $border-color, 94%);
@@ -170,9 +170,8 @@ figure {
   max-width: none !important;
   max-height: none !important;
 
-  object-fit: contain;
-  object-position: center center;
-  transition: transform 160ms ease;
+  object-fit: cover;
+  object-position: center;
 }
 
 .research-figure figcaption {
