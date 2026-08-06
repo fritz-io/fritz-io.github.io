@@ -2,11 +2,10 @@ max_retries = 3
 timeout = 20
 
 accept = [
-  "200",
-  "204",
-  "206",
+  "200..=299",
   "301",
   "302",
+  "303",
   "307",
   "308",
   "403",
@@ -15,7 +14,6 @@ accept = [
 
 include_mail = false
 exclude_loopback = true
-include_fragments = "full"
 
 exclude = [
   '^https://scholar\.google\.com/',
