@@ -133,6 +133,7 @@
   status: To appear
   venue: Numerical Methods for Partial Differential Equations
   image: /assets/images/rothe1.png
+  doi: https://doi.org/10.1002/num.70136
   image_alt: Wave illustration associated with a cutoff Westervelt system.
   journal: https://onlinelibrary.wiley.com/journal/10982426
   journal_label: Journal
