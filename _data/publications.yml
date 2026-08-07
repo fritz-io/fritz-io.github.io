@@ -130,7 +130,8 @@
 - number: 27
   category: article
   title: Rothe time discretization and weak solutions for a cutoff Westervelt system
-  status: To appear
+  status: Published
+  year: 2026
   venue: Numerical Methods for Partial Differential Equations
   image: /assets/images/rothe1.png
   doi: https://doi.org/10.1002/num.70136
@@ -164,8 +165,10 @@
   category: article
   title: 'A four-field auxiliary reformulation of a Cahn–Hilliard time step: Analysis and conforming finite element
     discretization'
-  status: To appear
+  status: Published
   venue: 'Numerical Mathematics: Theory, Methods and Applications'
+  year: 2026
+  doi: https://doi.org/10.4208/nmtma.oa-2026-0084
   image: /assets/images/zulehner.png
   image_alt: Finite-element illustration associated with a four-field Cahn–Hilliard reformulation.
   arxiv: https://arxiv.org/abs/2607.10724
