@@ -2,7 +2,7 @@
 # Images have descriptive alternative text; use image_alt: "" only for purely decorative images.
 - number: 39
   category: preprint
-  title: Entropy-consistent edge finite elements for degenerate Cahn–Hilliard flows: Stability and convergence
+  title: "Entropy-consistent edge finite elements for degenerate Cahn–Hilliard flows: Stability and convergence"
   status: Submitted
   image: /assets/images/deg.png
   image_alt: Phase-field illustration associated with the degenerate Cahn–Hilliard analysis.
