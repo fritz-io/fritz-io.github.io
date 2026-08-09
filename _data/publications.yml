@@ -1,6 +1,14 @@
 # Publications are displayed in this order. Keep `number` unique.
 # Images have descriptive alternative text; use image_alt: "" only for purely decorative images.
-
+- number: 39
+  category: preprint
+  title: Entropy-consistent edge finite elements for degenerate Cahn–Hilliard flows: Stability and convergence
+  status: Submitted
+  image: /assets/images/deg.png
+  image_alt: Phase-field illustration associated with the degenerate Cahn–Hilliard analysis.
+  topics:
+  - structure-preserving numerics
+  - Cahn–Hilliard
 - number: 38
   category: preprint
   title: Numerical analysis of an implicit-mobility mass-lumped finite element scheme for the degenerate Cahn–Hilliard
