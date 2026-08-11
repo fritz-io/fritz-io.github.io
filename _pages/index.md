@@ -182,6 +182,18 @@ classes: wide
   <h2 id="meet-heading">Upcoming talks</h2>
 
   <div class="upcoming-events">
+        <article class="upcoming-event">
+      <time datetime="2027-11-05">5-7 November 2026</time>
+      <div>
+        <h3>
+          <a href="https://isaacmath.org/">
+            International Society for Analysis its Applications and Computation (ISAAC) Workshop on Fractional Calculus
+          </a>
+        </h3>
+        <p>Online</p>
+      </div>
+    </article>
+    
     <article class="upcoming-event">
       <time datetime="2027-03-08">8–12 March 2027</time>
       <div>
