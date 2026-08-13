@@ -21,7 +21,7 @@
   - Cahn–Hilliard
 - number: 37
   category: preprint
-  title: Sharp CFL stability and error analysis for fully explicit Cahn–Hilliard time stepping
+  title: Sharp CFL stability and adaptivity for explicit Cahn–Hilliard time stepping 
   status: Submitted
   image: /assets/images/sharp.png
   image_alt: Numerical pattern associated with explicit Cahn–Hilliard time stepping.
