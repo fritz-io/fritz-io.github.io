@@ -1,5 +1,17 @@
 # Publications are displayed in this order. Keep `number` unique.
 # Images have descriptive alternative text; use image_alt: "" only for purely decorative images.
+- number: 42
+  category: preprint
+  title: "A space-time variational approach to fractional diffusion problems"
+  status: Submitted
+- number: 41
+  category: preprint
+  title: "Generalised dissipative solutions for a non-isothermal phase-field system: existence, weak--strong uniqueness, and long-time behaviour"
+  status: Submitted
+- number: 40
+  category: preprint
+  title: "Sparse fidelity feedback and spectral Ddsign for Cahn–Hilliard image inpainting"
+  status: Submitted
 - number: 39
   category: preprint
   title: "Entropy-consistent edge finite elements for degenerate Cahn–Hilliard flows: Stability and convergence"
