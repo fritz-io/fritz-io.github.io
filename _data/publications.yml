@@ -2,7 +2,7 @@
 # Images have descriptive alternative text; use image_alt: "" only for purely decorative images.
 - number: 42
   category: preprint
-  title: "A space-time variational approach to fractional diffusion problems"
+  title: "A coercive space-time variational approach to fractional diffusion problems"
   status: Submitted
 - number: 41
   category: preprint
