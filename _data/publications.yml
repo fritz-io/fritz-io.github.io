@@ -4,10 +4,12 @@
   category: preprint
   title: "A coercive space-time variational approach to fractional diffusion problems"
   status: Submitted
+  arxiv: https://arxiv.org/abs/2609.00091
 - number: 41
   category: preprint
   title: "Generalised dissipative solutions for a non-isothermal phase-field system: existence, weak-strong uniqueness, and long-time behaviour"
   status: Submitted
+  arxiv: https://arxiv.org/abs/2608.26297
 - number: 40
   category: preprint
   title: "Sparse fidelity feedback and spectral design for Cahn–Hilliard image inpainting"
