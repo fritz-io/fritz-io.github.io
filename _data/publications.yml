@@ -57,6 +57,7 @@
   status: Submitted
   image: /assets/images/voronoi.png
   image_alt: Voronoi-style grain structure associated with subdiffusive grain growth.
+  arxiv: https://arxiv.org/abs/2609.07938
   topics:
   - fractional equations
   - materials
