@@ -133,7 +133,7 @@
   - life sciences
   - Allen–Cahn
 - number: 28
-  category: preprint
+  category: article
   title: 'Unifying local and nonlocal corrosion frameworks: A convergent nonlocal extension of the KKS phase-field
     model'
   authors:
@@ -142,7 +142,10 @@
   - T. Köppl
   - A. Shojaei
   - S. Silling
-  status: Submitted
+  status: To appear
+  venue: Mathematical Models and Methods in Applied Sciences
+  journal: https://www.worldscientific.com/worldscinet/m3as
+  journal_label: Journal
   image: /assets/images/peri2.png
   image_alt: Corrosion illustration associated with a nonlocal phase-field model.
   arxiv: https://arxiv.org/abs/2509.23503
