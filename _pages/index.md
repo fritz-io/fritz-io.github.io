@@ -193,13 +193,25 @@ classes: wide
         <p>Online</p>
       </div>
     </article>
+
+        <article class="upcoming-event">
+      <time datetime="2026-05-11">5–6 November 2026</time>
+      <div>
+        <h3>
+          <a href="https://www.plus.ac.at/mathematik/news-events-social-media/veranstaltungen/workshops/gamm-workshop-on-numerical-analysis/">
+            (Maybe) GAMM Workshop on Numerical Analysis 2026
+          </a>
+        </h3>
+        <p>Salzburg, Austria</p>
+      </div>
+    </article>
     
     <article class="upcoming-event">
       <time datetime="2027-03-08">8–12 March 2027</time>
       <div>
         <h3>
           <a href="https://jahrestagung.gamm.org/joint-annual-meeting-2027/joint-annual-meeting/">
-            Joint Annual Meeting of GAMM and DMV
+            (Maybe) Joint Annual Meeting of GAMM and DMV
           </a>
         </h3>
         <p>Ulm, Germany</p>
@@ -211,7 +223,7 @@ classes: wide
       <div>
         <h3>
           <a href="https://icosahom2027.org/">
-            16th International Conference on Spectral and High Order Methods
+            (Maybe) 16th International Conference on Spectral and High Order Methods
           </a>
         </h3>
         <p>Milan, Italy</p>
