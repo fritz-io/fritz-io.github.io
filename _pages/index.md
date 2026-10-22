@@ -186,7 +186,7 @@ classes: wide
       <time datetime="2027-11-05">5-7 November 2026</time>
       <div>
         <h3>
-          <a href="https://isaacmath.org/">
+          <a href="https://sites.google.com/view/fcaa-workshop-2026/">
             International Society for Analysis its Applications and Computation (ISAAC) Workshop on Fractional Calculus
           </a>
         </h3>
