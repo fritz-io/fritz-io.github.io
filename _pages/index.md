@@ -186,23 +186,11 @@ classes: wide
       <time datetime="2027-11-05">5-7 November 2026</time>
       <div>
         <h3>
-          <a href="https://isaacmath.org/">
+          <a href="https://sites.google.com/view/fcaa-workshop-2026/">
             International Society for Analysis its Applications and Computation (ISAAC) Workshop on Fractional Calculus
           </a>
         </h3>
         <p>Online</p>
-      </div>
-    </article>
-
-        <article class="upcoming-event">
-      <time datetime="2026-05-11">5–6 November 2026</time>
-      <div>
-        <h3>
-          <a href="https://www.plus.ac.at/mathematik/news-events-social-media/veranstaltungen/workshops/gamm-workshop-on-numerical-analysis/">
-            (Maybe) GAMM Workshop on Numerical Analysis 2026
-          </a>
-        </h3>
-        <p>Salzburg, Austria</p>
       </div>
     </article>
     
