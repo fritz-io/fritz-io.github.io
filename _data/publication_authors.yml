@@ -2,6 +2,9 @@
 # Keep the key equal to the publication `number` in publications.yml.
 # For future publications, add the complete author list here.
 
+"43":
+  - "A. Brunk"
+  - "M. Fritz"
 "42":
   - "H. Egger"
   - "M. Fritz"
