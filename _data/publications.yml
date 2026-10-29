@@ -1,5 +1,9 @@
 # Publications are displayed in this order. Keep `number` unique.
 # Images have descriptive alternative text; use image_alt: "" only for purely decorative images.
+- number: 43
+  category: preprint
+  title: "A monotone approach to global weak solutions of the purely elastic Cahn–Hilliard–Biot system"
+  status: Submitted
 - number: 42
   category: preprint
   title: "A coercive space-time variational approach to fractional diffusion problems"
