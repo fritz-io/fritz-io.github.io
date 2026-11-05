@@ -45,7 +45,7 @@ author:
   links:
     - label: "University profile"
       icon: "fas fa-fw fa-building-columns"
-      url: "https://mathematik.univie.ac.at/en/about-us/staff/?api_lang=en&api_pkey=1021846&api_task=member_details"
+      url: "https://ucrisportal.univie.ac.at/en/persons/marvin-fritz/"
 
 footer:
   since: "2023"
