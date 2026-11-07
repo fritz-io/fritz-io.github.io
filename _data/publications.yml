@@ -4,6 +4,7 @@
   category: preprint
   title: "A monotone approach to global weak solutions of the purely elastic Cahn–Hilliard–Biot system"
   status: Submitted
+  arxiv: https://doi.org/10.13140/RG.2.2.25976.00007
 - number: 42
   category: preprint
   title: "A coercive space-time variational approach to fractional diffusion problems"
@@ -146,8 +147,10 @@
   - T. Köppl
   - A. Shojaei
   - S. Silling
-  status: To appear
+  status: Published
+  year: 2026
   venue: Mathematical Models and Methods in Applied Sciences
+  doi: https://doi.org/10.1142/S0218202526500594
   journal: https://www.worldscientific.com/worldscinet/m3as
   journal_label: Journal
   image: /assets/images/peri2.png
