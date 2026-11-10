@@ -181,25 +181,13 @@ classes: wide
 <section id="meet" class="one-page-section" aria-labelledby="meet-heading">
   <h2 id="meet-heading">Upcoming talks</h2>
 
-  <div class="upcoming-events">
-        <article class="upcoming-event">
-      <time datetime="2027-11-05">5-7 November 2026</time>
-      <div>
-        <h3>
-          <a href="https://sites.google.com/view/fcaa-workshop-2026/">
-            International Society for Analysis its Applications and Computation (ISAAC) Workshop on Fractional Calculus
-          </a>
-        </h3>
-        <p>Online</p>
-      </div>
-    </article>
-    
+  <div class="upcoming-events">    
     <article class="upcoming-event">
       <time datetime="2027-03-08">8–12 March 2027</time>
       <div>
         <h3>
           <a href="https://jahrestagung.gamm.org/joint-annual-meeting-2027/joint-annual-meeting/">
-            (Maybe) Joint Annual Meeting of GAMM and DMV
+             Joint Annual Meeting of GAMM and DMV
           </a>
         </h3>
         <p>Ulm, Germany</p>
