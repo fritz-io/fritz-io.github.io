@@ -76,6 +76,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - test
   - node_modules
   - vendor
 

@@ -241,20 +241,11 @@ figure {
 }
 
 .publication-entry__title {
-  display: grid;
-  grid-template-columns: 2.3rem minmax(0, 1fr);
-  gap: 0;
   font-weight: 700;
-}
-
-.publication-entry__number {
-  color: $muted-text-color;
-  font-variant-numeric: tabular-nums;
 }
 
 .publication-entry__authors,
 .publication-entry__source {
-  padding-left: 2.3rem;
   font-size: 0.74rem;
   line-height: 1.18;
 }

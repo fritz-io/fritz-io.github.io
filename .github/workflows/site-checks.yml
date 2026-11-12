@@ -29,6 +29,10 @@ jobs:
           JEKYLL_ENV: production
         run: bundle exec jekyll build --trace
 
+      - name: Check publication data and rendering
+        # Exercise the publication templates as well as the rendered page.
+        run: bundle exec ruby test/publications_test.rb
+
       - name: Validate generated HTML and internal links
         run: >
           bundle exec htmlproofer ./_site
