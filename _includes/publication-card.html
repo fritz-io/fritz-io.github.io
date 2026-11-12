@@ -4,6 +4,7 @@
 {% assign preprint_url = publication.arxiv | default: publication.preprint %}
 <article class="publication-entry" id="pub-{{ publication_id }}" role="listitem">
   <div class="publication-entry__title">
+    <span class="publication-entry__number" aria-label="Publication {{ include.number }}">[{{ include.number }}]</span>
     <strong>{{ publication.title | escape }}</strong>
   </div>
 

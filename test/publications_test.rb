@@ -41,13 +41,26 @@ class PublicationsTest < Minitest::Test
       expected = papers.sort_by { |paper| [-paper["year"], author_key(paper), paper["title"].downcase] }
       entries = @page.css("##{section} .publication-entry")
       assert_equal expected.map { |paper| paper["title"] },
-                   entries.map { |entry| text(entry.at_css(".publication-entry__title")) }
+                   entries.map { |entry| text(entry.at_css(".publication-entry__title strong")) }
       expected.zip(entries).each do |paper, entry|
         authors = paper["authors"].map { |author| author.split(", ").reverse.join(" ") }.join(", ")
         assert_equal authors, text(entry.at_css(".publication-entry__authors"))
       end
     end
-    assert_empty @page.css(".publication-entry__number")
+  end
+
+  def numbers(page, selector = ".publication-entry__number")
+    page.css(selector).map { |node| text(node).delete("[]").to_i }
+  end
+
+  def test_numbers_are_continuous_across_categories
+    article_count = @papers.count { |paper| paper["category"] == "article" }
+    total = @papers.size
+    assert_equal article_count.downto(1).to_a,
+                 numbers(@page, "#refereed-articles .publication-entry__number")
+    assert_equal total.downto(article_count + 1).to_a,
+                 numbers(@page, "#publications .publication-entry__number")
+    assert_equal (1..total).to_a, numbers(@page).sort
   end
 
   def test_accepted_paper_has_year_and_status_in_articles
@@ -99,8 +112,38 @@ class PublicationsTest < Minitest::Test
       site.data["publications"] = input
       template = Liquid::Template.parse('{% include publication-list.html category="article" %}')
       html = template.render!(site.site_payload, registers: {site: site})
-      titles = Nokogiri::HTML.fragment(html).css(".publication-entry__title").map { |node| text(node) }
+      fragment = Nokogiri::HTML.fragment(html)
+      titles = fragment.css(".publication-entry__title strong").map { |node| text(node) }
       assert_equal expected, titles
+      assert_equal expected.length.downto(1).to_a, numbers(fragment)
     end
+  end
+
+  def test_numbering_updates_when_a_preprint_is_accepted_or_added
+    site = Jekyll::Site.new(Jekyll.configuration("source" => ROOT, "plugins" => [], "quiet" => true))
+    records = [
+      {"title" => "Older article", "year" => 2023, "category" => "article"},
+      {"title" => "Newer article", "year" => 2024, "category" => "article"},
+      {"title" => "First preprint", "year" => 2025, "category" => "preprint"},
+      {"title" => "Second preprint", "year" => 2026, "category" => "preprint"}
+    ].map { |paper| paper.merge("authors" => ["Fritz, M."]) }
+    check_numbers = lambda do |expected_preprints, expected_articles|
+      site.data["publications"] = records
+      # Render in page order; the preprints appear before the articles.
+      template = Liquid::Template.parse('<div id="preprints">{% include publication-list.html category="preprint" %}</div><div id="articles">{% include publication-list.html category="article" %}</div>')
+      fragment = Nokogiri::HTML.fragment(template.render!(site.site_payload, registers: {site: site}))
+      assert_equal expected_preprints, numbers(fragment, "#preprints .publication-entry__number")
+      assert_equal expected_articles, numbers(fragment, "#articles .publication-entry__number")
+    end
+
+    check_numbers.call([4, 3], [2, 1])
+    records[2]["category"] = "article"
+    check_numbers.call([4], [3, 2, 1])
+    records << {"title" => "New preprint", "year" => 2026, "category" => "preprint", "authors" => ["Brunk, A.", "Fritz, M."]}
+    check_numbers.call([5, 4], [3, 2, 1])
+    records.each { |paper| paper["category"] = "article" }
+    check_numbers.call([], [5, 4, 3, 2, 1])
+    records.each { |paper| paper["category"] = "preprint" }
+    check_numbers.call([5, 4, 3, 2, 1], [])
   end
 end
