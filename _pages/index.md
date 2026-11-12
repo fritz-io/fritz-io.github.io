@@ -38,7 +38,7 @@ classes: wide
 
     <div class="research-gallery" aria-label="Simulations for structure-preserving discretization">
       <figure class="research-figure">
-        <a href="#pub15">
+        <a href="#pub-cahn-hilliard-biot-approximation">
           <span class="research-figure__canvas">
             <img
               src="{{ '/assets/images/chb.png' | relative_url }}"
@@ -50,7 +50,7 @@ classes: wide
       </figure>
 
       <figure class="research-figure">
-        <a href="#pub21">
+        <a href="#pub-ohta-kawasaki">
           <span class="research-figure__canvas">
             <img
               src="{{ '/assets/images/ohta-removebg-preview.png' | relative_url }}"
@@ -76,7 +76,7 @@ classes: wide
 
     <div class="research-gallery" aria-label="Simulations for fractional and nonlocal equations">
       <figure class="research-figure">
-        <a href="#pub35">
+        <a href="#pub-subdiffusive-grain-growth">
           <span class="research-figure__canvas">
             <img
               src="{{ '/assets/images/voronoi.png' | relative_url }}"
@@ -88,7 +88,7 @@ classes: wide
       </figure>
 
       <figure class="research-figure">
-        <a href="#pub29">
+        <a href="#pub-allen-cahn-jump-diffusion">
           <span class="research-figure__canvas">
             <img
               src="{{ '/assets/images/jumpAC.png' | relative_url }}"
@@ -114,7 +114,7 @@ classes: wide
 
     <div class="research-gallery" aria-label="Simulations for control and coupled systems">
       <figure class="research-figure">
-        <a href="#pub20">
+        <a href="#pub-cahn-hilliard-feedback">
           <span class="research-figure__canvas">
             <img
               src="{{ '/assets/images/IMG_2338.webp' | relative_url }}"
@@ -126,7 +126,7 @@ classes: wide
       </figure>
 
       <figure class="research-figure">
-        <a href="#pub17">
+        <a href="#pub-nonlinear-acoustics">
           <span class="research-figure__canvas">
             <img
               src="{{ '/assets/images/blackstock4.png' | relative_url }}"
@@ -152,7 +152,7 @@ classes: wide
 
     <div class="research-gallery" aria-label="Simulations for mathematical life-science models">
       <figure class="research-figure">
-        <a href="#pub8">
+        <a href="#pub-blood-flow-breast-tissue">
           <span class="research-figure__canvas">
             <img
               src="{{ '/assets/images/1d0d3d.png' | relative_url }}"
@@ -164,7 +164,7 @@ classes: wide
       </figure>
 
       <figure class="research-figure">
-        <a href="#pub10">
+        <a href="#pub-tumor-evolution">
           <span class="research-figure__canvas">
             <img
               src="{{ '/assets/images/modeling2.png' | relative_url }}"
@@ -211,20 +211,14 @@ classes: wide
 <section id="publications" class="one-page-section" aria-labelledby="preprints-heading">
   <h2 id="preprints-heading">Preprints</h2>
   <div class="publication-list" role="list" aria-label="Preprints by Marvin Fritz">
-  {% assign preprints = site.data.publications | where: "category", "preprint" %}
-  {% for publication in preprints %}
-    {% include publication-card.html publication=publication %}
-  {% endfor %}
+  {% include publication-list.html category="preprint" %}
   </div>
 </section>
 
 <section id="refereed-articles" class="one-page-section publication-section--continuation" aria-labelledby="articles-heading">
   <h2 id="articles-heading">Refereed articles</h2>
   <div class="publication-list" role="list" aria-label="Refereed articles by Marvin Fritz">
-  {% assign articles = site.data.publications | where: "category", "article" %}
-  {% for publication in articles %}
-    {% include publication-card.html publication=publication %}
-  {% endfor %}
+  {% include publication-list.html category="article" %}
   </div>
 </section>
 

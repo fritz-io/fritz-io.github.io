@@ -1,0 +1,17 @@
+{% comment %}
+  Use only built-in Jekyll/Liquid filters so this works on GitHub Pages.
+  Group each sort level explicitly; chained sorts need not be stable.
+  Authors are stored surname-first, in publication order. Fold the accented
+  letters in our author names for bibliography-style alphabetical ordering.
+{% endcomment %}
+{% assign publications = site.data.publications | where: "category", include.category %}
+{% assign years = publications | group_by: "year" | sort: "name" | reverse %}
+{% for year in years %}
+  {% assign author_groups = year.items | group_by_exp: "paper", "paper.authors | join: ' / ' | downcase | replace: 'ä', 'a' | replace: 'ö', 'o' | replace: 'ü', 'u' | replace: 'ć', 'c'" | sort: "name" %}
+  {% for author_group in author_groups %}
+    {% assign papers = author_group.items | sort_natural: "title" %}
+    {% for publication in papers %}
+      {% include publication-card.html publication=publication %}
+    {% endfor %}
+  {% endfor %}
+{% endfor %}

@@ -1,37 +1,28 @@
 {% assign publication = include.publication %}
-{% assign arxiv_id = publication.arxiv | split: "/" | last %}
-{% assign publication_number = publication.number | append: "" %}
-{% assign ordered_authors = site.data.publication_authors[publication_number] | default: publication.authors %}
-<article class="publication-entry" id="pub{{ publication.number }}" role="listitem">
+{% assign publication_id = publication.id | default: publication.title | slugify %}
+{% assign source_url = publication.doi | default: publication.journal %}
+{% assign preprint_url = publication.arxiv | default: publication.preprint %}
+<article class="publication-entry" id="pub-{{ publication_id }}" role="listitem">
   <div class="publication-entry__title">
-    <span class="publication-entry__number" aria-label="Publication {{ publication.number }}">[{{ publication.number }}]</span>
-    <strong>{{ publication.title }}</strong>
+    <strong>{{ publication.title | escape }}</strong>
   </div>
 
   <div class="publication-entry__authors">
-    {% for author in ordered_authors %}
-      {{ author }}{% unless forloop.last %}, {% endunless %}
-    {% endfor %}
+    {%- for author in publication.authors -%}
+      {%- assign name = author | split: ", " -%}
+      {{ name.last | escape }} {{ name.first | escape }}{% unless forloop.last %}, {% endunless %}
+    {%- endfor -%}
   </div>
 
   <div class="publication-entry__source">
-    {% if publication.doi %}
-      <a href="{{ publication.doi }}">
-        {{ publication.venue | default: "Published article" }}{% if publication.year %} ({{ publication.year }}){% elsif publication.status and publication.status != "Published" %} ({{ publication.status }}){% endif %}
-      </a>
-    {% elsif publication.journal %}
-      <a href="{{ publication.journal }}">
-        {{ publication.venue | default: publication.journal_label | default: "Journal" }}{% if publication.year %} ({{ publication.year }}){% elsif publication.status and publication.status != "Published" %} ({{ publication.status }}){% endif %}
-      </a>
-    {% elsif publication.venue %}
-      {{ publication.venue }}{% if publication.year %} ({{ publication.year }}){% elsif publication.status and publication.status != "Published" %} ({{ publication.status }}){% endif %}
-    {% elsif publication.status %}
-      {{ publication.status }}
+    {% if source_url %}<a href="{{ source_url | escape }}">{% endif %}{% if publication.venue %}{{ publication.venue | escape }} {% endif %}({{ publication.year }}){% if source_url %}</a>{% endif %}
+    {% if publication.status and publication.status != "Published" %}
+      <span aria-hidden="true"> · </span>{{ publication.status | escape }}
     {% endif %}
 
-    {% unless publication.doi or publication.journal %}
-      {% if publication.arxiv %}
-        {% if publication.venue or publication.status %}<span aria-hidden="true"> · </span>{% endif %}<a href="{{ publication.arxiv }}">arXiv:{{ arxiv_id }}</a>
+    {% unless source_url %}
+      {% if preprint_url %}
+        <span aria-hidden="true"> · </span><a href="{{ preprint_url | escape }}">{% if publication.arxiv %}arXiv:{{ publication.arxiv | split: "/" | last | escape }}{% else %}Preprint{% endif %}</a>
       {% endif %}
     {% endunless %}
   </div>
