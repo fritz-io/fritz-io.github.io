@@ -76,8 +76,8 @@ with `bundle exec ruby test/publications_test.rb` after building the site.
 
 `assets/images/` contains the eight research figures, the profile photo, and the
 sharing-preview image used by the site. Research images are lazy-loaded; the
-publication lists are text-only. The CV PDF, active stylesheets, and Academicons
-fonts also live in `assets/`. Browser icons and their manifest live at the root.
+publication lists are text-only. Active stylesheets and Academicons fonts also
+live in `assets/`. Browser icons and their manifest live at the root.
 
 Keep old page redirects so existing links continue to work. Retired assets can
 be recovered from Git history instead of keeping unused copies in the site.
