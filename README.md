@@ -14,7 +14,8 @@ Then open `http://localhost:4000`.
 ## Updating publications
 
 Edit only `_data/publications.yml`. Both publication lists on the homepage are
-generated from this file; there is no separate author file or paper numbering.
+generated from this file; there is no separate author file to keep in sync.
+Paper numbers are generated on the webpage only, never stored in the data file.
 
 Each paper needs a `category` (`preprint` or `article`), `title`, `year`, `status`,
 and the complete `authors` list, including M. Fritz, in publication order. Store
@@ -37,6 +38,11 @@ Within each category, papers are sorted automatically by **year, newest first**,
 then alphabetically by the full author list (surname first), then by title.
 The order of records in the YAML file does not matter. Keep the authors within
 each record in their published order.
+
+Numbering is continuous across both lists: refereed articles occupy 1 through
+the article count, and preprints continue from the next number. With newest
+papers first, the displayed numbers count down in each list. Adding a paper or
+changing its category automatically updates the numbering without gaps.
 
 Use the publication year for articles and the preprint year for preprints. For
 an accepted paper awaiting publication, use its acceptance year until the final
