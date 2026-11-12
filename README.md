@@ -72,6 +72,16 @@ checks Ruby gems and GitHub Actions monthly.
 Publication data, ordering, accepted-paper status, and research links are checked
 with `bundle exec ruby test/publications_test.rb` after building the site.
 
-## Image optimization
+## Site assets
 
-Research images are lazy-loaded. The publication lists are text-only.
+`assets/images/` contains the eight research figures, the profile photo, and the
+sharing-preview image used by the site. Research images are lazy-loaded; the
+publication lists are text-only. The CV PDF, active stylesheets, and Academicons
+fonts also live in `assets/`. Browser icons and their manifest live at the root.
+
+Keep old page redirects so existing links continue to work. Retired assets can
+be recovered from Git history instead of keeping unused copies in the site.
+
+After building, `bundle exec ruby test/assets_test.rb` checks the generated
+HTML, CSS, sharing metadata, manifest, and browser configuration for missing
+local images, scripts, stylesheets, and fonts.

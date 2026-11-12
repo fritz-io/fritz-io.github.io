@@ -33,6 +33,9 @@ jobs:
         # Exercise the publication templates as well as the rendered page.
         run: bundle exec ruby test/publications_test.rb
 
+      - name: Check local images, fonts, and browser icons
+        run: bundle exec ruby test/assets_test.rb
+
       - name: Validate generated HTML and internal links
         run: >
           bundle exec htmlproofer ./_site
