@@ -57,10 +57,13 @@
   - fractional equations
   - analysis
 - number: 35
-  category: preprint
+  category: Submitted
   title: Threshold dynamics for subdiffusive grain growth
-  status: Submitted
+  status: To appear
   image: /assets/images/voronoi.png
+  journal: https://www.sciencedirect.com/journal/applied-mathematics-and-computation
+  venue: 'Applied Mathematics and Computation'
+  year: 2026
   image_alt: Voronoi-style grain structure associated with subdiffusive grain growth.
   arxiv: https://arxiv.org/abs/2609.07938
   topics:
