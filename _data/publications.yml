@@ -107,15 +107,6 @@
   status: Submitted
   arxiv: https://arxiv.org/abs/2606.12574
 
-- category: preprint
-  title: 'High-order conforming finite elements for the Cahn–Hilliard equation: Relative-energy stability and energy defects'
-  authors:
-  - Brunk, A.
-  - Fritz, M.
-  year: 2026
-  status: Submitted
-  arxiv: https://arxiv.org/abs/2606.06719
-
 - id: allen-cahn-jump-diffusion
   category: preprint
   title: An Allen–Cahn equation with jump-diffusion noise for biological damage and repair processes
@@ -127,6 +118,17 @@
   year: 2026
   status: Submitted
   arxiv: https://arxiv.org/abs/2602.17495
+
+- category: article
+  title: 'High-order conforming finite elements for the Cahn–Hilliard equation: Relative-energy stability and energy defects'
+  authors:
+  - Brunk, A.
+  - Fritz, M.
+  year: 2026
+  status: To appear
+  venue: BIT Numerical Mathematics
+  journal: https://link.springer.com/journal/10543
+  arxiv: https://arxiv.org/abs/2606.06719
 
 - category: article
   title: 'Unifying local and nonlocal corrosion frameworks: A convergent nonlocal extension of the KKS phase-field model'
