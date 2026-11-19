@@ -219,7 +219,7 @@ classes: wide
     </article>
 
     <article class="media-entry">
-      <h3><a href="https://www.univie.ac.at/aktuelles/neue-professuren/detail/fritz-marvin" hreflang="de">Read profile · German</a>Article on my research and tenure-track professorship at the University of Vienna.</a></h3>
+      <h3><a href="https://www.univie.ac.at/aktuelles/neue-professuren/detail/fritz-marvin" hreflang="de">Article on my research and tenure-track professorship at the University of Vienna.</a></h3>
     </article>
   </div>
 </section>
