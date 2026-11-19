@@ -216,6 +216,35 @@ figure {
   font-size: 0.78rem;
 }
 
+/* Recorded talks and profiles */
+.media-list {
+  max-width: 50rem;
+  margin-top: 1rem;
+  border-bottom: 1px solid $border-color;
+}
+
+.media-entry {
+  padding: 0.9rem 0;
+  border-top: 1px solid $border-color;
+  break-inside: avoid;
+}
+
+.media-entry h3 {
+  margin: 0 0 0.25rem;
+  font-size: 0.9rem;
+  line-height: 1.3;
+}
+
+.media-entry p {
+  margin: 0 0 0.25rem;
+  color: $muted-text-color;
+  font-size: 0.78rem;
+}
+
+.media-entry > a {
+  font-size: 0.78rem;
+}
+
 /* Compact three-line bibliography, following the visual rhythm of Martin Halla's list. */
 .publication-list {
   max-width: 58rem;
