@@ -215,15 +215,11 @@ classes: wide
 
   <div class="media-list">
     <article class="media-entry">
-      <h3>Online seminar recording</h3>
-      <p>A recorded online seminar talk by Marvin Fritz.</p>
-      <a href="https://www.youtube.com/watch?v=1iFBZDvf3Pc">Watch on YouTube</a>
+      <h3><a href="https://www.youtube.com/watch?v=1iFBZDvf3Pc">Online workshop recording: Space–Time Coercivity and Fast Solvers for Fractional Diffusion</a></h3>
     </article>
 
     <article class="media-entry">
-      <h3>Research and appointment at the University of Vienna</h3>
-      <p>A profile introducing my research and tenure-track professorship at the University of Vienna.</p>
-      <a href="https://www.univie.ac.at/aktuelles/neue-professuren/detail/fritz-marvin" hreflang="de">Read profile · German</a>
+      <h3><a href="https://www.univie.ac.at/aktuelles/neue-professuren/detail/fritz-marvin" hreflang="de">Read profile · German</a>Article on my research and tenure-track professorship at the University of Vienna.</a></h3>
     </article>
   </div>
 </section>
