@@ -38,27 +38,6 @@
   status: Submitted
 
 - category: preprint
-  title: 'Entropy-consistent edge finite elements for degenerate Cahn–Hilliard flows: Stability and convergence'
-  authors:
-  - Fritz, M.
-  year: 2026
-  status: Submitted
-
-- category: preprint
-  title: Numerical analysis of an implicit-mobility mass-lumped finite element scheme for the degenerate Cahn–Hilliard equation
-  authors:
-  - Fritz, M.
-  year: 2026
-  status: Submitted
-
-- category: preprint
-  title: Sharp CFL stability and adaptivity for explicit Cahn–Hilliard time stepping
-  authors:
-  - Fritz, M.
-  year: 2026
-  status: Submitted
-
-- category: preprint
   title: A Gronwall framework for order perturbations in multi-term fractional differential equations
   authors:
   - Fritz, M.
@@ -70,9 +49,10 @@
   title: Threshold dynamics for subdiffusive grain growth
   authors:
   - Fritz, M.
-  year: 2026
-  status: To appear
+  year: 2027
+  status: published
   venue: Applied Mathematics and Computation
+  doi: 10.1016/j.amc.2026.130421
   journal: https://www.sciencedirect.com/journal/applied-mathematics-and-computation
   arxiv: https://arxiv.org/abs/2609.07938
 
