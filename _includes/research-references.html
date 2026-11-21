@@ -1,0 +1,4 @@
+{%- assign research_ids = site.data.research_papers[include.topic] -%}
+{%- if research_ids and research_ids.size > 0 -%}
+<p class="research-references" data-research-topic="{{ include.topic | escape }}">Selected papers: [{% include publication-list.html ids=research_ids %}]</p>
+{%- endif -%}

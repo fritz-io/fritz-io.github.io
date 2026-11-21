@@ -36,6 +36,7 @@ classes: wide
         time-stepping methods that preserve these properties at the discrete level,
         particularly for Cahn–Hilliard-type equations and coupled multiphysics models.
       </p>
+      {% include research-references.html topic="structure-preserving" %}
     </div>
 
     <div class="research-gallery" aria-label="Simulations for structure-preserving discretization">
@@ -74,6 +75,7 @@ classes: wide
         energy behaviour, order perturbations, random forcing, and computable
         approximations for such models.
       </p>
+      {% include research-references.html topic="fractional-nonlocal-stochastic" %}
     </div>
 
     <div class="research-gallery" aria-label="Simulations for fractional and nonlocal equations">
@@ -112,6 +114,7 @@ classes: wide
         transport, and wave propagation. A recurring goal is to connect rigorous
         stability analysis with implementable algorithms.
       </p>
+      {% include research-references.html topic="control-coupled-acoustics" %}
     </div>
 
     <div class="research-gallery" aria-label="Simulations for control and coupled systems">
@@ -150,6 +153,7 @@ classes: wide
         Applications include tumor evolution, angiogenesis, immunotherapy, digit
         morphogenesis, and biological damage and repair.
       </p>
+      {% include research-references.html topic="life-sciences" %}
     </div>
 
     <div class="research-gallery" aria-label="Simulations for mathematical life-science models">
@@ -239,3 +243,4 @@ classes: wide
 </section>
 
 <p class="back-to-top"><a href="#about">Back to top ↑</a></p>
+

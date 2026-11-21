@@ -1,0 +1,28 @@
+# Selected papers for each research topic. Use permanent paper IDs, not display numbers.
+structure-preserving:
+- structure-preserving-discretization-and-fingering-dynamics-of-a-cahn-hilliard-model-for-traction-driven-digit-morphogenesis
+- high-order-conforming-finite-elements-for-the-cahn-hilliard-equation-relative-energy-stability-and-energy-defects
+- review-of-thermodynamic-structures-and-structure-preserving-discretisations-of-cahn-hilliard-type-models
+- ohta-kawasaki
+- analysis-and-structure-preserving-approximation-of-a-cahn-hilliard-forchheimer-system-with-solution-dependent-mass-and-volume-source
+- cahn-hilliard-biot-approximation
+fractional-nonlocal-stochastic:
+- a-coercive-space-time-variational-approach-to-fractional-diffusion-problems
+- allen-cahn-jump-diffusion
+- a-semiconvex-counterexample-to-energy-monotonicity-for-time-fractional-gradient-flows
+- on-the-well-posedness-of-a-nonlocal-kinetic-model-for-dilute-polymers-with-anomalous-diffusion
+- analysis-and-computations-of-a-stochastic-cahn-hilliard-model-for-tumor-growth-with-chemotaxis-and-variable-mobility
+- well-posedness-and-simulation-of-weak-solutions-to-the-time-fractional-fokker-planck-equation-with-general-forcing
+control-coupled-acoustics:
+- sparse-fidelity-feedback-and-spectral-design-for-cahn-hilliard-image-inpainting
+- rothe-time-discretization-and-weak-solutions-for-a-cutoff-westervelt-system
+- stabilization-to-trajectories-of-nonisothermal-cahn-hilliard-equations
+- nonlinear-acoustics
+- cahn-hilliard-feedback
+life-sciences:
+- allen-cahn-jump-diffusion
+- structure-preserving-discretization-and-fingering-dynamics-of-a-cahn-hilliard-model-for-traction-driven-digit-morphogenesis
+- a-time-fractional-fisher-kpp-equation-for-tumor-growth-analysis-and-numerical-simulation
+- tumor-evolution
+- a-phase-field-model-for-non-small-cell-lung-cancer-under-the-effects-of-immunotherapy
+- blood-flow-breast-tissue
