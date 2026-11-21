@@ -134,6 +134,24 @@ figure {
 }
 
 
+.research-area__text .research-references {
+  margin-top: 0.55rem;
+  font-size: 0.8rem;
+}
+
+.research-references a {
+  display: inline-block;
+  min-width: 1.5em;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+
+.publication-entry:target {
+  outline: 2px solid $link-color;
+  outline-offset: 0.3rem;
+  border-radius: $border-radius;
+}
+
 .research-gallery {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -374,3 +392,4 @@ figure {
     break-inside: avoid;
   }
 }
+

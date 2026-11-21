@@ -1,8 +1,9 @@
 # One record per paper, including every author in publication order.
 # Authors use "Family name, Initials"; the page displays initials first.
 # Lists are sorted automatically: year (newest first), authors, then title.
-# Add an optional descriptive id only when a stable internal link is needed.
-- category: preprint
+# Every paper has a permanent id for research references and internal links.
+- id: a-monotone-approach-to-global-weak-solutions-of-the-purely-elastic-cahn-hilliard-biot-system
+  category: preprint
   title: A monotone approach to global weak solutions of the purely elastic Cahn–Hilliard–Biot system
   authors:
   - Brunk, A.
@@ -11,7 +12,8 @@
   status: Submitted
   preprint: https://doi.org/10.13140/RG.2.2.25976.00007
 
-- category: preprint
+- id: a-coercive-space-time-variational-approach-to-fractional-diffusion-problems
+  category: preprint
   title: A coercive space-time variational approach to fractional diffusion problems
   authors:
   - Egger, H.
@@ -21,7 +23,8 @@
   status: Submitted
   arxiv: https://arxiv.org/abs/2609.00091
 
-- category: preprint
+- id: generalised-dissipative-solutions-for-a-non-isothermal-phase-field-system-existence-weak-strong-uniqueness-and-long-time-behaviour
+  category: preprint
   title: 'Generalised dissipative solutions for a non-isothermal phase-field system: existence, weak-strong uniqueness, and long-time behaviour'
   authors:
   - Brunk, A.
@@ -30,14 +33,16 @@
   status: Submitted
   arxiv: https://arxiv.org/abs/2608.26297
 
-- category: preprint
+- id: sparse-fidelity-feedback-and-spectral-design-for-cahn-hilliard-image-inpainting
+  category: preprint
   title: Sparse fidelity feedback and spectral design for Cahn–Hilliard image inpainting
   authors:
   - Fritz, M.
   year: 2026
   status: Submitted
 
-- category: preprint
+- id: a-gronwall-framework-for-order-perturbations-in-multi-term-fractional-differential-equations
+  category: preprint
   title: A Gronwall framework for order perturbations in multi-term fractional differential equations
   authors:
   - Fritz, M.
@@ -50,20 +55,22 @@
   authors:
   - Fritz, M.
   year: 2027
-  status: published
+  status: Published
   venue: Applied Mathematics and Computation
-  doi: 10.1016/j.amc.2026.130421
+  doi: https://doi.org/10.1016/j.amc.2026.130421
   journal: https://www.sciencedirect.com/journal/applied-mathematics-and-computation
   arxiv: https://arxiv.org/abs/2609.07938
 
-- category: preprint
+- id: on-the-well-posedness-of-the-3d-navier-stokes-equations-with-distributed-relaxation-viscosity
+  category: preprint
   title: On the well-posedness of the 3D Navier–Stokes equations with distributed relaxation viscosity
   authors:
   - Fritz, M.
   year: 2026
   status: Submitted
 
-- category: preprint
+- id: a-semiconvex-counterexample-to-energy-monotonicity-for-time-fractional-gradient-flows
+  category: preprint
   title: A semiconvex counterexample to energy monotonicity for time-fractional gradient flows
   authors:
   - Fritz, M.
@@ -71,7 +78,8 @@
   status: Preprint
   arxiv: https://arxiv.org/abs/2608.01188
 
-- category: preprint
+- id: global-weak-solutions-of-a-one-sided-degenerate-cahn-hilliard-model-for-traction-driven-digit-morphogenesis
+  category: preprint
   title: Global weak solutions of a one-sided degenerate Cahn–Hilliard model for traction-driven digit morphogenesis
   authors:
   - Fritz, M.
@@ -79,7 +87,8 @@
   status: Submitted
   arxiv: https://arxiv.org/abs/2606.10793
 
-- category: preprint
+- id: structure-preserving-discretization-and-fingering-dynamics-of-a-cahn-hilliard-model-for-traction-driven-digit-morphogenesis
+  category: preprint
   title: Structure-preserving discretization and fingering dynamics of a Cahn–Hilliard model for traction-driven digit morphogenesis
   authors:
   - Fritz, M.
@@ -99,7 +108,8 @@
   status: Submitted
   arxiv: https://arxiv.org/abs/2602.17495
 
-- category: article
+- id: high-order-conforming-finite-elements-for-the-cahn-hilliard-equation-relative-energy-stability-and-energy-defects
+  category: article
   title: 'High-order conforming finite elements for the Cahn–Hilliard equation: Relative-energy stability and energy defects'
   authors:
   - Brunk, A.
@@ -110,7 +120,8 @@
   journal: https://link.springer.com/journal/10543
   arxiv: https://arxiv.org/abs/2606.06719
 
-- category: article
+- id: unifying-local-and-nonlocal-corrosion-frameworks-a-convergent-nonlocal-extension-of-the-kks-phase-field-model
+  category: article
   title: 'Unifying local and nonlocal corrosion frameworks: A convergent nonlocal extension of the KKS phase-field model'
   authors:
   - Cyron, C.
@@ -126,7 +137,8 @@
   journal: https://www.worldscientific.com/worldscinet/m3as
   arxiv: https://arxiv.org/abs/2509.23503
 
-- category: article
+- id: rothe-time-discretization-and-weak-solutions-for-a-cutoff-westervelt-system
+  category: article
   title: Rothe time discretization and weak solutions for a cutoff Westervelt system
   authors:
   - Fritz, M.
@@ -136,7 +148,8 @@
   doi: https://doi.org/10.1002/num.70136
   journal: https://onlinelibrary.wiley.com/journal/10982426
 
-- category: article
+- id: review-of-thermodynamic-structures-and-structure-preserving-discretisations-of-cahn-hilliard-type-models
+  category: article
   title: Review of thermodynamic structures and structure-preserving discretisations of Cahn–Hilliard-type models
   authors:
   - Brunk, A.
@@ -150,7 +163,8 @@
   journal: https://link.springer.com/book/10.1007/978-3-031-86173-4
   arxiv: https://arxiv.org/abs/2602.08791
 
-- category: article
+- id: a-four-field-auxiliary-reformulation-of-a-cahn-hilliard-time-step-analysis-and-conforming-finite-element-discretization
+  category: article
   title: 'A four-field auxiliary reformulation of a Cahn–Hilliard time step: Analysis and conforming finite element discretization'
   authors:
   - Fritz, M.
@@ -161,7 +175,8 @@
   journal: https://www.global-sci.com/nmtma
   arxiv: https://arxiv.org/abs/2607.10724
 
-- category: article
+- id: a-fractional-de-rham-complex-for-coframe-attached-maxwell-equations
+  category: article
   title: A fractional de Rham complex for coframe-attached Maxwell equations
   authors:
   - Fritz, M.
@@ -171,7 +186,8 @@
   doi: https://doi.org/10.1007/s13324-026-01248-w
   arxiv: https://arxiv.org/abs/2607.09300
 
-- category: article
+- id: a-time-fractional-fisher-kpp-equation-for-tumor-growth-analysis-and-numerical-simulation
+  category: article
   title: 'A time-fractional Fisher–KPP equation for tumor growth: Analysis and numerical simulation'
   authors:
   - Fritz, M.
@@ -182,7 +198,8 @@
   doi: https://doi.org/10.1016/j.cnsns.2026.109911
   arxiv: https://arxiv.org/abs/2511.05312
 
-- category: article
+- id: on-the-well-posedness-of-a-nonlocal-kinetic-model-for-dilute-polymers-with-anomalous-diffusion
+  category: article
   title: On the well-posedness of a nonlocal kinetic model for dilute polymers with anomalous diffusion
   authors:
   - Fritz, M.
@@ -220,7 +237,8 @@
   doi: https://doi.org/10.1093/imanum/draf118
   arxiv: https://arxiv.org/abs/2504.21150
 
-- category: article
+- id: analysis-and-structure-preserving-approximation-of-a-cahn-hilliard-forchheimer-system-with-solution-dependent-mass-and-volume-source
+  category: article
   title: Analysis and structure-preserving approximation of a Cahn–Hilliard–Forchheimer system with solution-dependent mass and volume source
   authors:
   - Brunk, A.
@@ -231,7 +249,8 @@
   doi: https://doi.org/10.1051/m2an/2025081
   arxiv: https://arxiv.org/abs/2504.09739
 
-- category: article
+- id: stabilization-to-trajectories-of-nonisothermal-cahn-hilliard-equations
+  category: article
   title: Stabilization to trajectories of nonisothermal Cahn–Hilliard equations
   authors:
   - Azmi, B.
@@ -255,7 +274,8 @@
   doi: https://doi.org/10.1002/mma.10753
   arxiv: https://arxiv.org/abs/2409.01067
 
-- category: article
+- id: analysis-and-computations-of-a-stochastic-cahn-hilliard-model-for-tumor-growth-with-chemotaxis-and-variable-mobility
+  category: article
   title: Analysis and computations of a stochastic Cahn–Hilliard model for tumor growth with chemotaxis and variable mobility
   authors:
   - Fritz, M.
@@ -278,7 +298,8 @@
   doi: https://doi.org/10.1002/num.23159
   arxiv: https://arxiv.org/abs/2407.12349
 
-- category: article
+- id: on-the-well-posedness-of-the-cahn-hilliard-biot-model-and-its-applications-to-tumor-growth
+  category: article
   title: On the well-posedness of the Cahn–Hilliard–Biot model and its applications to tumor growth
   authors:
   - Fritz, M.
@@ -288,7 +309,8 @@
   doi: https://doi.org/10.3934/dcdss.2024186
   arxiv: https://arxiv.org/abs/2310.07050
 
-- category: article
+- id: well-posedness-and-simulation-of-weak-solutions-to-the-time-fractional-fokker-planck-equation-with-general-forcing
+  category: article
   title: Well-posedness and simulation of weak solutions to the time-fractional Fokker–Planck equation with general forcing
   authors:
   - Fritz, M.
@@ -298,7 +320,8 @@
   doi: https://doi.org/10.3934/dcdsb.2024036
   arxiv: https://arxiv.org/abs/2307.16615
 
-- category: article
+- id: analysis-of-a-dilute-polymer-model-with-a-time-fractional-derivative
+  category: article
   title: Analysis of a dilute polymer model with a time-fractional derivative
   authors:
   - Fritz, M.
@@ -310,7 +333,8 @@
   doi: https://doi.org/10.1137/23M1590767
   arxiv: https://arxiv.org/abs/2307.16606
 
-- category: article
+- id: a-phase-field-model-for-non-small-cell-lung-cancer-under-the-effects-of-immunotherapy
+  category: article
   title: A phase-field model for non-small cell lung cancer under the effects of immunotherapy
   authors:
   - Wagner, A.
@@ -337,7 +361,8 @@
   doi: https://doi.org/10.1007/s11538-023-01151-6
   arxiv: https://arxiv.org/abs/2303.10968
 
-- category: article
+- id: equivalence-between-a-time-fractional-and-an-integer-order-gradient-flow-the-memory-effect-reflected-in-the-energy
+  category: article
   title: 'Equivalence between a time-fractional and an integer-order gradient flow: The memory effect reflected in the energy'
   authors:
   - Fritz, M.
@@ -365,7 +390,8 @@
   doi: https://doi.org/10.1002/cnm.3612
   arxiv: https://arxiv.org/abs/2201.05392
 
-- category: article
+- id: time-fractional-cahn-hilliard-equation-well-posedness-degeneracy-and-numerical-solutions
+  category: article
   title: 'Time-fractional Cahn–Hilliard equation: Well-posedness, degeneracy, and numerical solutions'
   authors:
   - Fritz, M.
@@ -377,7 +403,8 @@
   doi: https://doi.org/10.1016/j.camwa.2022.01.002
   arxiv: https://arxiv.org/abs/2104.03096
 
-- category: article
+- id: on-a-subdiffusive-tumour-growth-model-with-fractional-time-derivative
+  category: article
   title: On a subdiffusive tumour growth model with fractional time derivative
   authors:
   - Fritz, M.
@@ -391,7 +418,8 @@
   doi: https://doi.org/10.1093/imamat/hxab009
   arxiv: https://arxiv.org/abs/2006.10670
 
-- category: article
+- id: modeling-and-simulation-of-vascular-tumors-embedded-in-evolving-capillary-networks
+  category: article
   title: Modeling and simulation of vascular tumors embedded in evolving capillary networks
   authors:
   - Fritz, M.
@@ -406,7 +434,8 @@
   doi: https://doi.org/10.1016/j.cma.2021.113975
   arxiv: https://arxiv.org/abs/2101.10183
 
-- category: article
+- id: analysis-of-a-new-multispecies-tumor-growth-model-coupling-3d-phase-fields-with-a-1d-vascular-network
+  category: article
   title: Analysis of a new multispecies tumor growth model coupling 3D phase fields with a 1D vascular network
   authors:
   - Fritz, M.
@@ -420,7 +449,8 @@
   doi: https://doi.org/10.1016/j.nonrwa.2021.103331
   arxiv: https://arxiv.org/abs/2006.10477
 
-- category: article
+- id: local-and-nonlocal-phase-field-models-of-tumor-growth-and-invasion-due-to-ecm-degradation
+  category: article
   title: Local and nonlocal phase-field models of tumor growth and invasion due to ECM degradation
   authors:
   - Fritz, M.
@@ -434,7 +464,8 @@
   doi: https://doi.org/10.1142/S0218202519500519
   arxiv: https://arxiv.org/abs/1906.07788
 
-- category: article
+- id: on-the-unsteady-darcy-forchheimer-brinkman-equation-in-local-and-nonlocal-tumor-growth-models
+  category: article
   title: On the unsteady Darcy–Forchheimer–Brinkman equation in local and nonlocal tumor growth models
   authors:
   - Fritz, M.
@@ -447,7 +478,8 @@
   doi: https://doi.org/10.1142/S0218202519500325
   arxiv: https://arxiv.org/abs/1812.08872
 
-- category: article
+- id: well-posedness-and-numerical-treatment-of-the-blackstock-equation-in-nonlinear-acoustics
+  category: article
   title: Well-posedness and numerical treatment of the Blackstock equation in nonlinear acoustics
   authors:
   - Fritz, M.
@@ -458,3 +490,4 @@
   venue: Mathematical Models and Methods in Applied Sciences
   doi: https://doi.org/10.1142/S0218202518500550
   arxiv: https://arxiv.org/abs/1806.05227
+

@@ -17,13 +17,14 @@ Edit only `_data/publications.yml`. Both publication lists on the homepage are
 generated from this file; there is no separate author file to keep in sync.
 Paper numbers are generated on the webpage only, never stored in the data file.
 
-Each paper needs a `category` (`preprint` or `article`), `title`, `year`, `status`,
+Each paper needs a permanent `id`, a `category` (`preprint` or `article`), `title`, `year`, `status`,
 and the complete `authors` list, including M. Fritz, in publication order. Store
 each author as `Family name, Initials`; the page displays initials first. This
 also keeps compound surnames such as `Di Primio` and `ten Eikelder` intact.
 
 ```yaml
-- category: article
+- id: example-paper
+  category: article
   title: Example paper
   authors:
   - Brunk, A.
@@ -51,9 +52,25 @@ and add its `venue` and available `journal` or `doi` link. The status is display
 alongside the year. Set `status: Published` once published.
 
 Optional links are `doi`, `journal`, `arxiv`, and `preprint` (for other hosts).
-An optional descriptive `id` provides a stable `#pub-<id>` link for research
-figures; otherwise the anchor is generated from the title. Keep existing IDs
-when changing a title. Images belong in the research section, not paper records.
+Every paper has a permanent `id` that provides its `#pub-<id>` anchor. Keep this
+ID unchanged when updating a title, year, or publication category. Images belong
+in the research section, not paper records.
+
+## Research references
+
+Edit `_data/research_papers.yml` to select papers for each research topic. Each
+list contains paper IDs from `_data/publications.yml`, never display numbers.
+A paper may appear under more than one topic. The selected references are shown
+in bibliography order, with automatically generated numbers and clickable links.
+The bibliography and research references share `_includes/publication-list.html`,
+so their numbering stays in sync when papers are added, reordered, or accepted.
+Hovering a reference shows its title; following it highlights the paper.
+
+To add a new topic, add its ID list and include it below the topic description:
+
+```liquid
+{% include research-references.html topic="structure-preserving" %}
+```
 
 ## Page-specific mathematics
 
@@ -85,3 +102,4 @@ be recovered from Git history instead of keeping unused copies in the site.
 After building, `bundle exec ruby test/assets_test.rb` checks the generated
 HTML, CSS, sharing metadata, manifest, and browser configuration for missing
 local images, scripts, stylesheets, and fonts.
+

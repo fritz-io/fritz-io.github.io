@@ -23,6 +23,9 @@ class PublicationsTest < Minitest::Test
 
   def test_data_is_complete_and_contains_only_used_fields
     allowed = %w[id category title authors year status venue doi journal arxiv preprint]
+    ids = @papers.map { |paper| paper.fetch("id") }
+    assert_equal ids.uniq, ids
+    ids.each { |id| assert_match(/\A[a-z0-9]+(?:-[a-z0-9]+)*\z/, id) }
     @papers.each do |paper|
       assert_empty paper.keys - allowed, paper["title"]
       assert_includes %w[article preprint], paper["category"]
@@ -63,20 +66,26 @@ class PublicationsTest < Minitest::Test
     assert_equal (1..total).to_a, numbers(@page).sort
   end
 
-  def test_accepted_paper_has_year_and_status_in_articles
-    entry = @page.at_css("#refereed-articles #pub-subdiffusive-grain-growth")
-    refute_nil entry
-    source = text(entry.at_css(".publication-entry__source"))
-    assert_includes source, "Applied Mathematics and Computation"
-    assert_includes source, "2026"
-    assert_includes source, "To appear"
-    refute_nil entry.at_css("a[href='https://www.sciencedirect.com/journal/applied-mathematics-and-computation']")
+  def test_article_sources_match_current_publication_data
+    @papers.select { |paper| paper["category"] == "article" }.each do |paper|
+      entry = @page.at_css("#refereed-articles #pub-#{paper.fetch('id')}")
+      refute_nil entry
+      source = text(entry.at_css(".publication-entry__source"))
+      assert_includes source, paper.fetch("venue")
+      assert_includes source, paper.fetch("year").to_s
+      if paper["status"] == "Published"
+        refute_includes source, "Published"
+      else
+        assert_includes source, paper.fetch("status")
+      end
+      assert_equal paper["doi"] || paper["journal"], entry.at_css(".publication-entry__source a")["href"]
+    end
   end
 
   def test_research_links_resolve_and_publication_anchors_are_unique
     ids = @page.css(".publication-entry").map { |entry| entry["id"] }
     assert_equal ids.uniq, ids
-    links = @page.css(".research-gallery a[href^='#pub-']")
+    links = @page.css("#research a[href^='#pub-']")
     refute_empty links
     links.each { |link| assert_includes ids, link["href"].delete_prefix("#") }
     assert_empty @page.css("a[href^='#pub']").reject { |link| link["href"].start_with?("#pub-", "#publications") }
@@ -86,6 +95,62 @@ class PublicationsTest < Minitest::Test
     link = @page.at_css(".publication-entry a[href='https://doi.org/10.13140/RG.2.2.25976.00007']")
     refute_nil link
     assert_equal "Preprint", text(link)
+  end
+
+  def test_every_research_topic_has_valid_numbered_references
+    topics = YAML.safe_load(File.read(File.join(ROOT, "_data/research_papers.yml")))
+    ids = @papers.map { |paper| paper.fetch("id") }
+    areas = @page.css(".research-area")
+    assert_equal topics.size, areas.size
+    areas.each { |area| assert_equal 1, area.css(".research-references").size }
+    assert_equal topics.keys.sort, @page.css(".research-references").map { |node| node["data-research-topic"] }.sort
+    topics.each do |topic, selected_ids|
+      refute_empty selected_ids
+      assert_equal selected_ids.uniq, selected_ids
+      assert_empty selected_ids - ids
+      references = @page.at_css(".research-references[data-research-topic='#{topic}']")
+      links = references.css("a")
+      assert_equal selected_ids.sort, links.map { |link| link["href"].delete_prefix("#pub-") }.sort
+      assert_equal "Selected papers: [#{links.map { |link| text(link) }.join(', ')}]", text(references)
+      links.each do |link|
+        entry = @page.at_css(link["href"])
+        refute_nil entry
+        number = text(entry.at_css(".publication-entry__number")).delete("[]")
+        title = text(entry.at_css(".publication-entry__title strong"))
+        assert_equal number, text(link)
+        assert_equal title, link["title"]
+        assert_equal "Publication #{number}: #{title}", link["aria-label"]
+      end
+    end
+  end
+
+  def test_references_follow_papers_when_numbering_changes
+    site = Jekyll::Site.new(Jekyll.configuration("source" => ROOT, "plugins" => [], "quiet" => true))
+    records = [
+      {"id" => "older", "title" => "Older article", "year" => 2023, "category" => "article"},
+      {"id" => "newer", "title" => "Newer article", "year" => 2024, "category" => "article"},
+      {"id" => "preprint", "title" => "A preprint", "year" => 2025, "category" => "preprint"}
+    ].map { |paper| paper.merge("authors" => ["Fritz, M."]) }
+    site.data["research_papers"] = {"example" => %w[older preprint]}
+    check = lambda do |expected|
+      site.data["publications"] = records.shuffle(random: Random.new(42))
+      template = Liquid::Template.parse('{% include research-references.html topic="example" %}<div id="bibliography">{% include publication-list.html category="preprint" %}{% include publication-list.html category="article" %}</div>')
+      page = Nokogiri::HTML.fragment(template.render!(site.site_payload, registers: {site: site}))
+      links = page.css(".research-references a")
+      assert_equal expected, links.to_h { |link| [link["href"], text(link).to_i] }
+      links.each do |link|
+        entry = page.at_css(link["href"])
+        refute_nil entry
+        assert_equal text(entry.at_css(".publication-entry__number")).delete("[]"), text(link)
+      end
+    end
+    check.call({"#pub-preprint" => 3, "#pub-older" => 1})
+    records << {"id" => "oldest", "title" => "Oldest article", "year" => 2020, "category" => "article", "authors" => ["Fritz, M."]}
+    check.call({"#pub-preprint" => 4, "#pub-older" => 2})
+    records[2]["category"] = "article"
+    records[2]["year"] = 2022
+    records[2]["title"] = "Revised title after acceptance"
+    check.call({"#pub-older" => 3, "#pub-preprint" => 2})
   end
 
   def test_sorting_is_independent_of_record_order
@@ -147,3 +212,4 @@ class PublicationsTest < Minitest::Test
     check_numbers.call([5, 4, 3, 2, 1], [])
   end
 end
+
