@@ -19,12 +19,13 @@
     document.documentElement.className.replace(/\bno-js\b/g, "") + " js";
 </script>
 
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" id="theme-source">
+{% assign stylesheet_version = site.time | date: '%s' %}
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v={{ stylesheet_version }}" id="theme-source">
 
 {% if site.minimal_mistakes_skin2 %}
 <link
   rel="stylesheet alternate"
-  href="{{ '/assets/css/theme2.css' | relative_url }}"
+  href="{{ '/assets/css/theme2.css' | relative_url }}?v={{ stylesheet_version }}"
   id="theme-source-dark">
 
 <script>
