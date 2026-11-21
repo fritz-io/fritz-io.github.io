@@ -146,8 +146,10 @@ figure {
   font-variant-numeric: tabular-nums;
 }
 
-.publication-entry:target {
-  outline: 2px solid $link-color;
+.publication-entry:target,
+.publication-entry:focus {
+  /* SmoothScroll focuses the entry and adds an inline outline: none. */
+  outline: 2px solid $link-color !important;
   outline-offset: 0.3rem;
   border-radius: $border-radius;
 }
